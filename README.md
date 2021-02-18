@@ -7,3 +7,5 @@ A collection of Wizard101 information I thought could be useful for someone.
 `monstrology/monsters.csv`: information for every monstrology creature including those impossible to get in game. The locations are not as accurate as I wish and slightly buggy for multiple locations.
 
 `pets/talent-priority`: talent priorities for pet talents and derby abilities. Basically "Project O" but complete, by a single person in five minutes.
+
+**Please notify me of any bugs or corrections that are not already documented!**
