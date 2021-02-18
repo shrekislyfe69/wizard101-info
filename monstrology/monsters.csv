@@ -1,0 +1,1072 @@
+Name,Type,Rank,Primary School,Secondary School,World,Zone,Collection Resistance,Boss,Summon Animus,Summon Gold,Guest Animus,Guest Gold,Kill Animus,Kill Gold
+Wailing Wraith,Undead,3,Death,-,Wizard City,Aeriel Shore OR Rubal Wastes OR Sunken City OR Zruvan Grotto,1,No,6,500,15,1500,15,2000
+Scarlet Screamer,Undead,2,Myth,-,Wizard City,Crescent Beach OR Lake Shore OR Rubal Wastes OR Ruined Alcazar OR Triton Avenue,0,No,6,500,15,1500,15,2000
+Melweena Smite,Undead,3,Death,-,Wizard City,Aeriel Shore OR Forlorn Tower OR Radiance Reborn OR Ruined Alcazar,0,Yes,20,1000,30,2500,25,3000
+Bastilla Gravewynd,Undead,3,Death,-,Wizard City,Bastilla's Bastion,0,Yes,20,1000,30,2500,25,3000
+Cyclops Legionnaire,Cyclops,2,Myth,-,Wizard City,  OR Akilles Keep OR Cyclops Lane,0,No,10,500,20,1500,15,2000
+Eyus Maximus,Cyclops,2,Myth,-,Wizard City,Eyus Maximus,0,Yes,20,1000,30,2500,25,3000
+General Akilles,Cyclops,2,Myth,-,Wizard City,Akilles Keep,0,Yes,20,1000,30,2500,25,3000
+Fire Shrieker,Undead,7,Fire,-,Dungeons,Briskbreeze Tower,0,No,10,500,20,1500,15,2000
+Frost Phantom,Undead,6,Ice,-,Dungeons,Briskbreeze Tower,0,No,10,500,20,1500,15,2000
+Viridian Specter,Undead,8,Balance,-,Dungeons,Briskbreeze Tower,0,No,10,500,20,1500,15,2000
+Crypt Crawler,Undead,7,Myth,-,Dungeons,Briskbreeze Tower,0,No,10,500,20,1500,15,2000
+Steel Sentinel,Golem,8,Storm,-,Dungeons,Briskbreeze Tower,0,No,10,500,20,1500,15,2000
+Angrus Hollowsoul,Undead,8,Fire,-,Dungeons,Briskbreeze Tower,0,Yes,20,1000,30,2500,25,3000
+Argent Clatterer,Undead,7,Life,-,Dungeons,Briskbreeze Tower,0,No,10,500,20,1500,15,2000
+Orrick Nightglider,Undead,8,Death,-,Dungeons,Briskbreeze Tower,0,Yes,20,1000,30,2500,25,3000
+Lost Soul,Undead,1,Death,-,Wizard City,Ahnic Tomb Tower OR Ruined Alcazar OR Triton Avenue OR Unicorn Way,0,No,6,500,15,1500,15,2000
+Haunted Minion,Undead,1,Balance,-,Wizard City,Forlorn Tower OR Sapphyra's Tower OR Triton Avenue,0,No,6,500,15,1500,15,2000
+Wandering Specter,Undead,3,Myth,-,Wizard City,Sunken City,0,No,10,500,20,1500,15,2000
+Lady Blackhope,Undead,2,Life,-,Wizard City,Blackhope Tower,0,Yes,20,1000,30,2500,25,3000
+Foulgaze,Undead,3,Death,-,Wizard City,Sapphyra's Tower,0,Yes,20,1000,30,2500,25,3000
+Paulson,Undead,3,Death,-,Wizard City,Sunken City,0,Yes,20,1000,30,2500,25,3000
+Rotting Fodder,Undead,2,Storm,-,Wizard City,Dark Cave OR Haunted Cave OR Ravenwood OR Triton Avenue,0,No,6,500,15,1500,15,2000
+Wormguts,Undead,2,Death,-,Wizard City,Wormguts Stronghold,0,Yes,20,1000,30,2500,25,3000
+Grubb,Undead,3,Death,-,Wizard City,Sunken City,0,Yes,20,1000,30,2500,25,3000
+Prince Gobblestone,Gobbler,3,Balance,-,Wizard City,Gobblestone Castle,0,Yes,20,1000,30,2500,25,3000
+Gobbler Gorger,Gobbler,2,Balance,-,Wizard City,Colossus Boulevard OR Gobblestone Castle,0,No,10,500,20,1500,15,2000
+Gobbler Scouter,Gobbler,2,Balance,-,Wizard City,Colossus Boulevard OR Gobblestone Castle,0,No,10,500,20,1500,15,2000
+Baron Greebly,Gobbler,3,Life,-,Wizard City,Greebly's Garrison,0,Yes,20,1000,30,2500,25,3000
+Gobbler Scavenger,Gobbler,2,Life,-,Wizard City,Colossus Boulevard OR Greebly's Garrison,0,No,10,500,20,1500,15,2000
+Baron Rotunda,Gobbler,3,Ice,-,Wizard City,Rotunda Chateau,0,Yes,20,1000,30,2500,25,3000
+Gobbler Glutton,Gobbler,3,Ice,-,Wizard City,Colossus Boulevard OR Rotunda Chateau,0,No,10,500,20,1500,15,2000
+Gobbler Muncher,Gobbler,2,Ice,-,Wizard City,Colossus Boulevard OR Greebly's Garrison,0,No,10,500,20,1500,15,2000
+Clockwork Golem,Golem,1,Life,-,Wizard City,Golem Court,0,No,10,500,20,1500,15,2000
+Iron Golem,Golem,2,Storm,-,Wizard City,Golem Court,0,No,10,500,20,1500,15,2000
+Wooden Construct,Golem,1,Balance,-,Wizard City,Golem Court,0,No,10,500,20,1500,15,2000
+Living Scarecrow,Undead,3,Fire,-,Wizard City,Sunken City,0,No,10,500,20,1500,15,2000
+Field Guard,Undead,2,Storm,-,Wizard City,Caretaker's Tower OR Haunted Cave OR Nightshade's Tower OR Sapphyra's Tower,0,No,6,500,15,1500,15,2000
+The Harvest Lord,Undead,3,Fire,-,Wizard City,Triton Avenue,0,Yes,20,1000,30,2500,25,3000
+Sergeant Skullsplitter,Undead,2,Death,-,Wizard City,Skull Fort,0,Yes,20,1000,30,2500,25,3000
+Norton,Undead,3,Balance,-,Wizard City,Sunken City,0,Yes,20,1000,30,2500,25,3000
+Skeletal Pirate,Undead,1,Death,-,Wizard City,Unicorn Way,0,No,6,500,15,1500,15,2000
+Skeletal Warrior,Undead,2,Ice,-,Wizard City,Dark Cave OR Firecat Alley OR Wormguts Stronghold,0,No,6,500,15,1500,15,2000
+Rattlebones,Undead,1,Death,-,Wizard City,The Archives,0,No,10,500,20,1500,15,2000
+Lord Nightshade,Undead,3,Death,-,Wizard City,Nightshade's Tower,0,Yes,20,1000,30,2500,25,3000
+Elite Cyclops Guard,Cyclops,7,Myth,-,Aquila,Mount Olympus,0,No,10,500,20,1500,15,2000
+Anguished Woodman,Treant,12,Fire,-,Aquila,Tartarus,0,No,10,500,20,1500,15,2000
+Carthaginian Elephant Warrior,Elephant,7,Fire,-,Aquila,Mount Olympus,0,No,10,500,20,1500,15,2000
+Night Imp,Imp,12,Myth,-,Aquila,Tartarus,0,No,10,500,20,1500,15,2000
+Boatswain McGee,Undead,11,Life,-,Aquila,Atlantea,0,No,10,500,20,1500,15,2000
+Chief Mate McGurk,Undead,11,Death,-,Aquila,Atlantea,0,No,10,500,20,1500,15,2000
+Doomed Bones,Undead,12,Ice,-,Aquila,Mount Olympus OR Tartarus,0,No,10,500,20,1500,15,2000
+Lost Maiden,Undead,11,Balance,-,Aquila,Atlantea,0,Yes,20,1000,30,2500,25,3000
+Disloyal Knight,Undead,12,Balance,-,Avalon,Ghost Avalon OR The Wyrd,0,No,10,500,20,1500,15,2000
+Drowned Knight,Undead,12,Death,-,Avalon,Deepwater,0,Yes,20,1000,30,2500,25,3000
+Tarn the Drowned,Undead,12,Myth,-,Avalon,Deepwater,0,Yes,20,1000,30,2500,25,3000
+Lord of the Brocken,Undead,11,Storm,-,Avalon,The Wyrd,0,Yes,20,1000,30,2500,25,3000
+Pendragon,Undead OR Wyrm,12,Death,-,Avalon,Keep of Ganelon,0,Yes,20,1000,30,2500,25,3000
+Nameless Knight,Undead,12,Storm,-,Avalon,The Wyrd,0,Yes,20,1000,30,2500,25,3000
+Spectre of the Brocken,Undead,11,Death,-,Avalon,The Wild OR The Wyrd,0,No,10,500,20,1500,15,2000
+Lambent Fire,Undead,11,Fire,-,Avalon,Crystal Caves,0,Yes,20,1000,30,2500,25,3000
+Tormented Treant,Treant,11,Life,-,Avalon,The Wyrd,0,No,10,500,20,1500,15,2000
+Wildfire Treant,Treant,11,Fire,-,Avalon,The Wild,0,No,10,500,20,1500,15,2000
+Bane Wyrm,Wyrm,11,Death,-,Avalon,Caliburn,0,Yes,20,1000,30,2500,25,3000
+Black Dragon,Wyrm,12,Myth,-,Avalon,Crystal Caves,0,Yes,20,1000,30,2500,25,3000
+Dragon Spawn,Wyrm,12,Fire,-,Avalon,Crystal Caves,0,No,10,500,20,1500,15,2000
+Fire-Spitter Spawn,Wyrm,11,Fire,-,Avalon,High Road,0,No,10,500,20,1500,15,2000
+Caoranach the Fire-Spitter,Wyrm,11,Fire,-,Avalon,High Road,0,Yes,20,1000,30,2500,25,3000
+Jabberwock,Wyrm,11,Fire,-,Avalon,High Road,0,Yes,20,1000,30,2500,25,3000
+Catalan the Lightning Lizard,Wyrm,12,Storm,-,Avalon,Dun Dara,0,Yes,20,1000,30,2500,25,3000
+White Dragon,Wyrm,12,Ice,-,Avalon,Crystal Caves,0,Yes,20,1000,30,2500,25,3000
+Winter Wyrm,Wyrm,12,Ice,-,Avalon,The Wild,0,Yes,20,1000,30,2500,25,3000
+Storm Caiman,Undead,13,Storm,-,Azteca,Saltmeadow Swamp,0,Yes,20,1000,30,2500,25,3000
+Grinning Death Moon,Undead,13,Storm,-,Azteca,Pitch Black Lake,0,Yes,20,1000,30,2500,25,3000
+Grim Calaca,Undead,13,Ice,-,Azteca,Cenote OR Pitch Black Lake OR Twin Giants OR Xibalba,0,No,10,500,20,1500,15,2000
+El Marrow,Undead,13,Death,-,Azteca,Twin Giants,0,Yes,20,1000,30,2500,25,3000
+Xipe Flayed One,Undead,13,Storm,-,Azteca,Xibalba,0,Yes,20,1000,30,2500,25,3000
+Belloq,Elephant,13,Balance,-,Azteca,Twin Giants,0,Yes,20,1000,30,2500,25,3000
+Belloq,Elephant,12,Balance,-,Azteca,Three Points,0,Yes,20,1000,30,2500,25,3000
+Malistaire the Undying,Undead,13,Death,-,Azteca,Xibalba,0,Yes,20,1000,30,2500,25,3000
+Ozel Underwater Cat,Undead,13,Life,-,Azteca,Pitch Black Lake,0,Yes,20,1000,30,2500,25,3000
+Moon Skull Zombie,Undead,12,Life,-,Azteca,Cenote OR Three Points OR Tierra de Brea,0,No,10,500,20,1500,15,2000
+Moon Skull Wight,Undead,12,Storm,-,Azteca,Three Points OR Xibalba,0,No,10,500,20,1500,15,2000
+Poca Cruel Star,Undead,12,Storm,-,Azteca,Mangrove Marsh,0,Yes,20,1000,30,2500,25,3000
+Uacalxochitl Blood Eye,Undead,12,Death,-,Azteca,Mangrove Marsh,0,Yes,20,1000,30,2500,25,3000
+Anacaona Black Snake,Undead,12,Death,-,Azteca,Mangrove Marsh,0,Yes,20,1000,30,2500,25,3000
+Motecuma Death Mask,Undead,12,Life,-,Azteca,Cenote,0,Yes,20,1000,30,2500,25,3000
+Shambling Zombie,Undead,12,Storm,-,Azteca,???,0,No,10,500,20,1500,15,2000
+Caquix Nine Shadows,Parrot,12,Death,-,Azteca,Hall of Plumage,0,Yes,20,1000,30,2500,25,3000
+Lustrous Tlalocan,Parrot,13,Life,-,Azteca,Tierra de Brea,0,Yes,20,1000,30,2500,25,3000
+Seed Thief,Parrot,12,Life,-,Azteca,Zultun Dock,0,No,10,500,20,1500,15,2000
+Obsidian Beak,Parrot,12,Balance,-,Azteca,Hall of Plumage OR Mangrove Marsh,0,No,10,500,20,1500,15,2000
+Splinter Wing,Parrot,12,Ice,-,Azteca,Cloudburst Forest,0,No,10,500,20,1500,15,2000
+Chantico Blue Air,Parrot,13,Ice,-,Azteca,Zultun Dock,0,Yes,20,1000,30,2500,25,3000
+Copper Wing Guard,Parrot,12,Fire,-,Azteca,Zultun Dock,0,No,10,500,20,1500,15,2000
+PopZotz Unlucky Day,Parrot,13,Balance,-,Azteca,Cloudburst Forest,0,Yes,20,1000,30,2500,25,3000
+Mazen Stinger Bee,Parrot,12,Fire,-,Azteca,Zultun Dock,0,Yes,20,1000,30,2500,25,3000
+Neza the Poet,Parrot OR Undead,13,Myth,-,Azteca,Pitch Black Lake,0,Yes,20,1000,30,2500,25,3000
+Smoking Mirror Zombie,Undead,12,Fire,-,Azteca,Cenote OR Pitch Black Lake OR Swamp Clearing,0,No,10,500,20,1500,15,2000
+Smoking Mirror Wight,Undead,12,Balance,-,Azteca,Pitch Black Lake,0,No,10,500,20,1500,15,2000
+Azcal Fire Ant,Undead,12,Fire,-,Azteca,Cenote,0,Yes,20,1000,30,2500,25,3000
+Xiuhcoatl Barbed Tooth,Undead,12,Storm,-,Azteca,Swamp Clearing,0,Yes,20,1000,30,2500,25,3000
+Acampi Reedfist,Undead,13,Fire,-,Azteca,Cenote,0,Yes,20,1000,30,2500,25,3000
+Starfall Spider,Spider,13,Balance,-,Azteca,Alto Alto,0,No,10,500,20,1500,15,2000
+Blighted Yaxche,Treant,13,Myth,-,Azteca,Cloudburst Forest,0,Yes,20,1000,30,2500,25,3000
+Nauyotol Down In the Hole,Undead,13,Death,-,Azteca,Pitch Black Lake,0,Yes,20,1000,30,2500,25,3000
+Youala Night Drinker,Undead,13,Ice,-,Azteca,Xibalba,0,Yes,20,1000,30,2500,25,3000
+Thunder Horn Zombie,Undead,12,Ice,-,Azteca,Cenote OR Mangrove Marsh OR Pitch Black Lake OR Three Points,0,No,10,500,20,1500,15,2000
+Thunder Horn Ghoul,Undead,12,Death,-,Azteca,Cenote OR Mangrove Marsh OR Tierra de Brea,0,No,10,500,20,1500,15,2000
+Ezhua Bad Taste,Undead,13,Death,-,Azteca,Tierra de Brea,0,Yes,20,1000,30,2500,25,3000
+Guillermo Shatterer,Undead,12,Ice,-,Azteca,Cenote,0,Yes,20,1000,30,2500,25,3000
+Mozar Turtle Hunter,Undead,12,Life,-,Azteca,Mangrove Marsh,0,Yes,20,1000,30,2500,25,3000
+Marcio,Undead,10,Ice,-,Celestia,Stormriven,0,Yes,20,1000,30,2500,25,3000
+Selwyn Skywatcher,Undead,10,Moon,-,Celestia,The Stellarium,0,Yes,20,1000,30,2500,25,3000
+Narallor Nightborn,Undead,10,Moon,-,Celestia,Stormriven,0,Yes,20,1000,30,2500,25,3000
+Celestian Remnant,Undead,10,Star,-,Celestia,Stormriven OR The Lunarium,0,No,10,500,20,1500,15,2000
+Rubble Rouser,Colossus,10,Life,-,Celestia,The Floating Land,0,No,10,500,20,1500,15,2000
+Yogash,Undead,10,Storm,-,Celestia,Stormriven,0,Yes,20,1000,30,2500,25,3000
+Thunderfin,Undead,10,Storm,-,Celestia,Stormriven,0,Yes,20,1000,30,2500,25,3000
+Hydro-Mech,Golem,9,Ice,-,Celestia,Amphibaton's Asylum OR Crystal Reactor OR Science Center,0,No,10,500,20,1500,15,2000
+Water-Maton,Golem,9,Life,-,Celestia,Conservatory OR Science Center,0,No,10,500,20,1500,15,2000
+Amphibaton,Golem,10,Ice,-,Celestia,Amphibaton's Asylum,0,Yes,20,1000,30,2500,25,3000
+Aqua-Bot,Golem,9,Fire,-,Celestia,Crystal Reactor OR Science Center,0,No,10,500,20,1500,15,2000
+Maglump,Golem,10,Fire,-,Celestia,Crystal Reactor,0,Yes,20,1000,30,2500,25,3000
+Steam Valet,Golem,9,Life,-,Celestia,Conservatory OR Crystal Tower OR Gate Control Room OR Science Center,0,No,10,500,20,1500,15,2000
+Praxus,Golem,10,Myth,-,Celestia,Crystal Tower,0,Yes,20,1000,30,2500,25,3000
+Steam Wincher,Golem,9,Myth,-,Celestia,Crystal Tower OR Science Center,0,No,10,500,20,1500,15,2000
+Steam Troweller,Golem,9,Balance,-,Celestia,Conservatory OR Gate Control Room OR Science Center OR Talos's Tower,0,No,10,500,20,1500,15,2000
+Arachtus Duskweb,Undead,10,Death,-,Celestia,Duskweb's Barracks,0,Yes,20,1000,30,2500,25,3000
+Sea-Booter,Undead,9,Ice,-,Celestia,Calypso's Cavern OR Crustacean Empire,0,No,10,500,20,1500,15,2000
+Unimatus,Golem,10,Myth,-,Celestia,The Stellarium,0,Yes,20,1000,30,2500,25,3000
+Procyon,Golem OR Undead,10,Myth,-,Celestia,Stormriven,0,Yes,20,1000,30,2500,25,3000
+Selenor,Golem,10,Moon,-,Celestia,The Lunarium,0,Yes,20,1000,30,2500,25,3000
+Lunar Protector,Golem,9,Moon,-,Celestia,The Stellarium OR Trial of the Spheres,0,No,10,500,20,1500,15,2000
+Lunar Protector,Golem,9,Moon,-,Celestia,Trial of the Spheres,0,No,10,500,20,1500,15,2000
+Lunar Protector,Golem,9,Moon,-,Celestia,Trial of the Spheres,0,No,10,500,20,1500,15,2000
+Lunar Protector,Golem,9,Moon,-,Celestia,The Stellarium OR Trial of the Spheres,0,No,10,500,20,1500,15,2000
+Stellar Protector,Golem,9,Star,-,Celestia,Sanctum of the Sun OR Trial of the Spheres,0,Yes,20,1000,30,2500,25,3000
+Stellar Protector,Golem,9,Star,-,Celestia,District of the Stars OR The Chancel OR The Lunarium OR The Portico OR The Stellarium OR Trial of the Spheres,0,No,10,500,20,1500,15,2000
+Axenos,Golem,9,Balance,-,Celestia,Hall of Congruencies,0,Yes,20,1000,30,2500,25,3000
+Karolak Nightspinner,Undead,10,Fire,-,Celestia,Sorcerer's Sanctum,0,Yes,20,1000,30,2500,25,3000
+Tangleroot,Treant,10,Life,-,Celestia,Tangleroot's Grove,0,Yes,20,1000,30,2500,25,3000
+Junglethorn,Treant,9,Death,-,Celestia,Tangleroot's Grove OR The Floating Land,0,No,10,500,20,1500,15,2000
+Queen Calypso,Undead,10,Death,-,Celestia,Calypso's Cavern,0,Yes,20,1000,30,2500,25,3000
+Blue Bart,Undead,10,Life,-,Celestia,Crustacean Empire,0,Yes,20,1000,30,2500,25,3000
+Thrale Bonestriker,Undead,10,Fire,-,Celestia,The Portico,0,No,10,500,20,1500,15,2000
+Servus Bloodsword,Undead,10,Myth,-,Celestia,The Portico,0,No,10,500,20,1500,15,2000
+Shadow-Web Conscript,Undead,9,Ice,-,Celestia,Duskweb's Barracks OR Sorcerer's Sanctum OR Stormriven OR Stormriven Hall OR The Lunarium OR The Portico,0,No,10,500,20,1500,15,2000
+Vorgen Soulbreaker,Undead,10,Storm,-,Celestia,The Portico,0,No,10,500,20,1500,15,2000
+Shadow-Web Mercenary,Undead,10,Death,-,Celestia,Duskweb's Barracks OR Stormriven OR Stormriven Hall,0,No,10,500,20,1500,15,2000
+Mahon Starsearcher,Undead,15,Balance,-,Celestia,District of the Stars,0,Yes,20,1000,30,2500,25,3000
+Brulee Sucre,Wyrm,3,Life,-,Dungeons,Grand Tourney Arena,0,Yes,20,1000,30,2500,25,3000
+Brulee Sucre,Wyrm,5,Life,-,Dungeons,Grand Tourney Arena,0,Yes,20,1000,30,2500,25,3000
+Brulee Sucre,Wyrm,11,Life,-,Dungeons,Grand Tourney Arena,0,Yes,20,1000,30,2500,25,3000
+Brulee Sucre,Wyrm,12,Life,-,Dungeons,Grand Tourney Arena,0,Yes,20,1000,30,2500,25,3000
+Brulee Sucre,Wyrm,2,Life,-,Dungeons,Grand Tourney Arena,0,Yes,20,1000,30,2500,25,3000
+Night Shadow,Undead,4,Fire,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Night Shadow,Undead,5,Fire,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Night Shadow,Undead,11,Fire,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Night Shadow,Undead,12,Fire,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Night Shadow,Undead,3,Fire,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Night Shadow,Undead,4,Ice,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Night Shadow,Undead,5,Ice,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Night Shadow,Undead,11,Ice,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Night Shadow,Undead,12,Ice,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Night Shadow,Undead,3,Ice,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Motley Crew,Undead,3,Death,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Motley Crew,Undead,4,Death,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Motley Crew,Undead,10,Death,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Motley Crew,Undead,11,Death,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Motley Crew,Undead,1,Death,-,Dungeons,Baddle of the Bands,0,No,10,500,20,1500,15,2000
+Dead Beets,Undead,3,Death,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Dead Beets,Undead,5,Death,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Dead Beets,Undead,11,Death,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Dead Beets,Undead,12,Death,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Dead Beets,Undead,2,Death,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Desparagus,Undead,3,Life,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Desparagus,Undead,5,Life,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Desparagus,Undead,11,Life,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Desparagus,Undead,12,Life,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Desparagus,Undead,2,Life,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Forest Grump,Treant,3,Fire,-,Dungeons,Tanglewood Terror,0,Yes,20,1000,30,2500,25,3000
+Forest Grump,Treant,5,Fire,-,Dungeons,Tanglewood Terror,0,Yes,20,1000,30,2500,25,3000
+Forest Grump,Treant,11,Fire,-,Dungeons,Tanglewood Terror,0,Yes,20,1000,30,2500,25,3000
+Forest Grump,Treant,12,Fire,-,Dungeons,Tanglewood Terror,0,Yes,20,1000,30,2500,25,3000
+Forest Grump,Treant,2,Fire,-,Dungeons,Tanglewood Terror,0,Yes,20,1000,30,2500,25,3000
+Forest Nymph,Treant,3,Storm,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Forest Nymph,Treant,11,Storm,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Forest Nymph,Treant,12,Storm,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Forest Nymph,Treant,2,Storm,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Meanest Fly-Trap,Undead,3,Myth,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Meanest Fly-Trap,Undead,5,Myth,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Meanest Fly-Trap,Undead,11,Myth,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Meanest Fly-Trap,Undead,12,Myth,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Meanest Fly-Trap,Undead,2,Myth,-,Dungeons,Tanglewood Terror,0,No,10,500,20,1500,15,2000
+Irate Banshee,Undead,6,Death,-,Dragonspyre,Greystone's Castle OR Plaza of Conquests,0,No,10,500,20,1500,15,2000
+Crying Spirit,Undead,7,Death,-,Dragonspyre,Lord Obsidian's Tomb OR Nightreave Necropolis OR Sylvia Drake's Tomb OR Telegraph Box,0,No,10,500,20,1500,15,2000
+Earth Elemental,Colossus,7,Life,-,Dragonspyre,Plaza of Conquests,0,Yes,20,1000,30,2500,25,3000
+Sharpshard Warrior,Colossus,8,Ice,-,Dragonspyre,The Great Spyre,0,No,10,500,20,1500,15,2000
+Firevein,Colossus,7,Fire,-,Dragonspyre,Plaza of Conquests,0,Yes,20,1000,30,2500,25,3000
+Vengeful Fireheart,Colossus,8,Myth,-,Dragonspyre,Dragon's Maw OR The Forum OR The Great Spyre,0,No,10,500,20,1500,15,2000
+Firerock Stomper,Colossus,8,Fire,-,Dragonspyre,Fleshless Tower,0,No,10,500,20,1500,15,2000
+Boris Blackrock,Colossus OR Undead,8,Ice,-,Dragonspyre,The Crucible,0,Yes,20,1000,30,2500,25,3000
+Confused Sentry,Colossus,8,Balance,-,Dragonspyre,The Labyrinth,0,No,10,500,20,1500,15,2000
+Silver Sentinel,Colossus,8,Life,-,Dragonspyre,The Labyrinth,0,Yes,20,1000,30,2500,25,3000
+Silver Servant,Colossus,7,Balance,-,Dragonspyre,Plaza of Conquests OR The Grand Chasm,0,No,10,500,20,1500,15,2000
+Giant Homunculus,Colossus,8,Storm,-,Dragonspyre,Homunculus' Tower - The Drake Hatchery,0,Yes,20,1000,30,2500,25,3000
+Property Master,Colossus,8,Storm,-,Dragonspyre,The Labyrinth,0,Yes,20,1000,30,2500,25,3000
+Vault Protector,Colossus,8,Balance,-,Dragonspyre,Knowledge Keeper's Tower,0,Yes,20,1000,30,2500,25,3000
+Plated Defender,Colossus,8,Ice,-,Dragonspyre,Secure House OR The Forum,0,No,10,500,20,1500,15,2000
+Avalanche,Colossus,8,Life,-,Dragonspyre,Skythorn Tower,0,Yes,20,1000,30,2500,25,3000
+Rock Reaver,Colossus,6,Life,-,Dragonspyre,Gloomstrider's Tower OR The Tower Archives OR Vilara Moonwraith's Tower,0,No,10,500,20,1500,15,2000
+General Greystone,Cyclops,7,Myth,-,Dragonspyre,Greystone's Castle,0,Yes,20,1000,30,2500,25,3000
+Tumok Gravelbeard,Cyclops,9,Myth,-,Dragonspyre,Dragon's Maw,0,Yes,20,1000,30,2500,25,3000
+Hardrock Cyclops,Cyclops,7,Myth,-,Dragonspyre,The Labyrinth,0,No,10,500,20,1500,15,2000
+Fallen Merc,Cyclops OR Undead,6,Myth,-,Dragonspyre,Zarathax's Tower,0,No,10,500,20,1500,15,2000
+Reanimated Draconian,Undead,8,Death,-,Dragonspyre,The Forum,0,No,10,500,20,1500,15,2000
+Decayed Blackguard,Undead,8,Ice,-,Dragonspyre,Malistaire's Lair,0,No,10,500,20,1500,15,2000
+Decaying Blackguard,Undead,8,Ice,-,Dragonspyre,Malistaire's Lair,0,No,10,500,20,1500,15,2000
+Undead Draconian,Undead,8,Death,-,Dragonspyre,The Forum,0,No,10,500,20,1500,15,2000
+Neberyx,Undead,16,Shadow,-,Dragonspyre,Dragonsage Hall,0,Yes,20,1000,30,2500,25,3000
+Nodnarb,Wyrm,14,Balance,-,Dragonspyre,Dragonsage Hall,0,No,10,500,20,1500,15,2000
+Ghastly Slave,Undead,6,Death,-,Dragonspyre,Knowledge Keeper's Tower OR Plaza of Conquests,0,No,10,500,20,1500,15,2000
+Bound Specter,Undead,7,Life,-,Dragonspyre,Lord Obsidian's Tomb OR Pyromancer's Tomb,0,No,10,500,20,1500,15,2000
+Vile Apparition,Undead,8,Death,-,Dragonspyre,Fleshless Tower OR Pyromancer's Tomb,0,No,10,500,20,1500,15,2000
+Necrotic Haunter,Undead,7,Death,-,Dragonspyre,Sylvia Drake's Tomb,0,No,10,500,20,1500,15,2000
+Loathsome Creeper,Undead,6,Death,-,Dragonspyre,Knowledge Keeper's Tower OR Mordecai's Tower OR The Tower Archives,0,No,10,500,20,1500,15,2000
+Fleshrot Retriever,Undead,8,Death,-,Dragonspyre,Fleshless Tower,0,No,10,500,20,1500,15,2000
+Erratic Servator,Golem,7,Storm,-,Dragonspyre,Grand Chasm OR Knowledge Keeper's Tower OR The Labyrinth,0,No,10,500,20,1500,15,2000
+Clockwork Defender,Golem,7,Storm,-,Dragonspyre,Crystal Storage OR Grand Chasm OR Knowledge Keeper's Tower,0,No,10,500,20,1500,15,2000
+Gurtok Piercer,Elephant,9,Ice,-,Dragonspyre,The Great Spyre,0,Yes,20,1000,30,2500,25,3000
+General Firetusk,Elephant,8,Fire,-,Dragonspyre,The Grand Chasm,0,Yes,20,1000,30,2500,25,3000
+Gurtok Firebender,Elephant,9,Fire,-,Dragonspyre,The Great Spyre,0,Yes,20,1000,30,2500,25,3000
+Gurtok Demon,Elephant,9,Balance,-,Dragonspyre,Plaza of Conquests,0,Yes,20,1000,30,2500,25,3000
+Evil Trickster,Imp,8,Life,-,Dragonspyre,The Crystal Grove,0,No,10,500,20,1500,15,2000
+Loremaster,Undead,9,Balance,-,Dragonspyre,The Atheneum,0,Yes,10,500,20,1500,15,2000
+Barbarian Spirit,Undead,8,Myth,-,Dragonspyre,The Labyrinth,0,No,10,500,20,1500,15,2000
+Beghastion Fieldburner,Undead,7,Fire,-,Dragonspyre,Kyanite Tower OR Sylvia Drake's Tomb,0,No,10,500,20,1500,15,2000
+Beghastion Crowcaller,Undead,7,Death,-,Dragonspyre,Kyanite Tower OR Plaza of Conquests OR The Grand Chasm,0,No,10,500,20,1500,15,2000
+Fleshless Sentry,Undead,7,Death,-,Dragonspyre,Fleshless Tower OR Pyromancer's Tomb,0,No,10,500,20,1500,15,2000
+Bone Warrior,Undead,7,Balance,-,Dragonspyre,Sylvia Drake's Tomb,0,No,10,500,20,1500,15,2000
+Pirate Ravager,Undead,6,Death,-,Dragonspyre,The Tower Archives,0,No,10,500,20,1500,15,2000
+Rotten Scallywag,Undead,7,Death,-,Dragonspyre,Telegraph Box OR The Crucible,0,No,10,500,20,1500,15,2000
+Armored Bonewalker,Undead,7,Ice,-,Dragonspyre,Lord Obsidian's Tomb OR Pyromancer's Tomb,0,No,10,500,20,1500,15,2000
+Ash Spider,Spider,7,Life,-,Dragonspyre,Grand Chasm OR Knowledge Keeper's Tower OR Kyanite Tower OR The Crystal Grove OR The Grand Chasm,0,No,10,500,20,1500,15,2000
+Corrupted Weaver,Spider,7,Death,-,Dragonspyre,The Crystal Grove,0,No,10,500,20,1500,15,2000
+Crystal Crawler,Spider,8,Ice,-,Dragonspyre,The Crystal Grove OR The Grand Chasm,0,No,10,500,20,1500,15,2000
+Shimmer Widow,Spider,8,Storm,-,Dragonspyre,The Crystal Grove,0,No,10,500,20,1500,15,2000
+Faceted Spikespinner,Spider,8,Life,-,Dragonspyre,The Crystal Grove,0,No,10,500,20,1500,15,2000
+Crystalline Queen,Spider,9,Balance,-,Dragonspyre,The Crystal Grove,0,Yes,20,1000,30,2500,25,3000
+Ancient Crystalweaver,Spider,8,Ice,-,Dragonspyre,The Crystal Grove,0,No,10,500,20,1500,15,2000
+Fangtooth Lavaspinner,Spider,8,Fire,-,Dragonspyre,The Forum,0,No,10,500,20,1500,15,2000
+Venomous Heatseeker,Spider,8,Storm,-,Dragonspyre,The Howling Cave,0,No,10,500,20,1500,15,2000
+Fireweave Rockbiter,Spider,8,Fire,-,Dragonspyre,Secure House,0,No,10,500,20,1500,15,2000
+Dark Poltergeist,Undead,8,Life,-,Dragonspyre,Fleshless Tower,0,No,10,500,20,1500,15,2000
+Blighted Freerooter,Treant,8,Life,-,Dragonspyre,The Crystal Grove OR The Forum,0,No,10,500,20,1500,15,2000
+Soulless Servant,Undead,8,Death,-,Dragonspyre,Malistaire's Lair,0,No,10,500,20,1500,15,2000
+Soul Servant,Undead,8,Death,-,Dragonspyre,Malistaire's Lair,0,No,10,500,20,1500,15,2000
+Undead Wizard,Undead,7,Death,-,Dragonspyre,The Grand Chasm OR Well of Fear,0,No,10,500,20,1500,15,2000
+Orin Grimcaster,Undead,8,Death,-,Dragonspyre,Fleshless Tower,0,Yes,20,1000,30,2500,25,3000
+Restless Soldier,Undead,7,Storm,-,Dragonspyre,The Tower Archives OR Well of Fear,0,No,10,500,20,1500,15,2000
+Iona Pyrelance,Undead,8,Myth,-,Dragonspyre,The Crucible,0,Yes,20,1000,30,2500,25,3000
+The Collector,Undead,7,Balance,-,Dragonspyre,The Drake Hatchery,0,Yes,20,1000,30,2500,25,3000
+Vilara Moonwraith,Undead,7,Death,-,Dragonspyre,Vilara Moonwraith's Tower,0,Yes,20,1000,30,2500,25,3000
+Zora Steelwielder,Undead,8,Life,-,Dragonspyre,The Labyrinth,0,Yes,20,1000,30,2500,25,3000
+Kyanite Valkyrie,Undead,7,Storm,-,Dragonspyre,The Drake Hatchery,0,No,10,500,20,1500,15,2000
+Mavra Flamewing,Undead,7,Storm,-,Dragonspyre,Flamewing's Tower,0,Yes,20,1000,30,2500,25,3000
+Vika Markmaker,Undead,8,Myth,-,Dragonspyre,The Crystal Grove,0,Yes,20,1000,30,2500,25,3000
+Valerik Brightsword,Undead,8,Storm,-,Dragonspyre,The Crucible,0,Yes,20,1000,30,2500,25,3000
+Gallium Juggernaut,Undead,8,Life,-,Dragonspyre,The Drake Hatchery,0,No,10,500,20,1500,15,2000
+Gallium Shardtrooper,Undead,8,Ice,-,Dragonspyre,Lord Obsidian's Tomb OR The Crucible,0,No,10,500,20,1500,15,2000
+Kyanite Lancer,Undead,8,Storm,-,Dragonspyre,The Crucible,0,No,10,500,20,1500,15,2000
+Viktor Snowcrusher,Undead,8,Fire,-,Dragonspyre,The Drake Hatchery,0,Yes,20,1000,30,2500,25,3000
+Sandor Spearcaller,Undead,7,Ice,-,Dragonspyre,Spearcaller's Tower,0,Yes,20,1000,30,2500,25,3000
+Gallium Footman,Undead,7,Storm,-,Dragonspyre,Grand Chasm OR Kyanite Tower OR The Grand Chasm,0,No,10,500,20,1500,15,2000
+Gallium Paladin,Undead,8,Ice,-,Dragonspyre,The Labyrinth,0,Yes,20,1000,30,2500,25,3000
+Vesta Shadowmark,Undead,8,Balance,-,Dragonspyre,The Forum,0,Yes,20,1000,30,2500,25,3000
+Devora Shadowcrown,Undead,8,Death,-,Dragonspyre,The Labyrinth,0,Yes,20,1000,30,2500,25,3000
+Valeska Redwind,Undead,8,Myth,-,Dragonspyre,Secure House OR The Forum,0,Yes,20,1000,30,2500,25,3000
+Kyanite Lieutenant,Undead,8,Ice,-,Dragonspyre,Lord Obsidian's Tomb,0,No,10,500,20,1500,15,2000
+Katia Firewinter,Undead,8,Life,-,Dragonspyre,The Crucible,0,Yes,20,1000,30,2500,25,3000
+Drusilla Morningbane,Undead,8,Fire,-,Dragonspyre,Lord Obsidian's Tomb OR Pyromancer's Tomb,0,Yes,20,1000,30,2500,25,3000
+Scarrik Gallowgaunt,Undead,8,Life,-,Dragonspyre,The Labyrinth,0,No,10,500,20,1500,15,2000
+Andor Bristleback,Undead,8,Storm,-,Dragonspyre,The Labyrinth,0,Yes,20,1000,30,2500,25,3000
+Wandering Wizard,Undead,7,Life,-,Dragonspyre,The Tower Archives,0,No,10,500,20,1500,15,2000
+Vasek Ashweaver,Undead,8,Death,-,Dragonspyre,Vault 1933,0,Yes,20,1000,30,2500,25,3000
+Petrov Gloomstrider,Undead,7,Ice,-,Dragonspyre,Gloomstrider's Tower,0,Yes,20,1000,30,2500,25,3000
+Rurik Flamesoul,Undead,8,Ice,-,Dragonspyre,The Crucible,0,Yes,20,1000,30,2500,25,3000
+Vladimir Darkflame,Undead,9,Death,-,Dragonspyre,The Labyrinth,0,Yes,20,1000,30,2500,25,3000
+Ghost of Sylvia Drake,Undead,8,Life,-,Dragonspyre,Sylvia Drake's Tomb,0,Yes,20,1000,30,2500,25,3000
+Soul Searcher,Undead,8,Death,-,Dragonspyre,Dragon's Maw OR The Path of Scales,0,No,10,500,20,1500,15,2000
+Foul Reaper,Undead,8,Death,-,Dragonspyre,The Crucible,0,No,10,500,20,1500,15,2000
+War Wyrm,Wyrm,7,Balance,-,Dragonspyre,Lord Obsidian's Tomb OR Pyromancer's Tomb OR The Grand Chasm,0,No,10,500,20,1500,15,2000
+Burning Flamewing,Wyrm,8,Fire,-,Dragonspyre,The Forum,0,No,10,500,20,1500,15,2000
+Feral Lavaling,Wyrm,8,Fire,-,Dragonspyre,Dragon's Maw OR The Great Spyre OR The Path of Scales,0,No,10,500,20,1500,15,2000
+Stray Fireflier,Wyrm,8,Fire,-,Dragonspyre,Hall of Glory OR Moonclaw's Tower OR The Crystal Grove,0,No,10,500,20,1500,15,2000
+Mutant Briar,Treant,16,Myth,-,Empyrea,Chaos Jungle,0,No,10,500,20,1500,15,2000
+Blight Walker,Treant,16,Death,-,Empyrea,Chaos Jungle,0,No,10,500,20,1500,15,2000
+Feral Briar,Treant,16,Shadow,Death,Empyrea,Chaos Jungle,0,No,10,500,20,1500,15,2000
+Briar Scourge,Treant,17,Ice,Death,Empyrea,Chaos Jungle,0,Yes,20,1000,30,2500,25,3000
+Maize Monster,Treant,16,Balance,-,Empyrea,Samsara Village,0,No,10,500,20,1500,15,2000
+Vine Thrasher,Treant,16,Life,-,Empyrea,Chaos Jungle,0,No,10,500,20,1500,15,2000
+Dream Belloq,Elephant,17,Balance,Shadow,Empyrea,Reverie,0,Yes,20,1000,30,2500,25,3000
+Voltergeist,Undead,17,Storm,-,Empyrea,Northeast Aero Plains,0,Yes,20,1000,30,2500,25,3000
+Monkey Spider,Spider,15,Myth,-,Empyrea,Aeriel Jungle,0,No,10,500,20,1500,15,2000
+Doom Monkey,Spider,16,Death,-,Empyrea,Chaos Jungle,1,No,10,500,20,1500,15,2000
+Mother Monkey Spider,Spider,17,Life,-,Empyrea,Aeriel Jungle,0,Yes,20,1000,30,2500,25,3000
+Pork,Pig,16,Fire,-,Empyrea,The Headquarters,0,No,10,500,20,1500,15,2000
+Beans,Pig,16,Life,-,Empyrea,The Headquarters,0,No,10,500,20,1500,15,2000
+Fear of the Future,Pig,16,Myth,-,Empyrea,Southwest Aero Plains,0,No,10,500,20,1500,15,2000
+Bat Bot,Golem,15,Storm,-,Empyrea,Bat Cave OR Zanadu,0,No,10,500,20,1500,15,2000
+Insulated Bat Bot,Golem,15,Ice,-,Empyrea,Inner Athanor,0,No,10,500,20,1500,15,2000
+Bat Bot,Golem,15,Ice,-,Empyrea,Inner Athanor,0,No,10,500,20,1500,15,2000
+Insulated Bat Bot,Golem,15,Fire,-,Empyrea,Inner Athanor,0,No,10,500,20,1500,15,2000
+Insulated Bat Bot,Golem,15,Storm,-,Empyrea,Inner Athanor,0,No,10,500,20,1500,15,2000
+Insulated Bat Bot,Golem,15,Myth,-,Empyrea,Inner Athanor,0,No,10,500,20,1500,15,2000
+Sani-Bot,Golem,15,Balance,-,Empyrea,Zanadu Sewers,0,No,10,500,20,1500,15,2000
+R0S1E,Golem,15,Myth,-,Empyrea,Zanadu,0,Yes,20,1000,30,2500,25,3000
+Max-Strength Sani-Bot,Golem,15,Ice,-,Empyrea,Zanadu,0,No,10,500,20,1500,15,2000
+Sani-Bot,Golem,15,Fire,-,Empyrea,Zanadu Sewers,0,No,10,500,20,1500,15,2000
+Sani-Bot,Golem,15,Ice,-,Empyrea,Sewers OR Zanadu Sewers,0,No,10,500,20,1500,15,2000
+Sani-Bot,Golem,15,Storm,-,Empyrea,Zanadu Sewers,0,No,10,500,20,1500,15,2000
+Sani-Bot,Golem,15,Myth,-,Empyrea,Sewers OR Zanadu Sewers,0,No,10,500,20,1500,15,2000
+Sani-Bot,Golem,15,Life,-,Empyrea,Sewers OR Zanadu Sewers,0,No,10,500,20,1500,15,2000
+Sani-Bot,Golem,15,Death,-,Empyrea,Sewers OR Zanadu Sewers,0,No,10,500,20,1500,15,2000
+Huuver,Golem,16,Fire,-,Empyrea,Sewers,0,Yes,20,1000,30,2500,25,3000
+Sani-Leader,Golem,16,Fire,-,Empyrea,Sewers,0,Yes,20,1000,30,2500,25,3000
+Aerobot,Golem,16,Fire,-,Empyrea,Port Aero,0,No,10,500,20,1500,15,2000
+J3D,Golem,16,Ice,-,Empyrea,Aero Plains,0,No,10,500,20,1500,15,2000
+Justicon,Golem,16,Storm,-,Empyrea,Private Wing,0,No,10,500,20,1500,15,2000
+Justicon,Golem,16,Ice,-,Empyrea,Private Wing,0,No,10,500,20,1500,15,2000
+Justicon,Golem,16,Fire,-,Empyrea,Private Wing,0,No,10,500,20,1500,15,2000
+Ebenezer the Butler,Golem,16,Balance,Fire,Empyrea,Port Aero,0,No,10,500,20,1500,15,2000
+BatBot Tank,Golem,16,Ice,-,Empyrea,Zanadu,0,No,10,500,20,1500,15,2000
+Airfred,Golem,16,Life,-,Empyrea,Zanadu,0,No,10,500,20,1500,15,2000
+Tumbler,Golem,17,Moon,-,Empyrea,Zanadu,0,Yes,20,1000,30,2500,25,3000
+Dream Morganthe,Spider,16,Shadow,-,Empyrea,Reverie,1,No,10,500,20,1500,15,2000
+Common House Spider,Spider,15,Death,-,Empyrea,Zanadu,0,No,10,500,20,1500,15,2000
+Arachna Magna Magus,Spider,17,Storm,-,Empyrea,Elemental Grove,0,Yes,20,1000,30,2500,25,3000
+Arachna Soldier,Spider,16,Balance,-,Empyrea,Elemental Grove,0,No,10,500,20,1500,15,2000
+Dream Jabberwock,Wyrm,16,Shadow,Fire,Empyrea,Reverie,0,No,10,500,20,1500,15,2000
+Dream Shadowwock,Wyrm,15,Fire,-,Empyrea,Reverie,0,No,10,500,20,1500,15,2000
+Shane von Shane,Golem OR Undead,15,Star,-,Dungeons,Castle Darkmoor,0,Yes,20,1000,30,2500,25,3000
+Sir Blackwater,Undead,14,Star,-,Dungeons,Castle Darkmoor,0,Yes,20,1000,30,2500,25,3000
+Akhtang WormCrawl,Undead,14,Fire,-,Dungeons,Castle Darkmoor,0,Yes,20,1000,30,2500,25,3000
+Draconian Revenant,Undead,13,Ice,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Draconian Pyromancer,Undead,15,Fire,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Draconian Sorcerer,Undead,15,Balance,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Draconian Necromancer,Undead,15,Death,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Draconian Pyro,Undead,15,Fire,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Draconian Thaumaturge,Undead,15,Ice,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Draconian Theurgist,Undead,15,Life,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Draconian Conjurer,Undead,15,Myth,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Draconian Diviner,Undead,15,Storm,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Draconian Eidolon,Undead,13,Storm,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Yevgeny NightCreeper,Undead,15,Moon,-,Dungeons,Castle Darkmoor,0,Yes,20,1000,30,2500,25,3000
+Malistaire the Undying,Undead,16,Death,-,Dungeons,Castle Darkmoor,0,Yes,30,1000,50,2500,50,3000
+Bunferatu,Undead,15,Death,-,Dungeons,Castle Darkmoor,0,Yes,20,1000,30,2500,25,3000
+Shane von Shane,Undead,14,Death,-,Dungeons,Castle Darkmoor,0,Yes,20,1000,30,2500,25,3000
+Darkmoor Squire,Undead,13,Death,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Spirit of Darkmoor,Undead,14,Sun,-,Dungeons,Castle Darkmoor,0,Yes,20,1000,30,2500,25,3000
+Scarlet Wampyr,Undead,12,Death,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Count Bela BlackSleep,Undead,12,Death,-,Dungeons,Castle Darkmoor,0,Yes,20,1000,30,2500,25,3000
+Anguished Wraith,Undead,14,Ice,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Darkmoor Serf,Undead,13,Storm,-,Dungeons,Castle Darkmoor,0,No,10,500,20,1500,15,2000
+Fiery Echo of Apep,Undead,11,Fire,-,Dungeons,???,0,Yes,20,1000,30,2500,25,3000
+Frosty Echo of Apep,Undead,11,Ice,-,Dungeons,???,0,Yes,20,1000,30,2500,25,3000
+False Echo of Apep,Undead,11,Myth,-,Dungeons,???,0,Yes,20,1000,30,2500,25,3000
+Charged Echo of Apep,Undead,11,Storm,-,Dungeons,???,0,Yes,20,1000,30,2500,25,3000
+Bellosh,Elephant,10,Balance,-,Dungeons,House of Scales,0,Yes,20,1000,30,2500,25,3000
+Condemned Soldier,Undead,8,Death,-,Dungeons,House of Scales OR Lower Zigazag,0,No,10,500,20,1500,15,2000
+Condemned Mander,Mander OR Undead,9,Myth,-,Dungeons,House of Scales,0,No,10,500,20,1500,15,2000
+Master Tonkatsu,Pig,5,Storm,-,Dungeons,Hamakala's Mausoleum,0,Yes,20,1000,30,2500,25,3000
+Temple Guardian,Elephant OR Undead,4,Balance,-,Dungeons,Hollow Mountain,0,Yes,20,1000,30,2500,25,3000
+Temple Phantom,Elephant OR Undead,4,Balance,-,Dungeons,Hamakala's Mausoleum,0,Yes,20,1000,30,2500,25,3000
+War Havox,Undead,16,Balance,-,Wizard City,Dragon Breath Cavern OR Whispering Sepulcher,0,No,10,500,20,1500,15,2000
+Ritual Colossus,Colossus,16,Ice,-,Wizard City,Tower of Various Rituals,0,No,10,500,20,1500,15,2000
+The Devourer ,Wyrm,18,Shadow,-,Wizard City,Edge of the Spiral,0,Yes,20,1000,30,2500,25,3000
+The Devourer ,Wyrm,18,Shadow,-,Wizard City,???,0,No,10,500,20,1500,15,2000
+Viggor's Drake,Wyrm,17,Fire,-,Wizard City,Whispering Sepulcher,0,No,10,500,20,1500,15,2000
+Treeminder Ghost,Undead,5,Myth,-,Wizard City,Olde Town Drains,0,Yes,20,1000,30,2500,25,3000
+Treeminder,Undead,16,Ice,-,Wizard City,Whispering Sepulcher,0,No,10,500,20,1500,15,2000
+Renegade Druid,Undead,18,Storm,-,Wizard City,Avalon,0,Yes,20,1000,30,2500,25,3000
+Treeminder,Undead,16,Fire,-,Wizard City,Dragon Breath Cavern OR Whispering Sepulcher,0,No,10,500,20,1500,15,2000
+Treeminder,Undead,16,Storm,-,Wizard City,Dragon Breath Cavern OR Whispering Sepulcher,0,No,10,500,20,1500,15,2000
+Treeminder,Undead,16,Myth,-,Wizard City,Dragon Breath Cavern,0,No,10,500,20,1500,15,2000
+Fractal Treeminder,Undead,16,Life,-,Wizard City,The Catacombs,0,No,10,500,20,1500,15,2000
+Unsettled Treeminder,Undead,16,Fire,-,Wizard City,Wizard City,0,No,10,500,20,1500,15,2000
+Galen the Traitor,Undead,18,Myth,-,Wizard City,Wizard City,0,Yes,20,1000,30,2500,25,3000
+General Greyflame,Undead,17,Fire,-,Wizard City,Foetid Crypt,0,No,10,500,20,1500,15,2000
+Dragonspyre Crusader,Undead,16,Ice,-,Wizard City,Foetid Crypt,0,No,10,500,20,1500,15,2000
+Squire Greggor,Undead,18,Life,-,Wizard City,Foetid Crypt,0,No,10,500,20,1500,15,2000
+Sir Greggor,Undead,18,Death,-,Wizard City,Foetid Crypt,0,No,10,500,20,1500,15,2000
+Lorekeeper,Undead,17,Myth,-,Wizard City,Foetid Crypt,0,No,10,500,20,1500,15,2000
+Felix Photomonger III,Undead,18,Fire,-,Wizard City,Hall of Inevitable Betrayal,0,Yes,20,1000,30,2500,25,3000
+Dragonspyre Vanguard,Undead,16,Balance,Life,Wizard City,Foetid Crypt OR The Catacombs OR Whispering Sepulcher,0,No,10,500,20,1500,15,2000
+Silas' Conviction,Undead,17,Balance,-,Wizard City,Dragon Breath Cavern,0,No,10,500,20,1500,15,2000
+Silas' Weariness,Undead,17,Death,-,Wizard City,Dragon Breath Cavern,0,No,10,500,20,1500,15,2000
+Silas' Rage,Undead,17,Fire,-,Wizard City,Dragon Breath Cavern,0,No,10,500,20,1500,15,2000
+Silas' Doubt,Undead,17,Myth,-,Wizard City,Dragon Breath Cavern,0,No,10,500,20,1500,15,2000
+Prince Viggor,Undead,18,Myth,Death,Wizard City,Viggor's Tomb,0,Yes,20,1000,30,2500,25,3000
+Blue Ninja Pig,Pig,17,Ice,Shadow,Wizard City,the Drains,0,No,10,500,20,1500,15,2000
+Red Ninja Pig,Pig,17,Fire,Shadow,Wizard City,the Drains,0,No,10,500,20,1500,15,2000
+Orange Ninja Pig,Pig,17,Myth,Shadow,Wizard City,the Drains,0,No,10,500,20,1500,15,2000
+Purple Ninja Pig,Pig,17,Storm,Shadow,Wizard City,the Drains,0,No,10,500,20,1500,15,2000
+Mis-assembled Skeleton,Undead,16,Ice,-,Wizard City,The Catacombs,0,No,10,500,20,1500,15,2000
+Mis-assembled Skeleton,Undead,16,Storm,-,Wizard City,Avalon OR The Catacombs,0,No,10,500,20,1500,15,2000
+Mis-assembled Skeleton,Undead,16,Death,-,Wizard City,Avalon OR The Catacombs,0,No,10,500,20,1500,15,2000
+Ritual Spider,Spider,16,Storm,-,Wizard City,Hall of Inevitable Betrayal OR Tower of Various Rituals,0,No,10,500,20,1500,15,2000
+Tiny Dragon,Wyrm,16,Fire,-,Wizard City,The Drains,0,No,10,500,20,1500,15,2000
+Clockworker,Golem,10,Balance,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockworker,Golem,12,Balance,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockworker,Golem,2,Balance,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockworker,Golem,4,Balance,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockworker,Golem,6,Balance,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockworker,Golem,8,Balance,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockwork Spanner,Golem,11,Life,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockwork Spanner,Golem,13,Life,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockwork Spanner,Golem,3,Life,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockwork Spanner,Golem,5,Life,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockwork Spanner,Golem,7,Life,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Clockwork Spanner,Golem,9,Life,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Lucia,Golem,13,Star,-,Dungeons,The Great Clock,0,Yes,20,1000,30,2500,25,3000
+Lucia,Golem,15,Star,-,Dungeons,The Great Clock,0,Yes,20,1000,30,2500,25,3000
+Lucia,Golem,5,Star,-,Dungeons,The Great Clock,0,Yes,20,1000,30,2500,25,3000
+Lucia,Golem,7,Star,-,Dungeons,The Great Clock,0,Yes,20,1000,30,2500,25,3000
+Lucia,Golem,9,Star,-,Dungeons,The Great Clock,0,Yes,20,1000,30,2500,25,3000
+Lucia,Golem,11,Star,-,Dungeons,The Great Clock,0,Yes,20,1000,30,2500,25,3000
+Lugs,Golem,12,Ice,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Lugs,Golem,14,Ice,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Lugs,Golem,4,Ice,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Lugs,Golem,6,Ice,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Lugs,Golem,8,Ice,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+Lugs,Golem,10,Ice,-,Dungeons,The Great Clock,0,No,10,500,20,1500,15,2000
+MacDeath,Undead,13,Death,-,Dungeons,Playhouse,0,Yes,20,1000,30,2500,25,3000
+MacDeath,Undead,17,Shadow,Death,Dungeons,Playhouse,0,Yes,20,1000,30,2500,25,3000
+MacDeath,Undead,5,Death,-,Dungeons,Playhouse,0,Yes,20,1000,30,2500,25,3000
+MacDeath,Undead,7,Death,-,Dungeons,Playhouse,0,Yes,20,1000,30,2500,25,3000
+MacDeath,Undead,9,Death,-,Dungeons,Playhouse,0,Yes,20,1000,30,2500,25,3000
+MacDeath,Undead,11,Death,-,Dungeons,Playhouse,0,Yes,20,1000,30,2500,25,3000
+MacDeath Understudy,Undead,13,Death,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacDeath Understudy,Undead,17,Death,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacDeath Understudy,Undead,5,Death,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacDeath Understudy,Undead,7,Death,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacDeath Understudy,Undead,9,Death,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacDeath Understudy,Undead,11,Death,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacLife Understudy,Undead,13,Life,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacLife Understudy,Undead,17,Life,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacLife Understudy,Undead,5,Life,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacLife Understudy,Undead,7,Life,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacLife Understudy,Undead,9,Life,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacLife Understudy,Undead,11,Life,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacStorm Understudy,Undead,13,Storm,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacStorm Understudy,Undead,17,Storm,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacStorm Understudy,Undead,5,Storm,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacStorm Understudy,Undead,7,Storm,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacStorm Understudy,Undead,9,Storm,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+MacStorm Understudy,Undead,11,Storm,-,Dungeons,???,0,No,10,500,20,1500,15,2000
+Kumo Oni,Spider,2,Fire,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Kumo Oni,Spider,3,Fire,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Kumo Oni,Spider,5,Fire,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Kumo Oni,Spider,11,Fire,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Kumo Oni,Spider,12,Fire,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Zoraimei Helephant,Elephant,3,Death,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Zoraimei Helephant,Elephant,5,Death,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Zoraimei Helephant,Elephant,11,Death,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Zoraimei Helephant,Elephant,12,Death,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hanadzura,Pig,2,Balance,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Hanadzura,Pig,3,Balance,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Hanadzura,Pig,5,Balance,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Hanadzura,Pig,12,Balance,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Hanadzura,Pig,14,Balance,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kurokage,Pig,2,Myth,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kurokage,Pig,3,Myth,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kurokage,Pig,5,Myth,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kurokage,Pig,12,Myth,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kurokage,Pig,14,Myth,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kuchisaki,Pig,2,Ice,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kuchisaki,Pig,3,Ice,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kuchisaki,Pig,5,Ice,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kuchisaki,Pig,12,Ice,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kuchisaki,Pig,14,Ice,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kaizoku,Pig,3,Fire,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kaizoku,Pig,4,Fire,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kaizoku,Pig,6,Fire,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kaizoku,Pig,13,Fire,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Kaizoku,Pig,15,Fire,-,Dungeons,Midnight Sun Pagoda,0,Yes,20,1000,30,2500,25,3000
+Gaikotsu Skeleton,Undead,2,Ice,-,Dungeons,Midnight Sun Pagoda OR Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Gaikotsu Skeleton,Undead,3,Ice,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Gaikotsu Skeleton,Undead,5,Ice,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Gaikotsu Skeleton,Undead,11,Ice,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Gaikotsu Skeleton,Undead,12,Ice,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Kyoukontei Treant,Treant,2,Life,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Kyoukontei Treant,Treant,3,Life,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Kyoukontei Treant,Treant,5,Life,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Kyoukontei Treant,Treant,11,Life,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Kyoukontei Treant,Treant,12,Life,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hitojini Deathcaster,Undead,2,Death,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hitojini Deathcaster,Undead,3,Death,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hitojini Deathcaster,Undead,5,Death,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hitojini Deathcaster,Undead,11,Death,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hitojini Deathcaster,Undead,12,Death,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hebitoho Wyrmling,Wyrm,2,Balance,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hebitoho Wyrmling,Wyrm,3,Balance,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hebitoho Wyrmling,Wyrm,5,Balance,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Hebitoho Wyrmling,Wyrm,11,Balance,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,3000
+Hebitoho Wyrmling,Wyrm,12,Balance,-,Dungeons,Midnight Sun Pagoda,0,No,10,500,20,1500,15,2000
+Balance Cybermander,Mander,15,Balance,-,Dungeons,The Oasis,3,Yes,20,1000,30,2500,25,3000
+Balance Cybermander,Mander,17,Balance,-,Dungeons,The Oasis,4,Yes,20,1000,30,2500,25,3000
+Balance Cybermander,Mander,8,Balance,-,Dungeons,The Oasis,0,Yes,20,1000,30,2500,25,3000
+Balance Cybermander,Mander,10,Balance,-,Dungeons,The Oasis,1,Yes,20,1000,30,2500,25,3000
+Balance Cybermander,Mander,12,Balance,-,Dungeons,The Oasis,2,Yes,20,1000,30,2500,25,3000
+Fire Cybermander,Mander,15,Fire,-,Dungeons,The Oasis,8,Yes,20,1000,30,2500,25,3000
+Fire Cybermander,Mander,17,Fire,-,Dungeons,The Oasis,9,Yes,20,1000,30,2500,25,3000
+Fire Cybermander,Mander,8,Fire,-,Dungeons,The Oasis,5,Yes,20,1000,30,2500,25,3000
+Fire Cybermander,Mander,10,Fire,-,Dungeons,The Oasis,6,Yes,20,1000,30,2500,25,3000
+Fire Cybermander,Mander,12,Fire,-,Dungeons,The Oasis,7,Yes,20,1000,30,2500,25,3000
+Ice Cybermander,Mander,15,Ice,-,Dungeons,The Oasis,13,Yes,20,1000,30,2500,25,3000
+Ice Cybermander,Mander,17,Ice,-,Dungeons,The Oasis,14,Yes,20,1000,30,2500,25,3000
+Ice Cybermander,Mander,8,Ice,-,Dungeons,The Oasis,10,Yes,20,1000,30,2500,25,3000
+Ice Cybermander,Mander,10,Ice,-,Dungeons,The Oasis,11,Yes,20,1000,30,2500,25,3000
+Ice Cybermander,Mander,12,Ice,-,Dungeons,The Oasis,12,Yes,20,1000,30,2500,25,3000
+Myth Cybermander,Mander,15,Myth,-,Dungeons,The Oasis,18,Yes,20,1000,30,2500,25,3000
+Myth Cybermander,Mander,17,Myth,-,Dungeons,The Oasis,19,Yes,20,1000,30,2500,25,3000
+Myth Cybermander,Mander,8,Myth,-,Dungeons,The Oasis,15,Yes,20,1000,30,2500,25,3000
+Myth Cybermander,Mander,10,Myth,-,Dungeons,The Oasis,16,Yes,20,1000,30,2500,25,3000
+Myth Cybermander,Mander,12,Myth,-,Dungeons,The Oasis,17,Yes,20,1000,30,2500,25,3000
+Lacombe StrawHouse,Pig,2,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Lacombe StrawHouse,Pig,3,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Lacombe StrawHouse,Pig,5,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Lacombe StrawHouse,Pig,11,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Lacombe StrawHouse,Pig,12,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Berkshire StickHouse,Pig,2,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Berkshire StickHouse,Pig,3,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Berkshire StickHouse,Pig,5,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Berkshire StickHouse,Pig,11,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Berkshire StickHouse,Pig,12,Balance,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Tamworth BrickHouse ,Pig,2,Balance,-,Dungeons,Spiral Cup Gauntlet,0,Yes,20,1000,30,2500,25,3000
+Tamworth BrickHouse ,Pig,3,Balance,-,Dungeons,Spiral Cup Gauntlet,0,Yes,20,1000,30,2500,25,3000
+Tamworth BrickHouse ,Pig,5,Balance,-,Dungeons,Spiral Cup Gauntlet,0,Yes,20,1000,30,2500,25,3000
+Tamworth BrickHouse ,Pig,11,Balance,-,Dungeons,Spiral Cup Gauntlet,0,Yes,20,1000,30,2500,25,3000
+Tamworth BrickHouse ,Pig,12,Balance,-,Dungeons,Spiral Cup Gauntlet,0,Yes,20,1000,30,2500,25,3000
+Rusty TinderSpark,Pig,2,Fire,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Rusty TinderSpark,Pig,3,Fire,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Rusty TinderSpark,Pig,5,Fire,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Rusty TinderSpark,Pig,11,Fire,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Rusty TinderSpark,Pig,12,Fire,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Cora WinterBranch,Pig,2,Ice,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Cora WinterBranch,Pig,3,Ice,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Cora WinterBranch,Pig,5,Ice,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Cora WinterBranch,Pig,11,Ice,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Cora WinterBranch,Pig,12,Ice,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Gramble GoldRook,Pig,2,Myth,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Gramble GoldRook,Pig,3,Myth,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Gramble GoldRook,Pig,5,Myth,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Gramble GoldRook,Pig,11,Myth,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Gramble GoldRook,Pig,12,Myth,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Piper StormTree,Pig,2,Storm,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Piper StormTree,Pig,3,Storm,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Piper StormTree,Pig,5,Storm,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Piper StormTree,Pig,11,Storm,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Piper StormTree,Pig,12,Storm,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Spectre of the Brocken,Undead,2,Death,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Spectre of the Brocken,Undead,3,Death,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Spectre of the Brocken,Undead,5,Death,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Spectre of the Brocken,Undead,11,Death,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Spectre of the Brocken,Undead,12,Death,-,Dungeons,Spiral Cup Gauntlet,0,No,10,500,20,1500,15,2000
+Metallossus,Colossus,14,Balance,-,Dungeons,Metallos,0,Yes,20,1000,30,2500,25,3000
+Metallossus,Colossus,16,Balance,-,Dungeons,Metallos,0,Yes,20,1000,30,2500,25,3000
+Metallossus,Colossus,7,Balance,-,Dungeons,Metallos,0,Yes,20,1000,30,2500,25,3000
+Metallossus,Colossus,9,Balance,-,Dungeons,Metallos,0,Yes,20,1000,30,2500,25,3000
+Metallossus,Colossus,11,Balance,-,Dungeons,Metallos,0,Yes,20,1000,30,2500,25,3000
+Chromeclops,Cyclops,14,Myth,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Chromeclops,Cyclops,16,Myth,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Chromeclops,Cyclops,7,Myth,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Chromeclops,Cyclops,9,Myth,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Chromeclops,Cyclops,11,Myth,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Iron Sultan,Golem,15,Storm,-,Dungeons,Metallos Summit,0,Yes,20,1000,30,2500,25,3000
+Iron Sultan,Golem,17,Storm,-,Dungeons,Metallos Summit,0,Yes,20,1000,30,2500,25,3000
+Iron Sultan,Golem,8,Storm,-,Dungeons,Metallos Summit,0,Yes,20,1000,30,2500,25,3000
+Iron Sultan,Golem,10,Storm,-,Dungeons,Metallos Summit,0,Yes,20,1000,30,2500,25,3000
+Iron Sultan,Golem,12,Storm,-,Dungeons,Metallos Summit,0,Yes,20,1000,30,2500,25,3000
+Steeleton,Undead,13,Death,-,Dungeons,Metallos OR Metallos Summit,0,No,10,500,20,1500,15,2000
+Leadite,Undead,13,Death,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Steeleton,Undead,15,Death,-,Dungeons,Metallos OR Metallos Summit,0,No,10,500,20,1500,15,2000
+Leadite,Undead,15,Death,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Steeleton,Undead,6,Death,-,Dungeons,Metallos OR Metallos Summit,0,No,10,500,20,1500,15,2000
+Leadite,Undead,6,Death,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Steeleton,Undead,8,Death,-,Dungeons,Metallos OR Metallos Summit,0,No,10,500,20,1500,15,2000
+Leadite,Undead,8,Death,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Steeleton,Undead,10,Death,-,Dungeons,Metallos OR Metallos Summit,0,No,10,500,20,1500,15,2000
+Leadite,Undead,10,Death,-,Dungeons,Metallos,0,No,10,500,20,1500,15,2000
+Gold Dragon,Wyrm,14,Sun,-,Dungeons,Metallos Summit,0,No,10,500,20,1500,15,2000
+Gold Dragon,Wyrm,16,Sun,-,Dungeons,Metallos Summit,0,No,10,500,20,1500,15,2000
+Gold Dragon,Wyrm,7,Fire,-,Dungeons,Metallos Summit,0,No,10,500,20,1500,15,2000
+Gold Dragon,Wyrm,9,Fire,-,Dungeons,Metallos Summit,0,No,10,500,20,1500,15,2000
+Gold Dragon,Wyrm,11,Sun,-,Dungeons,Metallos Summit,0,No,10,500,20,1500,15,2000
+Eirikur Axebreaker,Wyrm,5,Fire,-,Dungeons,Winterbane Hall,0,Yes,20,1000,30,2500,25,3000
+Eirikur Axebreaker,Wyrm,8,Fire,-,Dungeons,Winterbane Hall,0,Yes,20,1000,30,2500,25,3000
+Eirikur Axebreaker,Wyrm,13,Fire,-,Dungeons,Winterbane Hall,0,Yes,20,1000,30,2500,25,3000
+Eirikur Axebreaker,Wyrm,14,Fire,-,Dungeons,Winterbane Hall,0,Yes,20,1000,30,2500,25,3000
+Eirikur Axebreaker,Wyrm,15,Fire,-,Dungeons,Winterbane Hall,0,Yes,20,1000,30,2500,25,3000
+Howling Banshee,Undead,4,Ice,-,Grizzleheim,Mirkholm Keep,0,No,10,500,20,1500,15,2000
+Troubled Warrior,Undead,3,Ice,-,Grizzleheim,Crypt OR Savarstaad Pass,0,No,10,500,20,1500,15,2000
+Yngvar Sharptooth,Undead,4,Death,-,Grizzleheim,Savarstaad Pass,0,Yes,20,1000,30,2500,25,3000
+Splithoof Barbarian,Pig,3,Fire,-,Grizzleheim,Savarstaad Pass,0,No,10,500,20,1500,15,2000
+Splithoof Bloodguard,Pig,4,Fire,-,Grizzleheim,Frostholm,0,No,10,500,20,1500,15,2000
+Splithoof Rager,Pig,4,Storm,-,Grizzleheim,Savarstaad Pass,0,No,10,500,20,1500,15,2000
+Scarsnout,Pig,4,Myth,-,Grizzleheim,Frostholm,0,Yes,20,1000,30,2500,25,3000
+Shattertusk,Pig,4,Storm,-,Grizzleheim,Savarstaad Pass,0,Yes,20,1000,30,2500,25,3000
+Bloodseeker,Pig,4,Myth,-,Grizzleheim,Savarstaad Pass,0,Yes,20,1000,30,2500,25,3000
+Frostmantle,Colossus,7,Ice,-,Grizzleheim,Frostmantle's Chamber,0,Yes,20,1000,30,2500,25,3000
+Glacier Walker,Colossus,6,Ice,-,Grizzleheim,Frostmantle's Chamber OR Ravenscar,0,No,10,500,20,1500,15,2000
+Sand Behemoth,Colossus,7,Balance,-,Grizzleheim,Helgrind Warren,0,Yes,20,1000,30,2500,25,3000
+Runed Annihilator,Colossus OR Golem,7,Fire,-,Grizzleheim,Helgrind Warren,0,Yes,20,1000,30,2500,25,3000
+Runed Devestator,Colossus OR Golem,7,Storm,-,Grizzleheim,Hall of Valor,0,Yes,20,1000,30,2500,25,3000
+Runed Guardian,Colossus OR Golem,6,Myth,-,Grizzleheim,Hall of Valor,0,No,10,500,20,1500,15,2000
+Canyon Rager,Colossus,4,Life,-,Grizzleheim,Mirkholm Keep,0,No,10,500,20,1500,15,2000
+Rubble Reaver,Colossus,5,Life,-,Grizzleheim,Hall of Valor OR Helgrind Warren,0,No,10,500,20,1500,15,2000
+Boulderbone,Colossus,5,Myth,-,Grizzleheim,Mirkholm Keep,0,Yes,20,1000,30,2500,25,3000
+Cave Golem,Cyclops,6,Myth,-,Grizzleheim,Ravenscar,0,No,10,500,20,1500,15,2000
+Scaldling,Wyrm,5,Fire,-,Grizzleheim,Helgrind Warren,0,No,10,500,20,1500,15,2000
+Hungry Soul,Undead,3,Ice,-,Grizzleheim,Crypt,0,No,10,500,20,1500,15,2000
+Gurtok Barrier Demon,Elephant,7,Fire,-,Grizzleheim,Ravenscar,0,Yes,20,1000,30,2500,25,3000
+Deep Woods Imp,Imp,4,Balance,-,Grizzleheim,Savarstaad Pass,0,No,10,500,20,1500,15,2000
+Forest Pest,Imp,3,Life,-,Grizzleheim,Savarstaad Pass,0,No,10,500,20,1500,15,2000
+Gnissa,Spider,4,Myth,-,Grizzleheim,Savarstaad Pass,0,Yes,20,1000,30,2500,25,3000
+Webwood Scuttler,Spider,3,Balance,-,Grizzleheim,Savarstaad Pass,0,No,10,500,20,1500,15,2000
+Sand Spider,Spider,5,Balance,-,Grizzleheim,Helgrind Warren,0,No,10,500,20,1500,15,2000
+Webwood Creeper,Spider,4,Ice,-,Grizzleheim,Savarstaad Pass,0,No,10,500,20,1500,15,2000
+Skathi,Spider,4,Fire,-,Grizzleheim,Savarstaad Pass,0,Yes,20,1000,30,2500,25,3000
+Decaying Bogwalker,Treant,3,Life,-,Grizzleheim,Vigrid Roughland,0,No,10,500,20,1500,15,2000
+Ironsplinter,Treant,4,Life,-,Grizzleheim,Savarstaad Pass,0,Yes,20,1000,30,2500,25,3000
+Brownwood Tormentor,Treant,6,Life,-,Grizzleheim,Helgrind Warren,0,Yes,20,1000,30,2500,25,3000
+Wildroot,Treant,5,Life,-,Grizzleheim,Savarstaad Pass,0,Yes,20,1000,30,2500,25,3000
+Lothin Doombringer,Undead,5,Death,-,Grizzleheim,Crypt,0,Yes,20,1000,30,2500,25,3000
+Jorda Swordbearer,Polar Bear,9,Life,-,Grizzleheim,Vestrilund,0,Yes,20,1000,30,2500,25,3000
+Agnetta Broadblade,Polar Bear,10,Life,-,Grizzleheim,Nastrond,0,Yes,20,1000,30,2500,25,3000
+Mimir Winterbane,Undead,10,Ice,-,Grizzleheim,Hrundle Fjord,0,Yes,20,1000,30,2500,25,3000
+Asrik Widebelt,Undead,9,Myth,-,Grizzleheim,Vestrilund,0,Yes,20,1000,30,2500,25,3000
+Gothric Honorbound,Undead,10,Death,-,Grizzleheim,Sudrilund,0,Yes,20,1000,30,2500,25,3000
+Frostheart Raider,Polar Bear,10,Fire,-,Grizzleheim,Nordrilund OR Vestrilund,0,No,10,500,20,1500,15,2000
+Razortusk Brawler,Pig,9,Balance,-,Grizzleheim,Austrilund,0,No,10,500,20,1500,15,2000
+Razortusk Warrior,Pig,9,Death,-,Grizzleheim,Austrilund,0,No,10,500,20,1500,15,2000
+Svini Reaver,Pig,9,Myth,-,Grizzleheim,Austrilund,0,No,10,500,20,1500,15,2000
+Svini Beserker,Pig,9,Life,-,Grizzleheim,Austrilund OR Vestrilund,0,No,10,500,20,1500,15,2000
+Tusked Raider,Pig,9,Fire,-,Grizzleheim,Austrilund OR Vestrilund,0,No,10,500,20,1500,15,2000
+Halfang Bristlecrown,Pig OR Undead,9,Storm,-,Grizzleheim,Vestrilund,0,Yes,20,1000,30,2500,25,3000
+Bristlehide Raider,Pig,9,Death,-,Grizzleheim,Austrilund OR Vestrilund,0,No,10,500,20,1500,15,2000
+Nali,Colossus,9,Ice,-,Grizzleheim,Austrilund,0,Yes,20,1000,30,2500,25,3000
+Gnar,Colossus,10,Ice,-,Grizzleheim,Austrilund,0,Yes,20,1000,30,2500,25,3000
+Frost Bones,Undead,9,Ice,-,Grizzleheim,Austrilund OR Hrundle Fjord OR Vestrilund,0,No,10,500,20,1500,15,2000
+Snow Skull,Undead,9,Ice,-,Grizzleheim,Nastrond OR Vestrilund,0,No,10,500,20,1500,15,2000
+Winter Skull,Undead,10,Ice,-,Grizzleheim,Nastrond OR Nordrilund,0,No,10,500,20,1500,15,2000
+Kulgrim Soulsunder,Undead,10,Ice,-,Grizzleheim,Nastrond,0,Yes,20,1000,30,2500,25,3000
+Frostbranch,Treant,9,Ice,-,Grizzleheim,Austrilund,0,Yes,20,1000,30,2500,25,3000
+Winterbranch,Treant,10,Ice,-,Grizzleheim,Vestrilund,0,No,10,500,20,1500,15,2000
+Osvud Fleetpaw,Undead,9,Life,-,Grizzleheim,Vestrilund,0,Yes,20,1000,30,2500,25,3000
+Death Whisperer,Undead,4,Death,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+Haunting Banshee,Undead,1,Myth,-,Wizard City,Ravenwood,0,No,6,500,15,1500,15,2000
+Maiden of Hate,Undead,6,Ice,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+Maiden of Hate,Undead,4,Ice,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+Pumpkin Head,Undead,9,Fire,-,Wizard City,Ravenwood,0,Yes,20,1000,30,2500,25,3000
+Baron Mordecai,Undead,4,Death,-,Wizard City,Mordecai's Tower,0,Yes,20,1000,30,2500,25,3000
+Soul Hunter,Undead,7,Death,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+Howling Ghost,Undead,2,Life,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+Plagued Soul,Undead,2,Ice,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+Midnight Shuffler,Undead,3,Fire,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+Bone Digger,Undead,6,Fire,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+Hallowe'en Trickster,Undead,3,Fire,-,Wizard City,Ravenwood,0,Yes,6,1000,30,2500,25,3000
+Skeletal Retainer,Undead,6,Myth,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+Skeletal Soldier,Undead,3,Balance,-,Wizard City,Ravenwood,0,No,10,500,20,1500,15,2000
+The Reaper,Undead,4,Death,-,Wizard City,Ravenwood,0,Yes,20,1000,30,2500,25,3000
+Veggie Revanant,Undead,2,Balance,-,Wizard City,Haunted Cave,0,No,10,500,20,1500,15,2000
+Veggie Revanant,Undead,2,Fire,-,Wizard City,Haunted Cave,0,No,10,500,20,1500,15,2000
+Veggie Revanant,Undead,2,Death,-,Wizard City,Haunted Cave,0,No,10,500,20,1500,15,2000
+Veggie Revanant,Undead,2,Ice,-,Wizard City,Haunted Cave,0,No,10,500,20,1500,15,2000
+Veggie Revanant,Undead,2,Life,-,Wizard City,Haunted Cave,0,No,10,500,20,1500,15,2000
+Nosferabbit,Undead,3,Death,-,Wizard City,Haunted Cave,0,Yes,20,1000,30,2500,25,3000
+The Spirit Gobbler,Gobbler,18,Death,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Hangriest Gobbler,Gobbler,19,Myth,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Cherry Gobbler,Gobbler,18,Death,Fire,Karamelle,???,0,No,10,500,20,1500,15,2000
+Peach Gobbler,Gobbler,17,Balance,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Hangry Gobbler,Gobbler,18,Storm,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Veruca,Gobbler,18,Storm,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Ravenous Gobbler,Gobbler,17,Storm,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Hangry Gobbler,Gobbler,18,Death,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Hangry Gobbler,Gobbler,18,Fire,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Hangry Gobbler,Gobbler,18,Balance,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Augustus,Gobbler,18,Death,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Charlie,Gobbler,18,Fire,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Mikey,Gobbler,18,Balance,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Peckish Gobbler,Gobbler,17,Death,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Voracious Gobbler,Gobbler,17,Fire,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gobbler Gourmand,Gobbler,17,Balance,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Claude,Gobbler,18,Life,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Adalard,Gobbler,18,Myth,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Creme Beret,Golem,18,Death,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Creme Beret,Golem,18,Death,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Xtra Limes Bear,Golem,17,Life,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Xtreme Lime Bear,Golem,17,Life,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gumberjack,Golem,17,Fire,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gumberjack,Golem,17,Ice,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gumberjack,Golem,17,Balance,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Zazzleberry Bear,Golem,17,Myth,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Snazzleberry Bear,Golem,17,Myth,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Vitamin Bear,Golem,17,Balance,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Multivitamin Bear,Golem,17,Balance,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Winterfresh Bear,Golem,17,Ice,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Blue Radberry Bear,Golem,17,Ice,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Uber-Bear,Golem,18,Ice,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Ubear,Golem,18,Ice,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+The Bundozer,Golem,19,Sun,-,Karamelle,???,0,Yes,20,1000,30,2500,25,3000
+Gummy Bunny,Golem,17,Life,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Bunny,Golem,17,Death,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Colorful Bunny,Golem,17,Death,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Bunny,Golem,17,Myth,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Bunny,Golem,17,Balance,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Bunny,Golem,17,Ice,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Worm,Golem,17,Life,Myth,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Worm,Golem,17,Myth,Life,Karamelle,???,0,No,10,500,20,1500,15,2000
+Grandfather Spider,Golem,18,Shadow,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Worm,Golem,17,Myth,Fire,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Worm,Golem,17,Fire,Myth,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Worm,Golem,17,Ice,Storm,Karamelle,???,0,No,10,500,20,1500,15,2000
+Gummy Worm,Golem,17,Storm,Ice,Karamelle,???,0,No,10,500,20,1500,15,2000
+Whatchamagolem,Golem,17,Death,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Whatchamagolem,Golem,17,Life,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Whatchamagolem,Golem,17,Storm,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Whatchamagolem,Golem,17,Ice,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Whatchamadrone,Golem,17,Life,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Colorful Whatchamagolem,Golem,17,Fire,-,Karamelle,???,0,No,10,500,20,1500,15,2000
+Arachna Soldier,Spider,17,Fire,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Arachna Soldier,Spider,17,Shadow,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Arachna Soldier,Spider,17,Ice,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Arachna Soldier,Spider,17,Death,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Arachna Soldier,Spider,17,Storm,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Laughing Calaca,Undead,12,Ice,-,Khrysalis,Moon Cliffs,0,No,10,500,20,1500,15,2000
+Dragon Beetle,Wyrm,13,Fire,-,Khrysalis,Crescent Beach OR Fort Rachias,0,No,10,500,20,1500,15,2000
+Lost Knight,Undead,13,Death,-,Khrysalis,Ruined Alcazar,0,Yes,20,1000,30,2500,25,3000
+Sassafras Man,Treant,13,Life,-,Khrysalis,Moon Cliffs,0,No,10,500,20,1500,15,2000
+Lost Knight,Undead,13,Death,-,Khrysalis,Ruined Alcazar,0,No,10,500,20,1500,15,2000
+First Scythe,Undead,12,Death,-,Khrysalis,Sardonyx OR Silent Market OR Tyrian Gorge,0,No,10,500,20,1500,15,2000
+Grey Mantis Captain,Undead,12,Balance,-,Khrysalis,Tyrian Gorge,0,No,10,500,20,1500,15,2000
+Grey Mantis Hunter,Undead,12,Ice,-,Khrysalis,Tyrian Gorge,0,No,10,500,20,1500,15,2000
+Wraith Knight,Undead,14,Myth,-,Khrysalis,Chamber of the Sun's Shadow,0,No,10,500,20,1500,15,2000
+Elana Darksun,Undead,14,Death,-,Khrysalis,Chamber of the Sun's Shadow,0,Yes,20,1000,30,2500,25,3000
+Deer Mouse Revenant,Undead,12,Ice,-,Khrysalis,Last Wood,0,No,10,500,20,1500,15,2000
+Deer Mouse Revenant,Undead,12,Balance,-,Khrysalis,Bastion OR Last Wood,0,No,10,500,20,1500,15,2000
+Arkyn Moonblade,Undead,13,Myth,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Cree CurdWright,Undead,12,Life,-,Khrysalis,Bastion,0,Yes,20,1000,30,2500,25,3000
+King Alric FateSailor,Undead,12,Myth,-,Khrysalis,Last Wood,0,Yes,20,1000,30,2500,25,3000
+Tree Root,Treant,14,Death,-,Khrysalis,Shadow Palace,0,Yes,10,500,20,1500,15,2000
+Tree Root,Treant,14,Death,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Tree Root,Treant,14,Myth,-,Khrysalis,Shadow Palace,0,Yes,10,500,20,1500,15,2000
+Tree Root,Treant,14,Myth,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Tree Root,Treant,14,Life,-,Khrysalis,Shadow Palace,0,Yes,10,500,20,1500,15,2000
+Tree Root,Treant,14,Life,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Tree Root,Treant,14,Balance,-,Khrysalis,Shadow Palace,0,Yes,10,500,20,1500,15,2000
+Tree Root,Treant,14,Balance,-,Khrysalis,???,0,No,10,500,20,1500,15,2000
+Archmagus Lorcan,Spider,14,Balance,-,Khrysalis,The Hive,0,Yes,20,1000,30,2500,25,3000
+Archmagus Lorcan,Spider,14,Balance,-,Khrysalis,Shadow Palace,0,Yes,20,1000,30,2500,25,3000
+Painted Spider,Spider,12,Storm,-,Khrysalis,Bastion OR Silent Market,0,No,10,500,20,1500,15,2000
+Atlach-Leng,Spider OR Undead,13,Ice,-,Khrysalis,Tyrian Gorge,0,Yes,20,1000,30,2500,25,3000
+Crypt Spider,Spider,12,Death,-,Khrysalis,Bastion OR Silent Market OR The Hive OR Tyrian Gorge,0,No,10,500,20,1500,15,2000
+Giant Spider,Spider,14,Fire,-,Khrysalis,The Hive,0,No,10,500,20,1500,15,2000
+Cave Crawler,Spider,14,Myth,-,Khrysalis,Crescent Beach OR The Hive OR Tyrian Gorge,0,No,10,500,20,1500,15,2000
+Rattle Catcher,Spider,13,Myth,-,Khrysalis,Ruined Alcazar,0,No,10,500,20,1500,15,2000
+Trapdoor Spider,Spider,14,Myth,-,Khrysalis,The Hive,0,No,10,500,20,1500,15,2000
+Rock Clinger,Spider,13,Balance,-,Khrysalis,Crescent Beach,0,No,10,500,20,1500,15,2000
+Inquisitor Ximenez,Spider,14,Storm,-,Khrysalis,The Hive,0,Yes,20,1000,30,2500,25,3000
+Elder Magus,Spider,14,Fire,-,Khrysalis,The Hive,0,No,10,500,20,1500,15,2000
+Spider Archmagus,Spider,14,Death,-,Khrysalis,The Hive,0,Yes,20,1000,30,2500,25,3000
+Spider Adept,Spider,14,Myth,-,Khrysalis,The Hive,0,No,10,500,20,1500,15,2000
+Interrogator Rentenius,Spider,14,Balance,-,Khrysalis,The Hive,0,Yes,20,1000,30,2500,25,3000
+Warped Weaver,Spider,14,Fire,-,Khrysalis,The Hive,0,No,10,500,20,1500,15,2000
+Arachna Skinner,Spider,14,Fire,-,Khrysalis,The Hive,0,No,10,500,20,1500,15,2000
+Arachna Gladiator,Spider,14,Death,-,Khrysalis,Elemental Grove OR The Hive,0,No,10,500,20,1500,15,2000
+Phantom Ace,Undead,13,Life,-,Khrysalis,Ruined Alcazar,0,No,10,500,20,1500,15,2000
+Phantom Glider,Undead,13,Death,-,Khrysalis,Ruined Alcazar,0,No,10,500,20,1500,15,2000
+Shadow of the Land,Treant,12,Balance,-,Khrysalis,Moon Cliffs,0,Yes,20,1000,30,2500,25,3000
+Broken Stumps,Treant,13,Death,-,Khrysalis,Tyrian Gorge,0,No,10,500,20,1500,15,2000
+Wordless Woodsmen,Treant,12,Fire,-,Khrysalis,Isle Of Arachnis OR Last Wood,0,No,10,500,20,1500,15,2000
+Desiccated Treebeard,Treant,14,Death,-,Khrysalis,Kondha Desert,0,No,10,500,20,1500,15,2000
+Queen Irisi Djeserit,Undead,3,Myth,-,Krokotopia,Ahnic Family Tomb,0,Yes,20,1000,30,2500,25,3000
+Keeper of the Fang,Undead,4,Death,-,Krokotopia,The Vault of Ice OR Vault of Ice Tower,0,Yes,20,1000,30,2500,25,3000
+Defender of the Fang,Undead,4,Death,-,Krokotopia,The Vault of Ice,0,Yes,20,1000,30,2500,25,3000
+Protector of the Fang,Undead,4,Fire,-,Krokotopia,The Vault of Ice,0,Yes,20,1000,30,2500,25,3000
+Guardian of the Fang,Undead,4,Death,-,Krokotopia,The Vault of Ice,0,Yes,20,1000,30,2500,25,3000
+Glacial Avenger,Colossus,3,Ice,-,Krokotopia,Hall of Champions,0,No,10,500,20,1500,15,2000
+Sokkwi Keymaster,Colossus,4,Ice,-,Krokotopia,Sokkwi Keymaster Arena,0,Yes,20,1000,30,2500,25,3000
+Sands of Time,Colossus,4,Balance,-,Krokotopia,Hourglass Chamber,0,Yes,20,1000,30,2500,25,3000
+Bort Malletmane,Cyclops,3,Myth,-,Krokotopia,Grand Arena,0,Yes,20,1000,30,2500,25,3000
+Veteran Sellsword,Cyclops,2,Myth,-,Krokotopia,Royal Hall,0,No,10,500,20,1500,15,2000
+Pike Spiritcrusher,Cyclops OR Undead,4,Myth,-,Krokotopia,Spiritcrusher's Tomb,0,Yes,20,1000,30,2500,25,3000
+Soul Scavenger,Undead,3,Death,-,Krokotopia,Soul Chamber,0,Yes,20,1000,30,2500,25,3000
+Vault Haunter,Undead,3,Death,-,Krokotopia,Hall of Champions OR The Vault of Ice,0,No,10,500,20,1500,15,2000
+Nirini Fire Spirit,Undead,3,Death,-,Krokotopia,Throne Room of Fire,0,No,10,500,20,1500,15,2000
+Tempestra,Undead,3,Death,-,Krokotopia,Temple of Storms,0,Yes,20,1000,30,2500,25,3000
+Forgotten Djeserit Soul,Undead,3,Death,-,Krokotopia,Djeserit Family Tomb OR Scavenged Tomb,0,No,10,500,20,1500,15,2000
+Karanahn Deathfeeder,Undead,4,Death,-,Krokotopia,Karanahn Palace OR Temple of Storms,0,No,10,500,20,1500,15,2000
+Wandering Ahnic Spirit,Undead,4,Life,-,Krokotopia,Ahnic Family Tomb,0,No,10,500,20,1500,15,2000
+The Bonekeeper,Undead,4,Myth,-,Krokotopia,The Bonekeeper's Crypt,0,Yes,20,1000,30,2500,25,3000
+SoulKeeper ,Undead,3,Ice,-,Krokotopia,Chamber of Fire,0,Yes,20,1000,30,2500,25,3000
+Sand Stalker,Colossus,3,Ice,-,Krokotopia,Grand Arena OR Hourglass Chamber OR Khai Amahte Trophy Room,0,No,10,500,20,1500,15,2000
+Karanahn Keeper,Undead,4,Death,-,Krokotopia,Tomb of the Beguiler,0,No,10,500,20,1500,15,2000
+King Uro Ahnic,Undead,4,Storm,-,Krokotopia,Ahnic Family Tomb,0,Yes,20,1000,30,2500,25,3000
+Nirini Ancient Guard,Undead,3,Death,-,Krokotopia,Throne Room of Fire,0,No,10,500,20,1500,15,2000
+Krokomummy,Undead,3,Death,-,Krokotopia,Throne Room of Fire,0,No,10,500,20,1500,15,2000
+Nirini Intimidator,Undead,4,Fire,-,Krokotopia,Tomb of the Beguiler,0,No,10,500,20,1500,15,2000
+Akori Nirini,Undead,3,Death,-,Krokotopia,Akori's Chamber,0,Yes,20,1000,30,2500,25,3000
+Itennu Sokkwi,Undead,3,Life,-,Krokotopia,Grand Arena,0,Yes,20,1000,30,2500,25,3000
+Vigilant Defender,Undead,4,Death,-,Krokotopia,The Vault of Ice OR Vault of Ice Tower,0,No,10,500,20,1500,15,2000
+Soulsapper,Undead,3,Death,-,Krokotopia,Temple of Storms,0,Yes,20,1000,30,2500,25,3000
+Shambling Ahnic,Undead,3,Death,-,Krokotopia,Ahnic Family Tomb OR The Bonekeeper's Crypt,0,No,10,500,20,1500,15,2000
+Karanahn Mortifier,Undead,4,Death,-,Krokotopia,Karanahn Palace,0,No,10,500,20,1500,15,2000
+Risen Djeserit,Undead,4,Life,-,Krokotopia,Djeserit Family Tomb,0,No,10,500,20,1500,15,2000
+Desert Golem,Colossus OR Golem,3,Balance,-,Krokotopia,Edo's Chamber OR Nebit's Chamber OR Palace of Fire,0,No,10,500,20,1500,15,2000
+Tomb Lurker,Spider,4,Balance,-,Krokotopia,Karanahn Barracks,0,No,10,500,20,1500,15,2000
+Djeserit Dweller,Undead,3,Death,-,Krokotopia,Djeserit Family Tomb OR Entrance Hall,0,No,10,500,20,1500,15,2000
+Ahnic Strider,Undead,3,Death,-,Krokotopia,Ahnic Family Tomb OR Entrance Hall,0,No,10,500,20,1500,15,2000
+Blade Golem,Colossus,4,Storm,-,Krokotopia,Temple of Storms,0,No,10,500,20,1500,15,2000
+King Shemet Djeserit,Undead,4,Storm,-,Krokotopia,Djeserit Family Tomb,0,Yes,20,1000,30,2500,25,3000
+Charmed Slave,Mander,2,Fire,-,Krokotopia,Chamber of Fire OR Royal Hall,0,No,10,500,20,1500,15,2000
+Soul of the Charmed,Mander OR Undead,2,Ice,-,Krokotopia,Chamber of Fire,0,No,10,500,20,1500,15,2000
+Ensorcelled Slave,Mander,2,Ice,-,Krokotopia,Emperor's Retreat,0,No,10,500,20,1500,15,2000
+Hall Servant,Mander,2,Ice,-,Krokotopia,Grand Arena OR Hall of Champions,0,No,10,500,20,1500,15,2000
+Kiwu,Mander,3,Balance,-,Krokotopia,Karanahn Barracks,0,Yes,20,1000,30,2500,25,3000
+Crazed Slave,Mander,3,Life,-,Krokotopia,Karanahn Barracks OR Karanahn Palace,0,No,10,500,20,1500,15,2000
+Sapoti's Minion,Mander,3,Storm,-,Krokotopia,Krokotopia,0,No,10,500,20,1500,15,2000
+Sia the Perceiver,Mander,3,Life,-,Krokotopia,Ra's Reading Room,0,No,10,500,20,1500,15,2000
+Grumish Greataxe,Undead,4,Myth,-,Krokotopia,Entrance Hall,0,Yes,20,1000,30,2500,25,3000
+Serket,Spider,4,Life,-,Krokotopia,Tomb of the Beguiler,0,Yes,20,1000,30,2500,25,3000
+Ice Weaver,Spider,3,Ice,-,Krokotopia,Grand Arena OR Spiritcrusher's Tomb,0,No,10,500,20,1500,15,2000
+Spirit Spinner,Spider,3,Life,-,Krokotopia,Djeserit Family Tomb,0,No,10,500,20,1500,15,2000
+Crypt Scavenger,Undead,4,Death,-,Krokotopia,Scavenged Tomb,0,Yes,20,1000,30,2500,25,3000
+Fire Wraith,Undead,3,Fire,-,Dungeons,Telegraph Box,0,No,10,500,20,1500,15,2000
+Kasai Baku,Elephant,3,Fire,-,Dungeons,Telegraph Box,0,Yes,20,1000,30,2500,25,3000
+Anguished Wraith,Undead,7,Death,-,Dungeons,Telegraph Box,0,No,10,500,20,1500,15,2000
+Noxious Gas Golem,Golem,5,Fire,-,Marleybone,Barkingham Palace,0,Yes,20,1000,30,2500,25,3000
+Union Jack Golem,Golem,5,Fire,-,Marleybone,Barkingham Palace,0,Yes,20,1000,30,2500,25,3000
+Grave Phantom,Undead,5,Death,-,Marleybone,Newgate Prison,0,No,10,500,20,1500,15,2000
+Nightmare Spirit,Undead,5,Death,-,Marleybone,Big Ben OR Nimah the Wicked,0,No,10,500,20,1500,15,2000
+Tomb Roamer,Undead,5,Death,-,Marleybone,Newgate Prison,0,No,10,500,20,1500,15,2000
+Kettlehead,Golem,5,Balance,-,Marleybone,Big Ben OR Counterweight East OR Counterweight West OR Katzenstein's Lab,0,No,10,500,20,1500,15,2000
+Jitterbug,Golem,5,Storm,-,Marleybone,Kensington Park OR Kensington Warehouse,0,No,10,500,20,1500,15,2000
+Sprockets,Golem,6,Storm,-,Marleybone,Counterweight East,0,Yes,20,1000,30,2500,25,3000
+Skratch,Golem,5,Storm,-,Marleybone,Kensington Park,0,Yes,20,1000,30,2500,25,3000
+Ratchet,Golem,5,Storm,-,Marleybone,Kensington Park,0,Yes,20,1000,30,2500,25,3000
+Metal Head,Golem,5,Death,-,Marleybone,Kensington Warehouse,0,No,10,500,20,1500,15,2000
+Clockwork Warrior,Golem,5,Balance,-,Marleybone,Counterweight East OR Counterweight West OR Katzenstein's Lab,0,No,10,500,20,1500,15,2000
+Minute Man,Golem,5,Life,-,Marleybone,Kensington Park OR Kensington Warehouse,0,No,10,500,20,1500,15,2000
+Gearhead,Golem,4,Storm,-,Marleybone,Chelsea Court OR Chelsea Tower,0,No,10,500,20,1500,15,2000
+Gearhead,Golem,5,Storm,-,Marleybone,Big Ben OR Hyde Park,0,Yes,20,1000,30,2500,25,3000
+Clonky,Golem,5,Storm,-,Marleybone,Kensington Park,0,Yes,20,1000,30,2500,25,3000
+Potbelly,Golem,5,Storm,-,Marleybone,Big Ben OR Chelsea Tower OR Counterweight East OR Counterweight West OR Katzenstein's Lab,0,No,10,500,20,1500,15,2000
+Firegut,Golem,5,Fire,-,Marleybone,Katzenstein's Lab,0,Yes,20,1000,30,2500,25,3000
+Old Smokey,Golem,5,Storm,-,Marleybone,Counterweight East OR The Ironworks,0,Yes,20,1000,30,2500,25,3000
+Mr. Incinerator,Golem,5,Storm,-,Marleybone,Mr. Incinerator,0,Yes,20,1000,30,2500,25,3000
+Bellows,Golem,6,Storm,-,Marleybone,Counterweight West,0,Yes,20,1000,30,2500,25,3000
+Smogger,Golem,7,Storm,-,Marleybone,Katzenstein's Lab,0,Yes,20,1000,30,2500,25,3000
+Clockwork Wizard,Golem,4,Life,-,Marleybone,Big Ben OR Counterweight East OR Counterweight West OR Katzenstein's Lab,0,No,10,500,20,1500,15,2000
+Mechanical Healer,Golem,5,Storm,-,Marleybone,Katzenstein's Lab,0,No,10,500,20,1500,15,2000
+Splinterbot,Golem,5,Storm,-,Marleybone,Kensington Park OR Kensington Warehouse,0,No,10,500,20,1500,15,2000
+Skritch,Golem,5,Storm,-,Marleybone,Kensington Park,0,Yes,20,1000,30,2500,25,3000
+Shield Skeleton,Undead,5,Death,-,Marleybone,Big Ben OR Newgate Prison,0,No,10,500,20,1500,15,2000
+Black Widow,Spider,5,Life,-,Marleybone,Knight's Court,0,Yes,20,1000,30,2500,25,3000
+Giant Spider,Spider,4,Life,-,Marleybone,Hyde Park,0,No,10,500,20,1500,15,2000
+Brown Recluse,Spider,5,Life,-,Marleybone,Big Ben OR Knight's Court,0,No,10,500,20,1500,15,2000
+Creeper,Golem OR Spider,5,Storm,-,Marleybone,Kensington Park OR Kensington Warehouse,0,No,10,500,20,1500,15,2000
+Gear Spinner,Golem OR Spider,5,Myth,-,Marleybone,Big Ben OR Counterweight East OR Counterweight West OR Katzenstein's Lab,0,No,10,500,20,1500,15,2000
+Clanker,Golem OR Spider,5,Life,-,Marleybone,Katzenstein's Lab,0,Yes,20,1000,30,2500,25,3000
+Stoker,Golem,5,Storm,-,Marleybone,Kensington Park,0,Yes,20,1000,30,2500,25,3000
+Stoker,Golem,5,Storm,-,Marleybone,Kensington Warehouse,0,Yes,20,1000,30,2500,25,3000
+Agony Wraith,Undead,5,Death,-,Marleybone,Big Ben OR Newgate Prison,0,Yes,20,1000,30,2500,25,3000
+Dream Belloq,Elephant,17,Balance,Shadow,Empyrea,???,0,Yes,20,1000,30,2500,25,3000
+Scrollkeeper,Undead,15,Ice,-,Mirage,Zruvan Grotto,0,Yes,20,1000,30,2500,25,3000
+Emperor Paleolo,Undead,15,Death,-,Mirage,Istanboa,0,Yes,20,1000,30,2500,25,3000
+Shrowdenger's Qhat,Undead,16,Death,-,Mirage,Istanboa,0,Yes,20,1000,30,2500,25,3000
+Ancient Qhat Warrior,Undead,15,Ice,-,Mirage,Istanboa,0,No,10,500,20,1500,15,2000
+First Guardian,Undead,15,Death,-,Mirage,Zruvan Grotto,0,No,10,500,20,1500,15,2000
+Bort Shadowmane,Cyclops,16,Shadow,Myth,Mirage,West Time Dunes,0,Yes,20,1000,30,2500,25,3000
+Myriarch Ephialtes,Undead,15,Storm,-,Mirage,Caterwaul Canyons,0,Yes,20,1000,30,2500,25,3000
+Admiral Bontau,Undead,16,Death,-,Mirage,Alkali Barrows,0,Yes,20,1000,30,2500,25,3000
+Body Guard,Undead,15,Storm,-,Mirage,Aggrobah OR Rubal Wastes,0,No,10,500,20,1500,15,2000
+Foot Patrol,Undead,15,Myth,-,Mirage,Caterwaul Canyons,0,No,10,500,20,1500,15,2000
+Armed Guard,Undead,15,Death,-,Mirage,Caravan,0,No,10,500,20,1500,15,2000
+Captain Cosrow,Undead,15,Balance,-,Mirage,Caterwaul Canyons,0,Yes,20,1000,30,2500,25,3000
+Vizier Rafaj,Undead,15,Balance,-,Mirage,Alkali Barrows,0,Yes,20,1000,30,2500,25,3000
+Ossuary Conscript,Undead,15,Balance,-,Mirage,Alkali Barrows,0,No,10,500,20,1500,15,2000
+Vault Conscript,Undead,14,Storm,-,Mirage,Alkali Barrows,0,No,10,500,20,1500,15,2000
+Forgotten Conscript,Undead,14,Ice,-,Mirage,Alkali Barrows,0,No,10,500,20,1500,15,2000
+Barracks Guardian,Undead,15,Death,-,Mirage,Alkali Barrows,0,No,10,500,20,1500,15,2000
+Crypt Conscript,Undead,14,Myth,-,Mirage,Alkali Barrows,0,No,10,500,20,1500,15,2000
+Durvish Seeker,Undead,14,Fire,-,Mirage,Caterwaul Canyons,0,No,10,500,20,1500,15,2000
+Chilly,Undead,16,Ice,-,Mirage,Caterwaul Canyons,0,Yes,20,1000,30,2500,25,3000
+Achey,Undead,16,Fire,-,Mirage,Caterwaul Canyons,0,Yes,20,1000,30,2500,25,3000
+Sneezy,Undead,16,Life,-,Mirage,Caterwaul Canyons,0,Yes,20,1000,30,2500,25,3000
+Cough,Undead,16,Balance,-,Mirage,Caterwaul Canyons,0,Yes,20,1000,30,2500,25,3000
+Ghulture,Undead,14,Death,-,Mirage,Caravan,0,No,10,500,20,1500,15,2000
+Ghulture,Undead,14,Myth,-,Mirage,Alkali Barrows,0,No,10,500,20,1500,15,2000
+Mother Ghulture,Undead,15,Life,Death,Mirage,Caravan,0,Yes,20,1000,30,2500,25,3000
+Gobblorean Guard,Gobbler,15,Myth,-,Mirage,Thieves' Den,0,No,10,500,20,1500,15,2000
+Babbling Meints,Gobbler,16,Balance,-,Mirage,Caterwaul Canyons,0,Yes,20,1000,30,2500,25,3000
+Gobblorean Guard,Gobbler,15,Death,-,Mirage,???,0,No,10,500,20,1500,15,2000
+Gobblorean Guard,Gobbler,15,Balance,-,Mirage,???,0,No,10,500,20,1500,15,2000
+Gobblorean Guard,Gobbler,15,Storm,-,Mirage,???,0,No,10,500,20,1500,15,2000
+Ghulture,Undead,14,Death,-,Mirage,???,0,No,10,500,20,1500,15,2000
+Ghulture,Undead,14,Myth,-,Mirage,???,0,No,10,500,20,1500,15,2000
+Spiderling,Spider,16,Shadow,Ice,Mirage,???,0,No,10,500,20,1500,15,2000
+Shadowbones,Undead,16,Shadow,Death,Mirage,East Time Dunes,0,Yes,20,1000,30,2500,25,3000
+Grandfather Spider,Spider,17,Shadow,Storm,Mirage,North Time Dunes,0,Yes,20,1000,30,2500,25,3000
+Spirit of Inquiry,Undead,15,Ice,-,Mirage,Istanboa,0,Yes,20,1000,30,2500,25,3000
+Spirit of Intolerance,Undead,15,Death,-,Mirage,Rubal Wastes,0,Yes,20,1000,30,2500,25,3000
+Shadowwock,Wyrm,16,Shadow,Fire,Mirage,South Time Dunes,0,Yes,20,1000,30,2500,25,3000
+Fushiko,Undead,6,Death,-,MooShu,Village of Sorrow,0,Yes,20,1000,30,2500,25,3000
+Polluted Earth Walker,Colossus,5,Life,-,MooShu,Tatakai Outpost,0,No,10,500,20,1500,15,2000
+Corrupted Earth Spirit,Colossus,6,Life,-,MooShu,Cave of Solitude,0,No,10,500,20,1500,15,2000
+Stonebreaker,Colossus,6,Life,-,MooShu,Tatakai Outpost,0,Yes,20,1000,30,2500,25,3000
+Howling Shade,Undead,6,Death,-,MooShu,Village of Sorrow,0,No,10,500,20,1500,15,2000
+Grief Spectre,Undead,6,Death,-,MooShu,Village of Sorrow,0,No,10,500,20,1500,15,2000
+Akuji,Undead,6,Death,-,MooShu,Tree of Life,0,Yes,20,1000,30,2500,25,3000
+Sorrow Whisperer,Undead,5,Death,-,MooShu,Ancient Burial Grounds OR Village of Sorrow,0,No,10,500,20,1500,15,2000
+Walking Dead,Undead,6,Death,-,MooShu,Village of Sorrow,0,No,10,500,20,1500,15,2000
+Tainted Forest Imp,Imp,5,Life,-,MooShu,Cave of Solitude,0,No,10,500,20,1500,15,2000
+Youkai,Imp,10,Life,-,MooShu,Tree of Life,0,Yes,20,1000,30,2500,25,3000
+Bladeless Ronin,Pig,6,Balance,-,MooShu,Shirataki Temple,0,No,10,500,20,1500,15,2000
+Death Oni,Elephant,6,Death,-,MooShu,Tree of Life,0,Yes,20,1000,30,2500,25,3000
+Jade Oni,Elephant,10,Life,-,MooShu,Jade Palace,0,Yes,20,1000,30,2500,25,3000
+Plague Oni,Elephant,7,Balance,-,MooShu,Shirataki Temple,0,Yes,20,1000,30,2500,25,3000
+War Oni,Elephant,7,Fire,-,MooShu,Crimson Fields,0,Yes,20,1000,30,2500,25,3000
+Sanzoku Outlaw,Pig,5,Balance,-,MooShu,Hametsu Village OR Tatakai Outpost,0,No,10,500,20,1500,15,2000
+Sanzoku Bandit,Pig,5,Myth,-,MooShu,Hametsu Village OR Tatakai Outpost,0,No,10,500,20,1500,15,2000
+Kakeda Painbringer,Pig,6,Storm,-,MooShu,Tree of Life,0,No,10,500,20,1500,15,2000
+Usunoki,Pig,6,Fire,-,MooShu,Village of Sorrow,0,Yes,20,1000,30,2500,25,3000
+Kagemoosha,Pig,7,Death,-,MooShu,Tree of Life,0,Yes,20,1000,30,2500,25,3000
+Kakeda Spirit Slave,Pig OR Undead,5,Fire,-,MooShu,Tree of Life,0,No,10,500,20,1500,15,2000
+Kakeda Stalker,Pig,5,Balance,-,MooShu,Cave of Solitude OR Crimson Fields OR Tree of Life,0,No,10,500,20,1500,15,2000
+Kakeda Shadow,Pig,6,Storm,-,MooShu,Ancient Burial Grounds OR Village of Sorrow,0,No,10,500,20,1500,15,2000
+Kakeda Soulcrusher,Pig,6,Ice,-,MooShu,Tree of Life,0,No,10,500,20,1500,15,2000
+Tamauji,Pig,6,Myth,-,MooShu,Ancient Burial Grounds,0,Yes,20,1000,30,2500,25,3000
+Jikiru,Pig,6,Storm,-,MooShu,Ancient Burial Grounds,0,Yes,20,1000,30,2500,25,3000
+Nomoonaga,Pig,7,Death,-,MooShu,Tree of Life,0,Yes,20,1000,30,2500,25,3000
+Imitsu Plaguemaster,Pig,5,Storm,-,MooShu,Shirataki Temple,0,No,10,500,20,1500,15,2000
+Aiuchi,Pig,6,Fire,-,MooShu,Kishibe Village,0,Yes,20,1000,30,2500,25,3000
+Ideyoshi,Pig,7,Ice,-,MooShu,Shirataki Temple,0,Yes,20,1000,30,2500,25,3000
+Imitsu Defouler,Pig,5,Myth,-,MooShu,Cave of Solitude OR Kishibe Village OR Shirataki Temple,0,No,10,500,20,1500,15,2000
+Koto,Pig,6,Ice,-,MooShu,Cave of Solitude,0,Yes,20,1000,30,2500,25,3000
+Imitsu Punisher,Pig,6,Balance,-,MooShu,Kishibe Village OR Shirataki Temple,0,No,10,500,20,1500,15,2000
+Usegi,Pig,6,Fire,-,MooShu,Cave of Solitude,0,Yes,20,1000,30,2500,25,3000
+Kanago,Pig,6,Storm,-,MooShu,Cave of Solitude,0,Yes,20,1000,30,2500,25,3000
+Kyuto,Pig,6,Ice,-,MooShu,Kishibe Village,0,Yes,20,1000,30,2500,25,3000
+Haru,Pig,6,Myth,-,MooShu,Shirataki Temple,0,Yes,20,1000,30,2500,25,3000
+Otomo War Mage,Pig,5,Ice,-,MooShu,Crimson Fields,0,No,10,500,20,1500,15,2000
+Otomo Battlemage,Pig,5,Ice,-,MooShu,Crimson Fields,0,No,10,500,20,1500,15,2000
+Ashikata,Pig,6,Fire,-,MooShu,Tatakai Outpost,0,Yes,20,1000,30,2500,25,3000
+Katsumori,Pig,6,Fire,-,MooShu,Crimson Fields,0,Yes,20,1000,30,2500,25,3000
+Otomo Courier,Pig,5,Ice,-,MooShu,Crimson Fields OR Hametsu Village,0,No,10,500,20,1500,15,2000
+Otomo Supply Runner,Pig,5,Fire,-,MooShu,Tatakai Outpost,0,No,10,500,20,1500,15,2000
+Otomo Spotter,Pig,5,Myth,-,MooShu,Crimson Fields,0,No,10,500,20,1500,15,2000
+Otomo Scout,Pig,5,Myth,-,MooShu,Crimson Fields OR Shoshun Village,0,No,10,500,20,1500,15,2000
+Otomo Grappler,Pig,5,Balance,-,MooShu,Crimson Fields,0,No,10,500,20,1500,15,2000
+Otomo Wrestler,Pig,5,Balance,-,MooShu,Crimson Fields,0,No,10,500,20,1500,15,2000
+Hingen,Pig,6,Ice,-,MooShu,Tatakai Outpost,0,Yes,20,1000,30,2500,25,3000
+Otomo Fury,Pig,5,Fire,-,MooShu,Crimson Fields,0,No,10,500,20,1500,15,2000
+Yakedo,Pig,7,Fire,-,MooShu,Crimson Fields,0,Yes,20,1000,30,2500,25,3000
+Maito,Pig,6,Storm,-,MooShu,Tatakai Outpost,0,Yes,20,1000,30,2500,25,3000
+Do-Daga,Pig,6,Ice,-,MooShu,Hametsu Village,0,Yes,20,1000,30,2500,25,3000
+Dishonored Samoorai,Undead,6,Ice,-,MooShu,Ancient Burial Grounds,0,No,10,500,20,1500,15,2000
+Cursed Ronin,Undead,5,Myth,-,MooShu,Ancient Burial Grounds OR Village of Sorrow,0,No,10,500,20,1500,15,2000
+Death Soldier,Undead,5,Death,-,MooShu,Ancient Burial Grounds OR Village of Sorrow,0,No,10,500,20,1500,15,2000
+Maneki Web Walker,Spider,5,Life,-,MooShu,Cave of Solitude,0,No,10,500,20,1500,15,2000
+Kogani Death Crawler,Spider,6,Life,-,MooShu,Tree of Life,0,No,10,500,20,1500,15,2000
+Confused Forest Warrior,Treant,5,Life,-,MooShu,Hametsu Village OR Tatakai Outpost,0,No,10,500,20,1500,15,2000
+Befouled Woodwalker,Treant,6,Life,-,MooShu,Village of Sorrow,0,No,10,500,20,1500,15,2000
+Crazed Forest Spirit,Treant,6,Life,-,MooShu,Ancient Burial Grounds,0,Yes,20,1000,30,2500,25,3000
+Oakheart,Treant,7,Life,-,MooShu,Village of Sorrow,0,Yes,20,1000,30,2500,25,3000
+Tortured Kakeda Soul,Undead,6,Death,-,MooShu,Tree of Life,0,No,10,500,20,1500,15,2000
+Tomugawa the Evil,Undead,7,Death,-,MooShu,Ancient Burial Grounds,0,Yes,20,1000,30,2500,25,3000
+Oyotomi the Defiler,Undead,7,Death,-,MooShu,Village of Sorrow,0,Yes,20,1000,30,2500,25,3000
+Spellwrit Screamer,Undead,2,Storm,-,Dungeons,Triton Avenue,0,No,10,500,20,1500,15,2000
+Spellwrit Stalker,Colossus,3,Ice,-,Dungeons,Grand Arena,0,No,10,500,20,1500,15,2000
+Spellwrit Ronin,Undead,5,Death,-,Dungeons,Ancient Burial Grounds,0,No,10,500,20,1500,15,2000
+Wyrm Statue,Wyrm,14,Ice,-,Polaris,???,0,No,10,500,20,1500,15,2000
+Detolli the Destroyer,Polar Bear,15,Fire,-,Polaris,Forlorn Tayg,0,Yes,20,1000,30,2500,25,3000
+Tajniak,Polar Bear,15,Life,-,Polaris,River of Frozen Tears,0,Yes,20,1000,30,2500,25,3000
+Jawniak,Polar Bear,15,Death,-,Polaris,River of Frozen Tears,0,Yes,20,1000,30,2500,25,3000
+Ygor,Polar Bear,15,Death,-,Polaris,Kataba IceBlock,0,Yes,20,1000,30,2500,25,3000
+Stone Elemental,Colossus,14,Life,-,Polaris,Frigid Maw,0,No,10,500,20,1500,15,2000
+Bully Mammoth,Elephant,14,Ice,-,Polaris,Forlorn Tayg,0,No,10,500,20,1500,15,2000
+Bullhemoth,Elephant,15,Death,-,Polaris,Forlorn Tayg,0,Yes,20,1000,30,2500,25,3000
+Sergeant Bobrik,Polar Bear,15,Fire,-,Polaris,Frigid Maw,0,Yes,20,1000,30,2500,25,3000
+Captain Zubkov,Polar Bear,15,Life,-,Polaris,Urville Station,0,Yes,20,1000,30,2500,25,3000
+Solitary Warden,Polar Bear,15,Life,-,Polaris,The Basstille,0,Yes,20,1000,30,2500,25,3000
+Iron Paw Intake Captain,Polar Bear,14,Storm,-,Polaris,The Basstille,0,No,10,500,20,1500,15,2000
+Colonel Orlov,Polar Bear,15,Ice,-,Polaris,Borealis Peaks,0,Yes,20,1000,30,2500,25,3000
+Ivan,Polar Bear,15,Fire,-,Polaris,Frigid Maw,0,Yes,20,1000,30,2500,25,3000
+Tundarian Enforcer,Polar Bear,14,Ice,-,Polaris,Walruskberg,0,No,10,500,20,1500,15,2000
+Iron Paw,Polar Bear,14,Storm,-,Polaris,The Basstille OR The Basstille - Solitary Confinement,0,No,10,500,20,1500,15,2000
+Imperial Guard,Polar Bear,14,Fire,-,Polaris,Walruskberg,0,No,10,500,20,1500,15,2000
+Captain Kravchuck,Polar Bear,15,Balance,-,Polaris,Urville Station,0,Yes,20,1000,30,2500,25,3000
+Gulag Guard,Polar Bear,15,Death,-,Polaris,Frigid Maw OR Urville Station,0,No,10,500,20,1500,15,2000
+Warden Vissarovich,Polar Bear,15,Ice,-,Polaris,The Basstille,0,Yes,20,1000,30,2500,25,3000
+Warden Vissarovich,Polar Bear,15,Ice,-,Polaris,???,0,Yes,20,1000,30,2500,25,3000
+Marshal Kamensky,Polar Bear,15,Death,-,Polaris,Walruskberg,0,Yes,20,1000,30,2500,25,3000
+Assistant Warden Porfiry,Polar Bear,15,Balance,-,Polaris,The Basstille,0,Yes,20,1000,30,2500,25,3000
+Imperial Justice Payne,Polar Bear,15,Myth,-,Polaris,Walruskberg,0,Yes,20,1000,30,2500,25,3000
+Terror Hound,Undead,14,Balance,-,Polaris,River of Frozen Tears,0,No,10,500,20,1500,15,2000
+Greater Borealis Golem,Golem,15,Storm,-,Polaris,Kataba IceBlock,0,Yes,20,1000,30,2500,25,3000
+Borealis Golem,Golem,15,Ice,-,Polaris,Borealis Peaks OR Kataba IceBlock,0,No,10,500,20,1500,15,2000
+Lesser Borealis Golem,Golem,15,Fire,-,Polaris,Borealis Peaks OR Kataba IceBlock,0,No,10,500,20,1500,15,2000
+Snow Treant,Treant,14,Ice,-,Polaris,Forlorn Tayg,0,No,10,500,20,1500,15,2000
+Snowbeard,Treant,15,Life,-,Polaris,Forlorn Tayg,0,Yes,20,1000,30,2500,25,3000
+Broken Land Guardian,Undead,15,Fire,-,Polaris,Forlorn Tayg,0,Yes,20,1000,30,2500,25,3000
+Shattered Sky Guardian,Undead,15,Ice,-,Polaris,River of Frozen Tears,0,Yes,20,1000,30,2500,25,3000
+Sundered Seam Guardian,Undead,15,Storm,-,Polaris,Frigid Maw,0,Yes,20,1000,30,2500,25,3000
+Broken Land Spirit,Undead,15,Myth,-,Polaris,Forlorn Tayg,0,No,10,500,20,1500,15,2000
+Shattered Sky Spirit,Undead,15,Balance,-,Polaris,River of Frozen Tears,0,No,10,500,20,1500,15,2000
+Sundered Seam Spirit,Undead,15,Death,-,Polaris,Frigid Maw,0,No,10,500,20,1500,15,2000
+Colonel Ivanenko,Polar Bear,15,Storm,-,Polaris,Urville Station,0,Yes,20,1000,30,2500,25,3000
+Algid Wyrm,Wyrm,15,Ice,-,Polaris,Breathing Cave,0,Yes,20,1000,30,2500,25,3000
+Haunted Minion,Undead,1,Balance,-,Wizard City,Dark Cave OR Firecat Alley,0,No,6,500,15,1500,15,2000
+Hydromatic Drone,Golem,10,Ice,-,Dungeons,Waterworks,0,No,10,500,20,1500,15,2000
+Celestian Construct,Golem,10,Moon,-,Dungeons,Waterworks,0,No,10,500,20,1500,15,2000
+Swimming Specter,Undead,10,Sun,-,Dungeons,Waterworks,0,No,10,500,20,1500,15,2000
+Heartburner Golem,Golem,12,Fire,-,Wizard City,Sunken City,0,No,10,500,20,1500,15,2000
+Virulent Gas Golem,Golem,12,Life,-,Wizard City,Sunken City,0,No,10,500,20,1500,15,2000
+Simon the Sayer,Undead,12,Storm,-,Wizard City,Sunken City,0,Yes,20,1000,30,2500,25,3000
+Spirit of Ignorance,Undead,5,Myth,-,Dungeons,Crab Alley,0,Yes,20,1000,30,2500,25,3000
+Benighted Revenant,Undead,4,Death,-,Dungeons,Crab Alley,0,No,10,500,20,1500,15,2000
+Burned Out Soul,Undead,3,Fire,-,Dungeons,Crab Alley,0,No,10,500,20,1500,15,2000
+Feckless Soul,Undead,3,Life,-,Dungeons,Crab Alley,0,No,10,500,20,1500,15,2000
+Howling Wraith,Undead,3,Death,-,Wizard City,Sunken City,1,No,6,500,15,1500,15,2000
+Rattlebones,Undead,7,Death,-,Dungeons,Rattlebones Master Duel,0,Yes,20,1000,30,2500,25,3000
+Rattlebones,Undead,14,Death,-,Dungeons,Rattlebones Exalted Duel,0,Yes,20,1000,30,2500,25,3000
+Scarlet Screecher,Undead,2,Myth,-,Wizard City,Skull Fort,0,No,10,500,20,1500,15,2000
+Rotted Fodder,Undead,2,Storm,-,Wizard City,Triton Avenue,0,No,10,500,20,1500,15,2000
+Skeletal Corsair,Undead,1,Death,-,Wizard City,Blackhope Tower,0,No,10,500,20,1500,15,2000
+Ervin the Barbarian,Pig,12,Death,-,Dungeons,Tower of the Helephant,0,Yes,20,1000,30,2500,25,3000
+Kogasha,Elephant,11,Fire,-,Dungeons,Tower of the Helephant,0,Yes,20,1000,30,2500,25,3000
+Kaimanite Mummy,Undead,11,Ice,-,Dungeons,Tower of the Helephant,0,No,10,500,20,1500,15,2000
+Volcanis Golem,Colossus,11,Fire,-,Dungeons,Tower of the Helephant,0,No,10,500,20,1500,15,2000
+Tonkatsu Thug,Pig,10,Balance,-,Dungeons,Tower of the Helephant,0,Yes,20,1000,30,2500,25,3000
+Green Man,Treant,5,Life,-,Wysteria,Pigswick Academy OR Tanglewood Way,0,No,10,500,20,1500,15,2000
+Lord Bramble,Treant,5,Life,-,Wysteria,Pigswick Academy,0,Yes,20,1000,30,2500,25,3000
+Bleys Flamerender,Pig,5,Fire,-,Wysteria,Pigswick Academy,0,No,10,500,20,1500,15,2000
+Randolf Spellshine,Pig,5,Myth,-,Wysteria,Pigswick Academy,0,No,10,500,20,1500,15,2000
+Barkskin Treant,Treant,5,Life,-,Wysteria,Tanglewood Way,0,No,10,500,20,1500,15,2000
+Cheliceran Crawler,Spider,11,Balance,-,Dungeons,Tower of the Helephant,0,Yes,20,1000,30,2500,25,3000
+Arachnite Creeper,Spider,11,Life,-,Dungeons,Tower of the Helephant,0,No,10,500,20,1500,15,2000
+Chelicaran Stalker,Spider,10,Ice,-,Dungeons,Tower of the Helephant,0,No,10,500,20,1500,15,2000
+Razorleaf Treant,Treant,10,Life,-,Dungeons,Tower of the Helephant,0,No,10,500,20,1500,15,2000
+Painted Cave Monster,Spider,15,Fire,-,Zafaria,Savannah,0,Yes,20,1000,30,2500,25,3000
+Amedras Lightstep,Elephant,11,Balance,-,Zafaria,Stone Town,0,Yes,20,1000,30,2500,25,3000
+Belloq,Elephant,10,Balance,-,Zafaria,Waterfront,0,Yes,20,1000,30,2500,25,3000
+Musuth Berserker,Elephant,10,Fire,-,Zafaria,Stone Town OR Waterfront,0,No,10,500,20,1500,15,2000
+Black Tusk Cultist,Elephant,10,Death,-,Zafaria,Black Palace OR Drum Jungle OR Elephant Graveyard OR Stone Town OR Waterfront,0,No,10,500,20,1500,15,2000
+Longdreamer Shaman,Elephant,10,Myth,-,Zafaria,Drum Jungle OR Zamunda OR Zamunda Outskirts,0,No,10,500,20,1500,15,2000
+Murat Greyeyes,Elephant,11,Death,-,Zafaria,Elephant Graveyard,0,Yes,20,1000,30,2500,25,3000
+Elephant Soldier,Elephant,10,Myth,-,Zafaria,Drum Jungle OR Stone Town,0,No,10,500,20,1500,15,2000
+Elephant Spectral Guardian,Elephant OR Undead,11,Sun,-,Zafaria,Shining Mountain,0,Yes,20,1000,30,2500,25,3000
+Bwana Shadowriver,Undead,11,Fire,-,Zafaria,Savannah,0,Yes,20,1000,30,2500,25,3000
+Killmare Spiritwalker,Undead,11,Life,-,Zafaria,Savannah,0,Yes,20,1000,30,2500,25,3000
+Rasik Pridefall,Elephant,10,Ice,-,Zafaria,Black Palace OR Zamunda,0,No,10,500,20,1500,15,2000
+Lion Spectral Guardian,Undead,11,Myth,-,Zafaria,Shining Mountain,0,Yes,20,1000,30,2500,25,3000
+Horned Monkey Spider,Spider,10,Ice,-,Zafaria,King's Tomb OR Savannah,0,No,10,500,20,1500,15,2000
+Grey Ogre Spider,Spider,11,Balance,-,Zafaria,Elephant Graveyard,0,No,10,500,20,1500,15,2000
+Starburst Spider,Spider,11,Storm,-,Zafaria,Mirror Lake,0,Yes,20,1000,30,2500,25,3000
+Zanga Zebu,Undead,10,Ice,-,Zafaria,King's Tomb,0,Yes,20,1000,30,2500,25,3000
+Iklaw Ghost Warrior,Undead,10,Death,-,Zafaria,King's Tomb,0,No,10,500,20,1500,15,2000
+Gorilla Spectral Guardian,Undead,11,Fire,-,Zafaria,Shining Mountain,0,Yes,20,1000,30,2500,25,3000
+Zebra Spectral Guardian,Undead,11,Ice,-,Zafaria,Shining Mountain,0,Yes,20,1000,30,2500,25,3000
