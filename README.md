@@ -1,6 +1,8 @@
 # wizard101-info
 A collection of Wizard101 information I thought could be useful for someone.
 
+Get Pirate101 information [here](https://github.com/PeechezNCreem/pirate101-info).
+
 # Listing
 `items/items.txt`: stats for every item and ids for each item card.
 
