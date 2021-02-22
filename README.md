@@ -6,6 +6,8 @@ Get Pirate101 information [here](https://github.com/PeechezNCreem/pirate101-info
 # Listing
 `items/items.txt`: stats for every item and ids for each item card.
 
+`mobs/block.csv`: every mob's block as you would see from the stats screen (universal added to each school value).
+
 `monstrology/monsters.csv`: information for every monstrology creature including those impossible to get in game. The locations are not as accurate as I wish and slightly buggy for multiple locations.
 
 `pets/talent-formulas.csv`: formulas to calculate the real values of pet talents. Use these for things like damage calculation.
