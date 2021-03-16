@@ -11,11 +11,12 @@ Current Features:
 - Very small, single file application
 
 Hotkeys:
-Alt+Q: Teleport to quest.
-Alt+E: Teleport to quest, offset in *current direction.*
-Alt+R: Reset offset.
-Alt+F: Increase offset.
-Alt+C: Decrease offset.
+- Alt+Q: Teleport to quest.
+- Alt+E: Teleport to quest, offset in *current direction.*
+- Alt+R: Reset offset.
+- Alt+F: Increase offset.
+- Alt+C: Decrease offset.
+
 
 I uploaded it in an encrypted zip archive to prevent any possible issues downloading. If you share this with anyone, please send them this archive.
 **Zip Archive Password**: `PeechezNCreem`
