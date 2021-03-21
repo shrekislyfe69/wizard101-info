@@ -10,6 +10,7 @@ Current Features:
 - Multibox support (should have no limit on active clients)
 - Dynamic clients (you can open and close games anytime)
 - Single instance
+- Pirate101 and Wizard101 support
 
 Hotkeys:
 - Alt+Q: Teleport to quest.
@@ -17,6 +18,8 @@ Hotkeys:
 - Alt+R: Reset offset.
 - Alt+F: Increase offset.
 - Alt+C: Decrease offset.
+
+Teleports work slightly differently in Pirate101. Changing your direction will not update your position and teleport with offset is currently not needed.
 
 I uploaded it in an encrypted zip archive to prevent any possible issues downloading. If you share this with anyone, please send them this archive.
 **Zip Archive Password**: `PeechezNCreem`
