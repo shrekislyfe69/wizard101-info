@@ -11,6 +11,7 @@ Current Features:
 - Dynamic clients (you can open and close games anytime)
 - Single instance
 - Pirate101 and Wizard101 support
+- Gameforge support for Wizard101
 
 Hotkeys:
 - Alt+Q: Teleport to quest.
