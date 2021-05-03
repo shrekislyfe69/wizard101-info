@@ -12,8 +12,8 @@ Current Features:
 - Multibox support (should have no limit on active clients)
 - Dynamic clients (you can open and close games anytime)
 - Single instance
-- ~~Pirate101 and~~Wizard101 support
-- ~~Gameforge support for Wizard101~~
+- Pirate101 and Wizard101 support
+- Gameforge support for Wizard101
 
 Hotkeys:
 - Alt+Q: Teleport to quest.
@@ -25,6 +25,6 @@ Hotkeys:
 I uploaded it in an encrypted zip archive to prevent any possible issues downloading. If you share this with anyone, please send them this archive.
 **Zip Archive Password**: `PeechezNCreem`
 
-Archive SHA-256: `B86702B6641F08EAB90A1C8B46AAA7EFA433DA87042CF84D7D43B4F4E09DC47B`
+Archive SHA-256: `C7E2110479C0DA42F6FF8047CF9756F77131063D59E8B2C2383C522B27534FA0`
 
-Executable SHA-256: `78FFF7ABA5D39F24E82729A6D7A7EE9002AE89E04E7BFE53A4EA69F75A301B54`
+Executable SHA-256: `B71D64F1C7CCDF724B44136DF2983C79587BA6A78CC74AAC2C2E0686B042A607`
