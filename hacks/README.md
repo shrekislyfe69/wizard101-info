@@ -24,7 +24,3 @@ Hotkeys:
 
 I uploaded it in an encrypted zip archive to prevent any possible issues downloading. If you share this with anyone, please send them this archive.
 **Zip Archive Password**: `PeechezNCreem`
-
-Archive SHA-256: `C7E2110479C0DA42F6FF8047CF9756F77131063D59E8B2C2383C522B27534FA0`
-
-Executable SHA-256: `B71D64F1C7CCDF724B44136DF2983C79587BA6A78CC74AAC2C2E0686B042A607`
