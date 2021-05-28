@@ -1,498 +1,498 @@
-Priority,Name
-0,Furnace
-1,Dragonblade
-2,Time Skip
-3,Hex Trained
-4,Ice Seed Farmer
-5,Thunder Lizard
-6,Tranquilize
-7,Efficient
-8,Effective
-9,Cunning
-10,Best of Show
-11,Stalwart
-12,Adroit
-13,Life Hunter
-14,Mulligan's Shuffle
-15,Extra Mana
-16,Death Striker
-17,Pierce Train
-18,Storm Scout
-19,Snow 'n Tell
-20,Death Scout
-21,Guardian Wall
-22,Ice Assistant
-23,Epic Fishing Luck
-24,Fishing Luck
-25,Batusi
-26,Balance Finder
-27,Pip o'Plenty
-28,Reveal Fish School
-29,Solar Aegis Trained
-30,Sharp-Shot
-31,Sharp-Eye
-32,Myth Seed Farmer
-33,Time of Legend Trained
-34,Spartan
-35,Stun Resistant
-36,Stun Recalcitrant
-37,Death Seed Farmer
-38,Tick Kicker
-39,Gold Miner
-40,Myth Assistant
-41,Rage of Winter
-42,Elemental Scout
-43,Fire-Shot
-44,Fire-Sniper
-45,Fire-Eye
-46,Storm Assailant
-47,Balance Hunter
-48,Balance Assistant
-49,Snow Heal For You!
-50,Storm Finder
-51,S. Elemental
-52,Mend
-53,Early Bird
-54,Sturdy
-55,Well Trained
-56,Dependable
-57,Vigilant
-58,Cautious
-59,Intuitive
-60,Attentive
-61,Perceptive
-62,Empowerment
-63,DOT Doctor
-64,Vengeance
-65,Conviction
-66,Tower Shield
-67,SnowBorn
-68,Fortify
-69,Fire Finder
-70,Blade of Ice
-71,Bad Snowman
-72,Balance Finder
-73,Amplify
-74,Earth Walker Trained
-75,Defender
-76,Doom & Gloom Trained
-77,Blocker
-78,Myth Scout
-79,Fire Scout
-80,Life Scout
-81,Spirit Blade
-82,Unstoppable
-83,Strong
-84,Monstrous
-85,Giant
-86,Keen Eyes
-87,Gargantuan
-88,Accurate
-89,Pacify
-90,Draw Power Trained
-91,Namaste Trained
-92,Storm-Eye
-93,Storm-Shot
-94,Storm-Sniper
-95,Stormclaw
-96,Death Assistant
-97,Black Mantle Trained
-98,Windstorm Trained
-99,Ally Elemental Shield
-100,Healthy
-101,Leafstorm Trained
-102,Ice Armor Trained
-103,Curse Trained
-104,Avenger
-105,Elemental Scout
-106,Ally Dragonblade
-107,Death Finder
-108,Hydra Trained
-109,Balanceblade
-110,Deathspear
-111,Cat Thug Trained
-112,Balance Striker
-113,Balance Assailant
-114,Frostbite Trained
-115,Death-Eye
-116,Death-Shot
-117,Death-Sniper
-118,Ice-Boon
-119,Pain-Bringer
-120,Myth Hunter
-121,Myth-Giver
-122,Fire-Giver
-123,Life-Giver
-124,Elemental Retriever
-125,Triage Trained
-126,Fire Striker
-127,Life Striker
-128,Mana Gift
-129,Frozen Kraken Trained
-130,Fire Assailant
-131,Life Assailant
-132,Taunt
-133,Curse Trained
-134,Feint
-135,Element Shield
-136,Myth Seed Farmer
-137,Ice-Giver
-138,Pain-Giver
-139,Vanquisher
-140,Vehement Vanquisher
-141,Pip Saver
-142,Curse Giver
-143,Plaguebringer
-144,Steal Health
-145,Smoke Screen Trained
-146,Big Sparky
-147,Storm-Tooth
-148,Balance-Boon
-149,Balance-Dealer
-150,Balance-Giver
-151,Sword and Shield Trained
-152,Hydra Trained
-153,Ally Glacial Shield
-154,Ice-Dealer
-155,Shift Trained
-156,Storm Front
-157,Stormspear
-158,Ice-Proof
-159,Spell-Proof
-160,Hatch Catcher
-161,Clean Charm
-162,Myth-Proof
-163,Legend Shield Trained
-164,Fire-Proof
-165,Life-Proof
-166,Ally Volcanic Shield
-167,Evil Eye
-168,Unbalancer
-169,Balance-Ward
-170,Balance-Off
-171,Mega Soothe
-172,Pyrosaurus Rex
-173,Unbalance
-174,Steal Ward
-175,Iceblade
-176,Punishment
-177,Ice-Ward
-178,Balefrost Trained
-179,Lifespear
-180,Firespear
-181,Windstorm
-182,Ice-Shot
-183,Ice-Sniper
-184,Ice-Eye
-185,Steal Charm
-186,Virulence
-187,Death Seed Farmer
-188,Mythspear
-189,Vampire Trained
-190,Track-r-Treater
-191,Button Tom
-192,Element Blade
-193,Hex Trained
-194,Fire Hunter
-195,Fire Finder
-196,Shatter Trained
-197,Mana Boost
-198,Shift Trained
-199,Boss Toad
-200,Spritely
-201,Plague Trained
-202,Ice Armor Trained
-203,Link Trained
-204,Fuel Trained
-205,Wise
-206,Crafty
-207,Weakness
-208,Strangle
-209,Entangle
-210,Balance of Power Trained
-211,Ice-Away
-212,Spell-Defying
-213,Balancespear
-214,Elemental Retriever
-215,Light Strike
-216,Time of Legend Trained
-217,Death Ninja Pig Trained
-218,Solar Aegis Trained
-219,Cleanse Charm Trained
-220,Steadfast
-221,Sharp
-222,Eager
-223,Rugged
-224,Reliquary
-225,Detonate Trained
-226,Ace Avenger
-227,Myth Finder
-228,Cat Thug Trained
-229,Blazing Oak
-230,Darkwind Trained
-231,Immolate Trained
-232,Ice Trap
-233,Element Trap
-234,Thinkin' Cap
-235,Canny
-236,Gardening Pixie
-237,Death Hunter
-238,Durable
-239,Astute
-240,Spirited
-241,Tenacious
-242,Fairy Friend
-243,Sprite Queen
-244,Galvanic Field
-245,Balefrost Trained
-246,Clock Spider
-247,Life-Shot
-248,Life-Sniper
-249,Life-Eye
-250,Storm-Proof
-251,Storm-Ward
-252,Storm-Away
-253,Incredibly Infallible
-254,Hatch Catcher
-255,Devotion
-256,Balance Scout
-257,Critical Striker
-258,Ice Assailant
-259,Critical Hitter
-260,Ice Striker
-261,Icespear
-262,Add Health
-263,Health Gift
-264,Health Boost
-265,Health Bounty
-266,Wyldfire Trained
-267,Fire Hunter
-268,Plague Trained
-269,Steal Blade
-270,Ice Hunter
-271,Balance Hunter
-272,Life Finder
-273,PierceMonger
-274,Spirit Armor
-275,Get Sunbird
-276,Snow Shield
-277,Myth Shield
-278,Brown Recluse
-279,Death-Boon
-280,Death-Dealer
-281,Death-Giver
-282,Fire Shield
-283,Life Shield
-284,Dogged
-285,Calculating
-286,Cheeky
-287,Hearty
-288,Buff Minion
-289,Green Thumb
-290,Life-Away
-291,Life-Ward
-292,Pyromania
-293,Steal Charm Trained
-294,Fire-Away
-295,Fire-Ward
-296,Storm Trap
-297,Pip Conserver
-298,Might of Myth
-299,Vaporize
-300,Life Assistant
-301,Drop It
-302,Myth-Away
-303,Myth-Ward
-304,Screen
-305,Storm Assistant
-306,Magnificent Mender
-307,Mender
-308,Stormblade
-309,Distract
-310,Death Finder
-311,Energizing Battery
-312,Sword and Shield!
-313,Death-Proof
-314,Death-Ward
-315,Death-Away
-316,Expert Empowerer
-317,Subdue
-318,Pip Boost
-319,Buff Minion
-320,Heart o'Pixie
-321,Power-Taker
-322,Plague
-323,Blade Flurry
-324,Disarmament
-325,Vengeful Seraph
-326,Animate Skeleton
-327,Infector
-328,Feinting Spell
-329,Ice Hunter
-330,Wyldfire Trained
-331,Myth Trap
-332,Life Seed Farmer
-333,Myth Assailant
-334,Life Trap
-335,Go Humongo
-336,Fire Trap
-337,Blade of Life
-338,Blade of Fire
-339,Aura Crush
-340,Frostbite Trained
-341,Myth Striker
-342,Life-Bringer
-343,Life-Boon
-344,Fire-Dealer
-345,Fire-Boon
-346,Myth-Dealer
-347,Myth-Boon
-348,Ward Wrecker
-349,Cycle of Life
-350,Track-r-Treater
-351,Sleet Storm
-352,Unicorn
-353,Relentless
-354,Brilliant
-355,Powerful
-356,Mighty
-357,Death Trap
-358,Earth Walker Trained
-359,Death Ninja Pig Trained
-360,The Deer Knight Rises
-361,Ice Scout
-362,Immolate Trained
-363,Darkwind Trained
-364,Myth Hunter
-365,Mana Bounty
-366,Deathblade
-367,Crystallize
-368,Triage Trained
-369,Pet Rescue
-370,Detonate Trained
-371,Fire Assistant
-372,Bulwark
-373,Storm Hunter
-374,Smoke Screen
-375,Black Mantle Trained
-376,Dissipate
-377,Fearless Fortifier
-378,Shatter Trained
-379,Mend Minion
-380,Sprite Time
-381,Elf on Fire
-382,Big Energy
-383,Huge Energy
-384,Energy
-385,Ultra Energy
-386,Spirit Trap
-387,Balance Scout
-388,Ice Finder
-389,Storm-Boon
-390,Storm-Dealer
-391,Storm-Giver
-392,Vampire Trained
-393,Amplifier
-394,Ardent Amplifier
-395,Courageous
-396,Intrepid
-397,Refreshed
-398,Resourceful
-399,Quick-Witted
-400,Gifted
-401,Vigorous
-402,Dashing
-403,Effervescent
-404,Lively
-405,Balance of Power Trained
-406,Steal Charm Trained
-407,Power Player
-408,Feeling Weak
-409,Hexster
-410,Sap Health
-411,Balanceblade
-412,Death Shield
-413,Ice Seed Farmer
-414,Myth Finder
-415,Life Fuel
-416,Reinforce
-417,Cleanse Charm Trained
-418,Storm Finder
-419,Myth Fuel
-420,Death Scout
-421,Chastisement
-422,Storm Scout
-423,Ice Finder
-424,"No Pain, No Gain"
-425,Black Widow
-426,Life Finder
-427,Death Assailant
-428,Healer
-429,Medic
-430,Bullheaded
-431,Doom & Gloom Trained
-432,Guiding Light
-433,Berserker
-434,Brazen Berserker
-435,Tireless
-436,Determined
-437,Unshakeable
-438,Sword and Shield Trained
-439,Ally Thermic Shield
-440,Curse
-441,Frenzied
-442,Spirit Shield
-443,Life Seed Farmer
-444,Freeze
-445,Ally Stun Block
-446,Draw Power Trained
-447,Black Mantle
-448,Death Hunter
-449,Charm Chopper
-450,Life Scout
-451,Fire Scout
-452,Myth Scout
-453,Windstorm Trained
-454,Leafstorm Trained
-455,Cooldown Trained
-456,Smoke Screen Trained
-457,Biting Cold
-458,Legend Shield Trained
-459,Grand Phoenix
-460,Myth-Eye
-461,Myth-Sniper
-462,Myth-Shot
-463,Ally Ether Shield
-464,Ally Spirit Shield
-465,Storm Hunter
-466,Lifeblade
-467,Fireblade
-468,Wisp Bonus
-469,Hex
-470,Careful
-471,Forceful
-472,Capable
-473,Mythblade
-474,Link Trained
-475,Fuel Trained
-476,Cooldown Trained
-477,Storm Shield
-478,Armor Breaker
-479,Armor Piercer
-480,Storm Striker
-481,Defender's Rampart
-482,Cure Crusher
-483,Frozen Kraken Trained
-484,Quench
-485,Melt
-486,Life Hunter
-487,Ice Scout
-488,Namaste Trained
-489,Stun
-490,Calm
-491,Fuel
-492,Clean Ward
-493,Balance-Eye
-494,Balance-It
-495,Gold Rusher
-496,Balance-Sniper
+"Priority","Name","Description","Rank"
+"0","Furnace","May Cast "Furnace" Spell","Ultra-Rare"
+"1","Dragonblade","May Cast "Dragonblade" Spell","Ultra-Rare"
+"2","Time Skip","","Epic"
+"3","Hex Trained","Will cast Hex","Rare"
+"4","Ice Seed Farmer","May find Ice seeds","Epic"
+"5","Thunder Lizard","","Epic"
+"6","Tranquilize","May Cast "Tranquilize" Spell","Rare"
+"7","Efficient","","Rare"
+"8","Effective","","Uncommon"
+"9","Cunning","","Ultra-Rare"
+"10","Best of Show","","Ultra-Rare"
+"11","Stalwart","","Rare"
+"12","Adroit","","Uncommon"
+"13","Life Hunter","May find rare Life Treasure Cards in chests","Ultra-Rare"
+"14","Mulligan's Shuffle","","Epic"
+"15","Extra Mana","","Common"
+"16","Death Striker","","Ultra-Rare"
+"17","Pierce Train","May Cast "Pierce" Spell","Epic"
+"18","Storm Scout","May find bonus Storm reagents","Uncommon"
+"19","Snow 'n Tell","May Cast "Snow Serpent" Spell","Ultra-Rare"
+"20","Death Scout","May find bonus Death reagents","Uncommon"
+"21","Guardian Wall","May Cast "Tower Shield" Spell","Epic"
+"22","Ice Assistant","Will cast Ice Assist","Common"
+"23","Epic Fishing Luck","Greatly Increases Fishing Luck","Epic"
+"24","Fishing Luck","Increases Fishing Luck","Epic"
+"25","Batusi","May Cast "Lifebat" Spell","Ultra-Rare"
+"26","Balance Finder","May find Essence of Balance Elixirs in chests","Rare"
+"27","Pip o'Plenty","","Rare"
+"28","Reveal Fish School","May Cast Fishing "Reveal Fish School" Spell","Rare"
+"29","Solar Aegis Trained","Will cast Solar Aegis","Rare"
+"30","Sharp-Shot","","Ultra-Rare"
+"31","Sharp-Eye","","Rare"
+"32","Myth Seed Farmer","May find Myth seeds","Epic"
+"33","Time of Legend Trained","Will cast Time of Legend","Ultra-Rare"
+"34","Spartan","","Epic"
+"35","Stun Resistant","","Ultra-Rare"
+"36","Stun Recalcitrant","","Epic"
+"37","Death Seed Farmer","May find Death seeds","Epic"
+"38","Tick Kicker","May Cast "Cooldown" Spell","Ultra-Rare"
+"39","Gold Miner","Increases % of Gold Rewards from Duels","Epic"
+"40","Myth Assistant","Will cast Myth Assist","Common"
+"41","Rage of Winter","","Epic"
+"42","Elemental Scout","May find bonus Fire, Ice, or Storm reagents","Ultra-Rare"
+"43","Fire-Shot","","Uncommon"
+"44","Fire-Sniper","","Ultra-Rare"
+"45","Fire-Eye","","Common"
+"46","Storm Assailant","","Epic"
+"47","Balance Hunter","May find rare Balance Treasure Cards in chests","Ultra-Rare"
+"48","Balance Assistant","Will cast Balance Assist","Common"
+"49","Snow Heal For You!","May Cast "Snow Drift" Spell","Epic"
+"50","Storm Finder","May find Essence of Storm Elixirs in chests","Rare"
+"51","S. Elemental","","Epic"
+"52","Mend","","Epic"
+"53","Early Bird","","Ultra-Rare"
+"54","Sturdy","","Uncommon"
+"55","Well Trained","","Rare"
+"56","Dependable","","Uncommon"
+"57","Vigilant","","Rare"
+"58","Cautious","","Ultra-Rare"
+"59","Intuitive","","Rare"
+"60","Attentive","","Uncommon"
+"61","Perceptive","","Ultra-Rare"
+"62","Empowerment","","Epic"
+"63","DOT Doctor","May Cast "Triage" Spell","Epic"
+"64","Vengeance","","Epic"
+"65","Conviction","","Epic"
+"66","Tower Shield","","Epic"
+"67","SnowBorn","","Ultra-Rare"
+"68","Fortify","","Epic"
+"69","Fire Finder","May find Essence of Fire Elixirs in chests","Rare"
+"70","Blade of Ice","","Rare"
+"71","Bad Snowman","","Uncommon"
+"72","Balance Finder","May find Essence of Balance Elixirs in chests","Rare"
+"73","Amplify","","Epic"
+"74","Earth Walker Trained","Will cast Earth Walker","Rare"
+"75","Defender","","Epic"
+"76","Doom & Gloom Trained","Will cast Doom & Gloom","Ultra-Rare"
+"77","Blocker","","Ultra-Rare"
+"78","Myth Scout","May find bonus Myth reagents","Uncommon"
+"79","Fire Scout","May find bonus Fire reagents","Uncommon"
+"80","Life Scout","May find bonus Life reagents","Uncommon"
+"81","Spirit Blade","May Cast "Spirit Blade" Spell","Epic"
+"82","Unstoppable","","Epic"
+"83","Strong","","Uncommon"
+"84","Monstrous","","Ultra-Rare"
+"85","Giant","","Rare"
+"86","Keen Eyes","","Uncommon"
+"87","Gargantuan","","Epic"
+"88","Accurate","","Rare"
+"89","Pacify","May Cast "Pacify" Spell","Rare"
+"90","Draw Power Trained","Will cast Draw Power","Uncommon"
+"91","Namaste Trained","Will cast Namaste","Ultra-Rare"
+"92","Storm-Eye","","Common"
+"93","Storm-Shot","","Uncommon"
+"94","Storm-Sniper","","Ultra-Rare"
+"95","Stormclaw","","Epic"
+"96","Death Assistant","Will cast Death Assist","Common"
+"97","Black Mantle Trained","Will cast Black Mantle","Rare"
+"98","Windstorm Trained","Will cast Windstorm","Ultra-Rare"
+"99","Ally Elemental Shield","May Cast "Elemental Shield" on ally","Epic"
+"100","Healthy","","Rare"
+"101","Leafstorm Trained","Will cast Leafstorm","Rare"
+"102","Ice Armor Trained","Will cast Ice Armor","Rare"
+"103","Curse Trained","Will cast Curse","Rare"
+"104","Avenger","May Cast "Vengeance" Spell","Ultra-Rare"
+"105","Elemental Scout","May find bonus Fire, Ice, or Storm reagents","Ultra-Rare"
+"106","Ally Dragonblade","May Cast "Dragonblade" on ally","Epic"
+"107","Death Finder","May find Essence of Death Elixirs in chests","Rare"
+"108","Hydra Trained","Will cast Hydra","Epic"
+"109","Balanceblade","May Cast "Balanceblade" Spell","Epic"
+"110","Deathspear","May Cast "Deathspear" Spell","Rare"
+"111","Cat Thug Trained","Will cast Cat Thug","Rare"
+"112","Balance Striker","","Ultra-Rare"
+"113","Balance Assailant","","Epic"
+"114","Frostbite Trained","Will cast Frostbite","Epic"
+"115","Death-Eye","","Common"
+"116","Death-Shot","","Uncommon"
+"117","Death-Sniper","","Ultra-Rare"
+"118","Ice-Boon","","Common"
+"119","Pain-Bringer","","Rare"
+"120","Myth Hunter","May find rare Myth Treasure Cards in chests","Ultra-Rare"
+"121","Myth-Giver","","Uncommon"
+"122","Fire-Giver","","Uncommon"
+"123","Life-Giver","","Uncommon"
+"124","Elemental Retriever","May find Fire, Ice, or Storm Spellements","Epic"
+"125","Triage Trained","Will cast Triage","Uncommon"
+"126","Fire Striker","","Ultra-Rare"
+"127","Life Striker","","Ultra-Rare"
+"128","Mana Gift","","Rare"
+"129","Frozen Kraken Trained","Will cast Frozen Kraken","Rare"
+"130","Fire Assailant","","Epic"
+"131","Life Assailant","","Epic"
+"132","Taunt","May Cast "Taunt" Spell","Ultra-Rare"
+"133","Curse Trained","Will cast Curse","Rare"
+"134","Feint","May Cast "Feint" Spell","Epic"
+"135","Element Shield","May Cast "Elemental Shield" Spell","Epic"
+"136","Myth Seed Farmer","May find Myth seeds","Epic"
+"137","Ice-Giver","","Uncommon"
+"138","Pain-Giver","","Ultra-Rare"
+"139","Vanquisher","May Cast "Conviction" Spell","Ultra-Rare"
+"140","Vehement Vanquisher","May Cast "Conviction" Spell","Epic"
+"141","Pip Saver","","Ultra-Rare"
+"142","Curse Giver","","Uncommon"
+"143","Plaguebringer","","Ultra-Rare"
+"144","Steal Health","","Uncommon"
+"145","Smoke Screen Trained","Will cast Smoke Screen","Epic"
+"146","Big Sparky","","Uncommon"
+"147","Storm-Tooth","","Ultra-Rare"
+"148","Balance-Boon","","Common"
+"149","Balance-Dealer","","Ultra-Rare"
+"150","Balance-Giver","","Uncommon"
+"151","Sword and Shield Trained","Will cast Sword and Shield","Ultra-Rare"
+"152","Hydra Trained","Will cast Hydra","Epic"
+"153","Ally Glacial Shield","May Cast "Glacial Shield" on ally","Epic"
+"154","Ice-Dealer","","Ultra-Rare"
+"155","Shift Trained","Will cast Shift","Rare"
+"156","Storm Front","May Cast "Darkwind" Spell","Epic"
+"157","Stormspear","May Cast "Stormspear" Spell","Rare"
+"158","Ice-Proof","","Uncommon"
+"159","Spell-Proof","","Epic"
+"160","Hatch Catcher","May find bonus Hatch Pepper reagents","Rare"
+"161","Clean Charm","May Cast "Cleanse Charm" Spell","Ultra-Rare"
+"162","Myth-Proof","","Uncommon"
+"163","Legend Shield Trained","Will cast Legend Shield","Uncommon"
+"164","Fire-Proof","","Uncommon"
+"165","Life-Proof","","Uncommon"
+"166","Ally Volcanic Shield","May Cast "Volcanic Shield" on ally","Epic"
+"167","Evil Eye","May Cast "Doom and Gloom" Spell","Epic"
+"168","Unbalancer","","Uncommon"
+"169","Balance-Ward","","Ultra-Rare"
+"170","Balance-Off","","Common"
+"171","Mega Soothe","May Cast "Mega Soothe" Spell","Ultra-Rare"
+"172","Pyrosaurus Rex","","Epic"
+"173","Unbalance","May Cast "Unbalance" Spell","Epic"
+"174","Steal Ward","May Cast "Steal Ward" Spell","Epic"
+"175","Iceblade","May Cast "Iceblade" Spell","Rare"
+"176","Punishment","May Cast "Punishment" Spell","Ultra-Rare"
+"177","Ice-Ward","","Ultra-Rare"
+"178","Balefrost Trained","Will cast Balefrost","Ultra-Rare"
+"179","Lifespear","May Cast "Lifespear" Spell","Rare"
+"180","Firespear","May Cast "Firespear" Spell","Rare"
+"181","Windstorm","May Cast "Windstorm" Spell","Ultra-Rare"
+"182","Ice-Shot","","Uncommon"
+"183","Ice-Sniper","","Ultra-Rare"
+"184","Ice-Eye","","Common"
+"185","Steal Charm","May Cast "Steal Charm" Spell","Epic"
+"186","Virulence","May Cast "Virulence" Spell","Ultra-Rare"
+"187","Death Seed Farmer","May find Death seeds","Epic"
+"188","Mythspear","May Cast "Mythspear" Spell","Rare"
+"189","Vampire Trained","Will cast Vampire","Ultra-Rare"
+"190","Track-r-Treater","May find Halloween items in chests","Rare"
+"191","Button Tom","","Epic"
+"192","Element Blade","May Cast "Elemental Blade" Spell","Epic"
+"193","Hex Trained","Will cast Hex","Rare"
+"194","Fire Hunter","May find rare Fire Treasure Cards in chests","Ultra-Rare"
+"195","Fire Finder","May find Essence of Fire Elixirs in chests","Rare"
+"196","Shatter Trained","Will cast Shatter","Epic"
+"197","Mana Boost","","Uncommon"
+"198","Shift Trained","Will cast Shift","Rare"
+"199","Boss Toad","","Epic"
+"200","Spritely","May Cast "Sprite" Spell","Rare"
+"201","Plague Trained","Will cast Plague","Rare"
+"202","Ice Armor Trained","Will cast Ice Armor","Rare"
+"203","Link Trained","Will cast Link","Rare"
+"204","Fuel Trained","Will cast Fuel","Ultra-Rare"
+"205","Wise","","Common"
+"206","Crafty","","Rare"
+"207","Weakness","May Cast "Weakness" Spell","Ultra-Rare"
+"208","Strangle","May Cast "Strangle" Spell","Epic"
+"209","Entangle","May Cast "Entangle" Spell","Epic"
+"210","Balance of Power Trained","Will cast Balance of Power","Ultra-Rare"
+"211","Ice-Away","","Common"
+"212","Spell-Defying","","Rare"
+"213","Balancespear","May Cast "Balancespear" Spell","Epic"
+"214","Elemental Retriever","May find Fire, Ice, or Storm Spellements","Epic"
+"215","Light Strike","May Cast "Lightning Strike" Spell","Rare"
+"216","Time of Legend Trained","Will cast Time of Legend","Ultra-Rare"
+"217","Death Ninja Pig Trained","Will cast Death Ninja Pig","Rare"
+"218","Solar Aegis Trained","Will cast Solar Aegis","Rare"
+"219","Cleanse Charm Trained","Will cast Cleanse Charm","Rare"
+"220","Steadfast","","Uncommon"
+"221","Sharp","","Uncommon"
+"222","Eager","","Uncommon"
+"223","Rugged","","Uncommon"
+"224","Reliquary","May Cast "Reliquary" Spell","Ultra-Rare"
+"225","Detonate Trained","Will cast Detonate","Rare"
+"226","Ace Avenger","May Cast "Vengeance" Spell","Epic"
+"227","Myth Finder","May find Essence of Myth Elixirs in chests","Rare"
+"228","Cat Thug Trained","Will cast Cat Thug","Rare"
+"229","Blazing Oak","","Epic"
+"230","Darkwind Trained","Will cast Darkwind","Ultra-Rare"
+"231","Immolate Trained","Will cast Immolate","Rare"
+"232","Ice Trap","May Cast "Ice Trap" Spell","Rare"
+"233","Element Trap","May Cast "Elemental Trap" Spell","Epic"
+"234","Thinkin' Cap","","Ultra-Rare"
+"235","Canny","","Uncommon"
+"236","Gardening Pixie","May Cast Gardening "Pixie" Spell","Rare"
+"237","Death Hunter","May find rare Death Treasure Cards in chests","Ultra-Rare"
+"238","Durable","","Rare"
+"239","Astute","","Rare"
+"240","Spirited","","Rare"
+"241","Tenacious","","Rare"
+"242","Fairy Friend","May Cast "Fairy" Spell","Uncommon"
+"243","Sprite Queen","May Cast "Sprite Queen" Spell","Ultra-Rare"
+"244","Galvanic Field","May Cast "Galvanic Field" Spell","Ultra-Rare"
+"245","Balefrost Trained","Will cast Balefrost","Ultra-Rare"
+"246","Clock Spider","","Epic"
+"247","Life-Shot","","Uncommon"
+"248","Life-Sniper","","Ultra-Rare"
+"249","Life-Eye","","Common"
+"250","Storm-Proof","","Uncommon"
+"251","Storm-Ward","","Ultra-Rare"
+"252","Storm-Away","","Common"
+"253","Incredibly Infallible","May Cast "Infallible" Spell","Epic"
+"254","Hatch Catcher","May find bonus Hatch Pepper reagents","Rare"
+"255","Devotion","May Cast "Devotion" Spell","Ultra-Rare"
+"256","Balance Scout","May find bonus Balance reagents","Uncommon"
+"257","Critical Striker","","Epic"
+"258","Ice Assailant","","Epic"
+"259","Critical Hitter","","Ultra-Rare"
+"260","Ice Striker","","Ultra-Rare"
+"261","Icespear","May Cast "Icespear" Spell","Rare"
+"262","Add Health","","Common"
+"263","Health Gift","","Rare"
+"264","Health Boost","","Uncommon"
+"265","Health Bounty","","Ultra-Rare"
+"266","Wyldfire Trained","Will cast Wyldfire","Ultra-Rare"
+"267","Fire Hunter","May find rare Fire Treasure Cards in chests","Ultra-Rare"
+"268","Plague Trained","Will cast Plague","Rare"
+"269","Steal Blade","May Cast "Steal Blade" Spell","Epic"
+"270","Ice Hunter","May find rare Ice Treasure Cards in chests","Ultra-Rare"
+"271","Balance Hunter","May find rare Balance Treasure Cards in chests","Ultra-Rare"
+"272","Life Finder","May find Essence of Life Elixirs in chests","Rare"
+"273","PierceMonger","","Epic"
+"274","Spirit Armor","","Epic"
+"275","Get Sunbird","","Epic"
+"276","Snow Shield","May Cast "Snow Shield" Spell","Rare"
+"277","Myth Shield","May Cast "Myth Shield" Spell","Rare"
+"278","Brown Recluse","","Epic"
+"279","Death-Boon","","Common"
+"280","Death-Dealer","","Ultra-Rare"
+"281","Death-Giver","","Uncommon"
+"282","Fire Shield","May Cast "Fire Shield" Spell","Rare"
+"283","Life Shield","May Cast "Life Shield" Spell","Rare"
+"284","Dogged","","Common"
+"285","Calculating","","Common"
+"286","Cheeky","","Common"
+"287","Hearty","","Common"
+"288","Buff Minion","May Cast "Buff Minion" Spell","Rare"
+"289","Green Thumb","May Cast "Sanctuary" Spell","Epic"
+"290","Life-Away","","Common"
+"291","Life-Ward","","Ultra-Rare"
+"292","Pyromania","May Cast "Wyldfire" Spell","Epic"
+"293","Steal Charm Trained","Will cast Steal Charm","Rare"
+"294","Fire-Away","","Common"
+"295","Fire-Ward","","Ultra-Rare"
+"296","Storm Trap","May Cast "Storm Trap" Spell","Rare"
+"297","Pip Conserver","","Epic"
+"298","Might of Myth","May Cast "Time of Legend" Spell","Epic"
+"299","Vaporize","May Cast "Vaporize" Spell","Epic"
+"300","Life Assistant","Will cast Life Assist","Common"
+"301","Drop It","May Cast "Disarm" Spell","Ultra-Rare"
+"302","Myth-Away","","Common"
+"303","Myth-Ward","","Ultra-Rare"
+"304","Screen","","Epic"
+"305","Storm Assistant","Will cast Storm Assist","Common"
+"306","Magnificent Mender","May Cast "Mend" Spell","Epic"
+"307","Mender","May Cast "Mend" Spell","Ultra-Rare"
+"308","Stormblade","May Cast "Stormblade" Spell","Rare"
+"309","Distract","May Cast "Distract" Spell","Rare"
+"310","Death Finder","May find Essence of Death Elixirs in chests","Rare"
+"311","Energizing Battery","May Cast "Healing Current" Spell","Epic"
+"312","Sword and Shield!","May Cast "Sword and Shield" Spell","Epic"
+"313","Death-Proof","","Uncommon"
+"314","Death-Ward","","Ultra-Rare"
+"315","Death-Away","","Common"
+"316","Expert Empowerer","May Cast "Empowerment" Spell","Epic"
+"317","Subdue","May Cast "Subdue" Spell","Rare"
+"318","Pip Boost","","Rare"
+"319","Buff Minion","","Rare"
+"320","Heart o'Pixie","","Rare"
+"321","Power-Taker","","Rare"
+"322","Plague","May Cast "Plague" Spell","Epic"
+"323","Blade Flurry","","Rare"
+"324","Disarmament","","Epic"
+"325","Vengeful Seraph","","Epic"
+"326","Animate Skeleton","","Ultra-Rare"
+"327","Infector","","Epic"
+"328","Feinting Spell","","Rare"
+"329","Ice Hunter","May find rare Ice Treasure Cards in chests","Ultra-Rare"
+"330","Wyldfire Trained","Will cast Wyldfire","Ultra-Rare"
+"331","Myth Trap","May Cast "Myth Trap" Spell","Rare"
+"332","Life Seed Farmer","May find Life seeds","Epic"
+"333","Myth Assailant","","Epic"
+"334","Life Trap","May Cast "Life Trap" Spell","Rare"
+"335","Go Humongo","","Ultra-Rare"
+"336","Fire Trap","May Cast "Fire Trap" Spell","Rare"
+"337","Blade of Life","","Ultra-Rare"
+"338","Blade of Fire","","Ultra-Rare"
+"339","Aura Crush","","Ultra-Rare"
+"340","Frostbite Trained","Will cast Frostbite","Epic"
+"341","Myth Striker","","Ultra-Rare"
+"342","Life-Bringer","","Ultra-Rare"
+"343","Life-Boon","","Common"
+"344","Fire-Dealer","","Ultra-Rare"
+"345","Fire-Boon","","Common"
+"346","Myth-Dealer","","Ultra-Rare"
+"347","Myth-Boon","","Common"
+"348","Ward Wrecker","May Cast "Shatter" Spell","Epic"
+"349","Cycle of Life","May Cast "Cycle of Life" Spell","Ultra-Rare"
+"350","Track-r-Treater","May find Halloween items in chests","Rare"
+"351","Sleet Storm","May Cast "Sleet Storm" Spell","Ultra-Rare"
+"352","Unicorn","May Cast "Unicorn" Spell","Epic"
+"353","Relentless","","Ultra-Rare"
+"354","Brilliant","","Ultra-Rare"
+"355","Powerful","","Ultra-Rare"
+"356","Mighty","","Ultra-Rare"
+"357","Death Trap","May Cast "Death Trap" Spell","Rare"
+"358","Earth Walker Trained","Will cast Earth Walker","Rare"
+"359","Death Ninja Pig Trained","Will cast Death Ninja Pig","Rare"
+"360","The Deer Knight Rises","","Epic"
+"361","Ice Scout","May find bonus Ice reagents","Uncommon"
+"362","Immolate Trained","Will cast Immolate","Rare"
+"363","Darkwind Trained","Will cast Darkwind","Ultra-Rare"
+"364","Myth Hunter","May find rare Myth Treasure Cards in chests","Ultra-Rare"
+"365","Mana Bounty","","Ultra-Rare"
+"366","Deathblade","May Cast "Deathblade" Spell","Rare"
+"367","Crystallize","","Epic"
+"368","Triage Trained","Will cast Triage","Uncommon"
+"369","Pet Rescue","May Cast "Revitalize" Spell","Epic"
+"370","Detonate Trained","Will cast Detonate","Rare"
+"371","Fire Assistant","Will cast Fire Assist","Common"
+"372","Bulwark","","Epic"
+"373","Storm Hunter","May find rare Storm Treasure Cards in chests","Ultra-Rare"
+"374","Smoke Screen","May Cast "Smoke Screen" Spell","Epic"
+"375","Black Mantle Trained","Will cast Black Mantle","Rare"
+"376","Dissipate","May Cast "Dissipate" Spell","Rare"
+"377","Fearless Fortifier","May Cast "Fortify" Spell","Epic"
+"378","Shatter Trained","Will cast Shatter","Epic"
+"379","Mend Minion","","Uncommon"
+"380","Sprite Time","","Uncommon"
+"381","Elf on Fire","","Uncommon"
+"382","Big Energy","Big Energy","Rare"
+"383","Huge Energy","Huge Energy","Ultra-Rare"
+"384","Energy","Energy","Uncommon"
+"385","Ultra Energy","Ultra Energy","Epic"
+"386","Spirit Trap","May Cast "Spirit Trap" Spell","Epic"
+"387","Balance Scout","May find bonus Balance reagents","Uncommon"
+"388","Ice Finder","May find Essence of Ice Elixirs in chests","Rare"
+"389","Storm-Boon","","Common"
+"390","Storm-Dealer","","Ultra-Rare"
+"391","Storm-Giver","","Uncommon"
+"392","Vampire Trained","Will cast Vampire","Ultra-Rare"
+"393","Amplifier","May Cast "Amplify" Spell","Ultra-Rare"
+"394","Ardent Amplifier","May Cast "Amplify" Spell","Epic"
+"395","Courageous","","Rare"
+"396","Intrepid","","Uncommon"
+"397","Refreshed","","Ultra-Rare"
+"398","Resourceful","","Ultra-Rare"
+"399","Quick-Witted","","Uncommon"
+"400","Gifted","","Rare"
+"401","Vigorous","","Ultra-Rare"
+"402","Dashing","","Rare"
+"403","Effervescent","","Uncommon"
+"404","Lively","","Ultra-Rare"
+"405","Balance of Power Trained","Will cast Balance of Power","Ultra-Rare"
+"406","Steal Charm Trained","Will cast Steal Charm","Rare"
+"407","Power Player","","Rare"
+"408","Feeling Weak","","Ultra-Rare"
+"409","Hexster","","Rare"
+"410","Sap Health","","Uncommon"
+"411","Balanceblade","","Epic"
+"412","Death Shield","May Cast "Death Shield" Spell","Rare"
+"413","Ice Seed Farmer","May find Ice seeds","Epic"
+"414","Myth Finder","May find Essence of Myth Elixirs in chests","Rare"
+"415","Life Fuel","May Cast "Life Fuel" Spell","Epic"
+"416","Reinforce","","Epic"
+"417","Cleanse Charm Trained","Will cast Cleanse Charm","Rare"
+"418","Storm Finder","May find Essence of Storm Elixirs in chests","Rare"
+"419","Myth Fuel","May Cast "Myth Fuel" Spell","Epic"
+"420","Death Scout","May find bonus Death reagents","Uncommon"
+"421","Chastisement","May Cast "Chastisement" Spell","Ultra-Rare"
+"422","Storm Scout","May find bonus Storm reagents","Uncommon"
+"423","Ice Finder","May find Essence of Ice Elixirs in chests","Rare"
+"424","No Pain, No Gain","","Rare"
+"425","Black Widow","","Epic"
+"426","Life Finder","May find Essence of Life Elixirs in chests","Rare"
+"427","Death Assailant","","Epic"
+"428","Healer","","Rare"
+"429","Medic","","Ultra-Rare"
+"430","Bullheaded","","Epic"
+"431","Doom & Gloom Trained","Will cast Doom & Gloom","Ultra-Rare"
+"432","Guiding Light","May Cast "Guiding Light" Spell","Rare"
+"433","Berserker","May Cast "Berserk" Spell","Ultra-Rare"
+"434","Brazen Berserker","May Cast "Berserk" Spell","Epic"
+"435","Tireless","","Rare"
+"436","Determined","","Uncommon"
+"437","Unshakeable","","Ultra-Rare"
+"438","Sword and Shield Trained","Will cast Sword and Shield","Ultra-Rare"
+"439","Ally Thermic Shield","May Cast "Thermic Shield" on ally","Epic"
+"440","Curse","May Cast "Curse" Spell","Rare"
+"441","Frenzied","May Cast "Frenzy" Spell","Epic"
+"442","Spirit Shield","May Cast "Spirit Shield" Spell","Epic"
+"443","Life Seed Farmer","May find Life seeds","Epic"
+"444","Freeze","May Cast "Freeze" Spell","Epic"
+"445","Ally Stun Block","May Cast "Stun Block" on an ally","Epic"
+"446","Draw Power Trained","Will cast Draw Power","Uncommon"
+"447","Black Mantle","May Cast "Black Mantle" Spell","Ultra-Rare"
+"448","Death Hunter","May find rare Death Treasure Cards in chests","Ultra-Rare"
+"449","Charm Chopper","May Cast "Enfeeble" Spell","Epic"
+"450","Life Scout","May find bonus Life reagents","Uncommon"
+"451","Fire Scout","May find bonus Fire reagents","Uncommon"
+"452","Myth Scout","May find bonus Myth reagents","Uncommon"
+"453","Windstorm Trained","Will cast Windstorm","Ultra-Rare"
+"454","Leafstorm Trained","Will cast Leafstorm","Rare"
+"455","Cooldown Trained","Will cast Cooldown","Rare"
+"456","Smoke Screen Trained","Will cast Smoke Screen","Epic"
+"457","Biting Cold","May Cast "Balefrost" Spell","Epic"
+"458","Legend Shield Trained","Will cast Legend Shield","Uncommon"
+"459","Grand Phoenix","","Epic"
+"460","Myth-Eye","","Common"
+"461","Myth-Sniper","","Ultra-Rare"
+"462","Myth-Shot","","Uncommon"
+"463","Ally Ether Shield","May Cast "Ether Shield" on ally","Epic"
+"464","Ally Spirit Shield","May Cast "Spirit Shield" on ally","Epic"
+"465","Storm Hunter","May find rare Storm Treasure Cards in chests","Ultra-Rare"
+"466","Lifeblade","May Cast "Lifeblade" Spell","Rare"
+"467","Fireblade","May Cast "Fireblade" Spell","Rare"
+"468","Wisp Bonus","Increases Health and Mana from Wisps","Epic"
+"469","Hex","May Cast "Hex" Spell","Rare"
+"470","Careful","","Rare"
+"471","Forceful","","Uncommon"
+"472","Capable","","Ultra-Rare"
+"473","Mythblade","May Cast "Mythblade" Spell","Rare"
+"474","Link Trained","Will cast Link","Rare"
+"475","Fuel Trained","Will cast Fuel","Ultra-Rare"
+"476","Cooldown Trained","Will cast Cooldown","Rare"
+"477","Storm Shield","May Cast "Storm Shield" Spell","Rare"
+"478","Armor Breaker","","Epic"
+"479","Armor Piercer","","Ultra-Rare"
+"480","Storm Striker","","Ultra-Rare"
+"481","Defender's Rampart","May Cast "Legion Shield" Spell","Epic"
+"482","Cure Crusher","May Cast "Infection" Spell","Ultra-Rare"
+"483","Frozen Kraken Trained","Will cast Frozen Kraken","Rare"
+"484","Quench","May Cast "Quench" Spell","Epic"
+"485","Melt","May Cast "Melt" Spell","Epic"
+"486","Life Hunter","May find rare Life Treasure Cards in chests","Ultra-Rare"
+"487","Ice Scout","May find bonus Ice reagents","Uncommon"
+"488","Namaste Trained","Will cast Namaste","Ultra-Rare"
+"489","Stun","May Cast "Stun" Spell","Epic"
+"490","Calm","May Cast "Calm" Spell","Rare"
+"491","Fuel","May Cast "Fuel" Spell","Epic"
+"492","Clean Ward","May Cast "Cleanse Ward" Spell","Ultra-Rare"
+"493","Balance-Eye","","Common"
+"494","Balance-It","","Uncommon"
+"495","Gold Rusher","May find bonus Gold in chests","Common"
+"496","Balance-Sniper","","Ultra-Rare"

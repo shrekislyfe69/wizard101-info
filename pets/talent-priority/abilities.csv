@@ -1,109 +1,109 @@
-Priority,Name
-0,Clear
-1,Musical Lane
-2,Oil Slick
-3,Slick-n-Slide
-4,Catch Leader
-5,Catch
-6,Move It!
-7,Slow Motion
-8,Freeze Frame
-9,Weakenizer
-10,Bombardier
-11,Bomber
-12,Check
-13,Big-Check
-14,Wipeout
-15,Delay
-16,Super Delay
-17,Clay Post
-18,Grass Post
-19,Sap
-20,Super-Sap
-21,Dead End
-22,Stonewall
-23,Sideswipe
-24,Big Exhaust
-25,Exhausted
-26,Exhaust
-27,Ultra Exhaustion
-28,Weaken
-29,Bummer
-30,Dawdle
-31,Think Fast!
-32,Distract
-33,Banana Peel
-34,Bananas!
-35,Dirt Post
-36,Stumble On
-37,Stumble
-38,Leech
-39,Mega-Leech
-40,Mute
-41,Ultra Mute
-42,Charge
-43,Supercharge
-44,No Passing
-45,Upset
-46,Big Drain
-47,Drain
-48,Spiffy-Pop
-49,Befuddle
-50,Dumbfound
-51,Perplex
-52,Baffle
-53,Rally
-54,Big Rally
-55,Huge Rally
-56,Ultra Rally
-57,Lock
-58,Super-Lock
-59,Big Downer
-60,Overtake
-61,Super-Pass
-62,Deplete
-63,Ultra Boost
-64,Scoot
-65,Recovery
-66,Restorative
-67,Mega Recovery 
-68,Big Recovery
-69,Restore
-70,Restorative
-71,Enfeeble
-72,Enfeeblement
-73,Mega-Upset
-74,Charge Up
-75,Ultra Charge
-76,Mega-Deplete
-77,Boost
-78,Pipe Down! 
-79,Silence
-80,Slow Leader
-81,Stop Leader
-82,Halt Leader
-83,Mega-Boost
-84,Eat My Dust
-85,Eat My Dirt
-86,Siphonizer
-87,Siphon
-88,Slowpoke
-89,Big Boost
-90,Super-Stall
-91,Stall
-92,Immunity
-93,Unbreakable
-94,Mega Hurry
-95,Ultra Hurry
-96,Hurry
-97,Big Hurry
-98,Super Hurry
-99,Downer
-100,Shush! 
-101,Shh!
-102,Disconcert
-103,Super-Dizzy
-104,Killjoy
-105,Flummox
-106,Stupefy
-107,Clear Path
+"Priority","Name","Description","Rank"
+"0","Clear","Clear","Common"
+"1","Musical Lane","Musical Lane","Rare"
+"2","Oil Slick","Oil Slick","Uncommon"
+"3","Slick-n-Slide","Slick-n-Slide","Ultra-Rare"
+"4","Catch Leader","Catch Leader","Epic"
+"5","Catch","Catch","Ultra-Rare"
+"6","Move It!","Move It!","Common"
+"7","Slow Motion","Slow Motion","Common"
+"8","Freeze Frame","Freeze Frame","Uncommon"
+"9","Weakenizer","Weakenizer","Ultra-Rare"
+"10","Bombardier","Bombardier","Rare"
+"11","Bomber","Bomber","Common"
+"12","Check","","Common"
+"13","Big-Check","","Uncommon"
+"14","Wipeout","Wipeout","Ultra-Rare"
+"15","Delay","Delay","Ultra-Rare"
+"16","Super Delay","Super Delay","Epic"
+"17","Clay Post","Clay Post","Uncommon"
+"18","Grass Post","Grass Post","Uncommon"
+"19","Sap","Sap","Rare"
+"20","Super-Sap","Super-Sap","Ultra-Rare"
+"21","Dead End","Dead End","Uncommon"
+"22","Stonewall","Stonewall","Ultra-Rare"
+"23","Sideswipe","Sideswipe","Uncommon"
+"24","Big Exhaust","Big Exhaust","Uncommon"
+"25","Exhausted","Exhausted","Rare"
+"26","Exhaust","Exhaust","Common"
+"27","Ultra Exhaustion","Ultra Exhaustion","Epic"
+"28","Weaken","Weaken","Uncommon"
+"29","Bummer","Bummer","Epic"
+"30","Dawdle","Dawdle","Common"
+"31","Think Fast!","Think Fast!","Rare"
+"32","Distract","Distract","Uncommon"
+"33","Banana Peel","Banana Peel","Common"
+"34","Bananas!","Bananas!","Rare"
+"35","Dirt Post","Dirt Post","Uncommon"
+"36","Stumble On","Stumble On","Rare"
+"37","Stumble","Stumble","Uncommon"
+"38","Leech","Leech","Uncommon"
+"39","Mega-Leech","","Rare"
+"40","Mute","Mute","Uncommon"
+"41","Ultra Mute","Ultra Mute","Rare"
+"42","Charge","Charge","Common"
+"43","Supercharge","Supercharge","Rare"
+"44","No Passing","No Passing","Epic"
+"45","Upset","Upset","Uncommon"
+"46","Big Drain","Big Drain","Uncommon"
+"47","Drain","Drain","Common"
+"48","Spiffy-Pop","Spiffy-Pop","Rare"
+"49","Befuddle","Befuddle","Uncommon"
+"50","Dumbfound","Dumbfound","Rare"
+"51","Perplex","Perplex","Uncommon"
+"52","Baffle","Baffle","Rare"
+"53","Rally","Rally","Uncommon"
+"54","Big Rally","Big Rally","Rare"
+"55","Huge Rally","Huge Rally","Ultra-Rare"
+"56","Ultra Rally","Ultra Rally","Epic"
+"57","Lock","Lock","Rare"
+"58","Super-Lock","Super-Lock","Ultra-Rare"
+"59","Big Downer","Big Downer","Common"
+"60","Overtake","Overtake","Common"
+"61","Super-Pass","Super-Pass","Uncommon"
+"62","Deplete","Deplete","Ultra-Rare"
+"63","Ultra Boost","Ultra Boost","Epic"
+"64","Scoot","Scoot","Common"
+"65","Recovery","Recovery","Common"
+"66","Restorative","Restorative","Rare"
+"67","Mega Recovery ","Mega Recovery ","Rare"
+"68","Big Recovery","Big Recovery","Rare"
+"69","Restore","Restore","Common"
+"70","Restorative","","Rare"
+"71","Enfeeble","Enfeeble","Ultra-Rare"
+"72","Enfeeblement","Enfeeblement","Epic"
+"73","Mega-Upset","Mega-Upset","Ultra-Rare"
+"74","Charge Up","Charge Up","Uncommon"
+"75","Ultra Charge","Ultra Charge","Epic"
+"76","Mega-Deplete","Mega-Deplete","Epic"
+"77","Boost","Boost","Common"
+"78","Pipe Down! ","Silence","Rare"
+"79","Silence","Silence","Uncommon"
+"80","Slow Leader","Slow Leader","Uncommon"
+"81","Stop Leader","Stop Leader","Ultra-Rare"
+"82","Halt Leader","Halt Leader","Rare"
+"83","Mega-Boost","Mega-Boost","Rare"
+"84","Eat My Dust","Eat My Dust","Rare"
+"85","Eat My Dirt","Eat My Dirt","Ultra-Rare"
+"86","Siphonizer","Siphonizer","Uncommon"
+"87","Siphon","Siphon","Common"
+"88","Slowpoke","Slowpoke","Uncommon"
+"89","Big Boost","Big Boost","Uncommon"
+"90","Super-Stall","Super-Stall","Uncommon"
+"91","Stall","Stall","Common"
+"92","Immunity","Immunity","Rare"
+"93","Unbreakable","Unbreakable","Ultra-Rare"
+"94","Mega Hurry","","Epic"
+"95","Ultra Hurry","Ultra Hurry","Epic"
+"96","Hurry","Hurry","Uncommon"
+"97","Big Hurry","Big Hurry","Rare"
+"98","Super Hurry","Super Hurry","Ultra-Rare"
+"99","Downer","Downer","Common"
+"100","Shush! ","Shush! ","Ultra-Rare"
+"101","Shh!","Shh!","Rare"
+"102","Disconcert","Disconcert","Rare"
+"103","Super-Dizzy","Super-Dizzy","Ultra-Rare"
+"104","Killjoy","Killjoy","Uncommon"
+"105","Flummox","Flummox","Ultra-Rare"
+"106","Stupefy","Stupefy","Rare"
+"107","Clear Path","Clear Path","Uncommon"
