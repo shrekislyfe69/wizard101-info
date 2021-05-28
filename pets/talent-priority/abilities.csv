@@ -1,109 +1,109 @@
-Priority	Name	Rank
-0	Clear	Common
-1	Musical Lane	Rare
-2	Oil Slick	Uncommon
-3	Slick-n-Slide	Ultra-Rare
-4	Catch Leader	Epic
-5	Catch	Ultra-Rare
-6	Move It!	Common
-7	Slow Motion	Common
-8	Freeze Frame	Uncommon
-9	Weakenizer	Ultra-Rare
-10	Bombardier	Rare
-11	Bomber	Common
-12	Check	Common
-13	Big-Check	Uncommon
-14	Wipeout	Ultra-Rare
-15	Delay	Ultra-Rare
-16	Super Delay	Epic
-17	Clay Post	Uncommon
-18	Grass Post	Uncommon
-19	Sap	Rare
-20	Super-Sap	Ultra-Rare
-21	Dead End	Uncommon
-22	Stonewall	Ultra-Rare
-23	Sideswipe	Uncommon
-24	Big Exhaust	Uncommon
-25	Exhausted	Rare
-26	Exhaust	Common
-27	Ultra Exhaustion	Epic
-28	Weaken	Uncommon
-29	Bummer	Epic
-30	Dawdle	Common
-31	Think Fast!	Rare
-32	Distract	Uncommon
-33	Banana Peel	Common
-34	Bananas!	Rare
-35	Dirt Post	Uncommon
-36	Stumble On	Rare
-37	Stumble	Uncommon
-38	Leech	Uncommon
-39	Mega-Leech	Rare
-40	Mute	Uncommon
-41	Ultra Mute	Rare
-42	Charge	Common
-43	Supercharge	Rare
-44	No Passing	Epic
-45	Upset	Uncommon
-46	Big Drain	Uncommon
-47	Drain	Common
-48	Spiffy-Pop	Rare
-49	Befuddle	Uncommon
-50	Dumbfound	Rare
-51	Perplex	Uncommon
-52	Baffle	Rare
-53	Rally	Uncommon
-54	Big Rally	Rare
-55	Huge Rally	Ultra-Rare
-56	Ultra Rally	Epic
-57	Lock	Rare
-58	Super-Lock	Ultra-Rare
-59	Big Downer	Common
-60	Overtake	Common
-61	Super-Pass	Uncommon
-62	Deplete	Ultra-Rare
-63	Ultra Boost	Epic
-64	Scoot	Common
-65	Recovery	Common
-66	Restorative	Rare
-67	Mega Recovery 	Rare
-68	Big Recovery	Rare
-69	Restore	Common
-70	Restorative	Rare
-71	Enfeeble	Ultra-Rare
-72	Enfeeblement	Epic
-73	Mega-Upset	Ultra-Rare
-74	Charge Up	Uncommon
-75	Ultra Charge	Epic
-76	Mega-Deplete	Epic
-77	Boost	Common
-78	Pipe Down! 	Rare
-79	Silence	Uncommon
-80	Slow Leader	Uncommon
-81	Stop Leader	Ultra-Rare
-82	Halt Leader	Rare
-83	Mega-Boost	Rare
-84	Eat My Dust	Rare
-85	Eat My Dirt	Ultra-Rare
-86	Siphonizer	Uncommon
-87	Siphon	Common
-88	Slowpoke	Uncommon
-89	Big Boost	Uncommon
-90	Super-Stall	Uncommon
-91	Stall	Common
-92	Immunity	Rare
-93	Unbreakable	Ultra-Rare
-94	Mega Hurry	Epic
-95	Ultra Hurry	Epic
-96	Hurry	Uncommon
-97	Big Hurry	Rare
-98	Super Hurry	Ultra-Rare
-99	Downer	Common
-100	Shush! 	Ultra-Rare
-101	Shh!	Rare
-102	Disconcert	Rare
-103	Super-Dizzy	Ultra-Rare
-104	Killjoy	Uncommon
-105	Flummox	Ultra-Rare
-106	Stupefy	Rare
-107	Clear Path	Uncommon
+Priority,Name,Rank
+0,Clear,Common
+1,Musical Lane,Rare
+2,Oil Slick,Uncommon
+3,Slick-n-Slide,Ultra-Rare
+4,Catch Leader,Epic
+5,Catch,Ultra-Rare
+6,Move It!,Common
+7,Slow Motion,Common
+8,Freeze Frame,Uncommon
+9,Weakenizer,Ultra-Rare
+10,Bombardier,Rare
+11,Bomber,Common
+12,Check,Common
+13,Big-Check,Uncommon
+14,Wipeout,Ultra-Rare
+15,Delay,Ultra-Rare
+16,Super Delay,Epic
+17,Clay Post,Uncommon
+18,Grass Post,Uncommon
+19,Sap,Rare
+20,Super-Sap,Ultra-Rare
+21,Dead End,Uncommon
+22,Stonewall,Ultra-Rare
+23,Sideswipe,Uncommon
+24,Big Exhaust,Uncommon
+25,Exhausted,Rare
+26,Exhaust,Common
+27,Ultra Exhaustion,Epic
+28,Weaken,Uncommon
+29,Bummer,Epic
+30,Dawdle,Common
+31,Think Fast!,Rare
+32,Distract,Uncommon
+33,Banana Peel,Common
+34,Bananas!,Rare
+35,Dirt Post,Uncommon
+36,Stumble On,Rare
+37,Stumble,Uncommon
+38,Leech,Uncommon
+39,Mega-Leech,Rare
+40,Mute,Uncommon
+41,Ultra Mute,Rare
+42,Charge,Common
+43,Supercharge,Rare
+44,No Passing,Epic
+45,Upset,Uncommon
+46,Big Drain,Uncommon
+47,Drain,Common
+48,Spiffy-Pop,Rare
+49,Befuddle,Uncommon
+50,Dumbfound,Rare
+51,Perplex,Uncommon
+52,Baffle,Rare
+53,Rally,Uncommon
+54,Big Rally,Rare
+55,Huge Rally,Ultra-Rare
+56,Ultra Rally,Epic
+57,Lock,Rare
+58,Super-Lock,Ultra-Rare
+59,Big Downer,Common
+60,Overtake,Common
+61,Super-Pass,Uncommon
+62,Deplete,Ultra-Rare
+63,Ultra Boost,Epic
+64,Scoot,Common
+65,Recovery,Common
+66,Restorative,Rare
+67,Mega Recovery ,Rare
+68,Big Recovery,Rare
+69,Restore,Common
+70,Restorative,Rare
+71,Enfeeble,Ultra-Rare
+72,Enfeeblement,Epic
+73,Mega-Upset,Ultra-Rare
+74,Charge Up,Uncommon
+75,Ultra Charge,Epic
+76,Mega-Deplete,Epic
+77,Boost,Common
+78,Pipe Down! ,Rare
+79,Silence,Uncommon
+80,Slow Leader,Uncommon
+81,Stop Leader,Ultra-Rare
+82,Halt Leader,Rare
+83,Mega-Boost,Rare
+84,Eat My Dust,Rare
+85,Eat My Dirt,Ultra-Rare
+86,Siphonizer,Uncommon
+87,Siphon,Common
+88,Slowpoke,Uncommon
+89,Big Boost,Uncommon
+90,Super-Stall,Uncommon
+91,Stall,Common
+92,Immunity,Rare
+93,Unbreakable,Ultra-Rare
+94,Mega Hurry,Epic
+95,Ultra Hurry,Epic
+96,Hurry,Uncommon
+97,Big Hurry,Rare
+98,Super Hurry,Ultra-Rare
+99,Downer,Common
+100,Shush! ,Ultra-Rare
+101,Shh!,Rare
+102,Disconcert,Rare
+103,Super-Dizzy,Ultra-Rare
+104,Killjoy,Uncommon
+105,Flummox,Ultra-Rare
+106,Stupefy,Rare
+107,Clear Path,Uncommon
