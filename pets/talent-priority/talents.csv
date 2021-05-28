@@ -13,577 +13,486 @@ Priority,Name
 11,Stalwart
 12,Adroit
 13,Life Hunter
-14,Beetle Time
-15,Mulligan's Shuffle
-16,Extra Mana
-17,Death Striker
-18,Angry Snowpig
-19,Snow Biz
-20,Pierce Train
-21,Storm Scout
-22,Snow 'n Tell
-23,Death Scout
-24,Guardian Wall
-25,Ice Assistant
-26,Epic Fishing Luck
-27,Fishing Luck
-28,Batusi
-29,Ice Rider
-30,Balance Finder
-31,Brace For Impact
-32,Pip o'Plenty
-33,Reveal Fish School
-34,Solar Aegis Trained
-35,Sharp-Shot
-36,Sharp-Eye
-37,Myth Seed Farmer
-38,Greensleeves
-39,Time of Legend Trained
-40,Spartan
-41,Stun Resistant
-42,Stun Recalcitrant
-43,Death Seed Farmer
-44,Tick Kicker
-45,Gold Miner
-46,Myth Assistant
-47,Rage of Winter
-48,Elemental Scout
-49,Fire-Shot
-50,Fire-Sniper
-51,Fire-Eye
-52,Storm Assailant
-53,Balance Hunter
-54,Dragonspear
-55,Balance Assistant
-56,Snow Heal For You!
-57,Storm Finder
-58,S. Elemental
-59,Mend
-60,F. Elemental
-61,Early Bird
-62,Sturdy
-63,Well Trained
-64,Ally Precision
-65,Dependable
-66,Vigilant
-67,Cautious
-68,Intuitive
-69,Attentive
-70,Perceptive
-71,Empowerment
-72,Draconian
-73,Potboiler Trained
-74,DOT Doctor
-75,Vengeance
-76,Ninja Pig
-77,Conviction
-78,Colossus
-79,Tower Shield
-80,Berserk
-81,Treant
-82,SnowBorn
-83,Fortify
-84,Gobbler
-85,Fire Finder
-86,Blade of Ice
-87,Bad Snowman
-88,Infallible
-89,Balance Finder
-90,Cat Bandit
-91,Amplify
-92,Mander
-93,Earth Walker Trained
-94,Defender
-95,Doom & Gloom Trained
-96,Blocker
-97,Myth Scout
-98,Fire Scout
-99,Life Scout
-100,Spirit Blade
-101,Unstoppable
-102,Strong
-103,Monstrous
-104,Giant
-105,Keen Eyes
-106,Gargantuan
-107,Sniper
-108,Accurate
-109,Take Power Trained
-110,Pacify
-111,Draw Power Trained
-112,Namaste Trained
-113,Storm-Eye
-114,Storm-Shot
-115,Storm-Sniper
-116,Stormclaw
-117,Death Assistant
-118,Black Mantle Trained
-119,Windstorm Trained
-120,Ally Elemental Shield
-121,Healthy
-122,Leafstorm Trained
-123,Potboiler Trained
-124,Ice Armor Trained
-125,Curse Trained
-126,Avenger
-127,Elemental Scout
-128,Blizzard Lizard
-129,Ally Dragonblade
-130,Happy Accident
-131,Death Finder
-132,Hydra Trained
-133,Balanceblade
-134,Deathspear
-135,Cat Thug Trained
-136,Balance Striker
-137,Balance Assailant
-138,Frostbite Trained
-139,Soothe
-140,Death-Eye
-141,Death-Shot
-142,Death-Sniper
-143,Ice-Boon
-144,Pain-Bringer
-145,Myth Hunter
-146,Myth-Giver
-147,Fire-Giver
-148,Life-Giver
-149,Elemental Retriever
-150,Triage Trained
-151,Fire Striker
-152,Life Striker
-153,Mana Gift
-154,Frozen Kraken Trained
-155,Fire Assailant
-156,Life Assailant
-157,Mega Taunt
-158,Fire Cat Ho!
-159,Imp Possible
-160,Taunt
-161,Curse Trained
-162,Feint
-163,Element Shield
-164,Bloodbatty
-165,Myth Seed Farmer
-166,Ice-Giver
-167,Pain-Giver
-168,Vanquisher
-169,Vehement Vanquisher
-170,Pip Saver
-171,Curse Giver
-172,Plaguebringer
-173,Steal Health
-174,Smoke Screen Trained
-175,Big Sparky
-176,Storm-Tooth
-177,Balance-Boon
-178,Balance-Dealer
-179,Balance-Giver
-180,Sword and Shield Trained
-181,Hydra Trained
-182,Ally Glacial Shield
-183,Ice-Dealer
-184,Shift Trained
-185,Storm Front
-186,Feint Trained
-187,Stormspear
-188,Ice-Proof
-189,Spell-Proof
-190,Hatch Catcher
-191,Clean Charm
-192,Myth-Proof
-193,Fortress
-194,Legend Shield Trained
-195,Fire-Proof
-196,Life-Proof
-197,Ally Volcanic Shield
-198,Evil Eye
-199,Unbalancer
-200,Balance-Ward
-201,Balance-Off
-202,Mega Soothe
-203,Mega Subdue
-204,Pyrosaurus Rex
-205,Unbalance
-206,Steal Ward
-207,Power Up
-208,Beetlemania
-209,Cloud o'Bugs
-210,Lead Stinger
-211,Iceblade
-212,Punishment
-213,Ice-Ward
-214,Balefrost Trained
-215,Lifespear
-216,Firespear
-217,Windstorm
-218,Ice-Shot
-219,Ice-Sniper
-220,Ice-Eye
-221,Steal Charm
-222,Virulence
-223,Death Seed Farmer
-224,Mythspear
-225,Mega Pacify
-226,Shield Minion
-227,Vampire Trained
-228,Track-r-Treater
-229,Button Tom
-230,Element Blade
-231,Hex Trained
-232,Fire Hunter
-233,Fire Finder
-234,Shatter Trained
-235,Mana Boost
-236,Shift Trained
-237,Feint Trained
-238,Boss Toad
-239,Spritely
-240,Plague Trained
-241,Ice Armor Trained
-242,Link Trained
-243,Fuel Trained
-244,Disjunction
-245,Wise
-246,Crafty
-247,Weakness
-248,Strangle
-249,Entangle
-250,Balance of Power Trained
-251,Headless Horseman
-252,Ice-Away
-253,Spell-Defying
-254,Balancespear
-255,Elemental Retriever
-256,Light Strike
-257,Time of Legend Trained
-258,Death Ninja Pig Trained
-259,Solar Aegis Trained
-260,Cleanse Charm Trained
-261,Steadfast
-262,Sharp
-263,Eager
-264,Rugged
-265,Reliquary
-266,Spritely 100% - DNU
-267,Detonate Trained
-268,Ace Avenger
-269,Myth Finder
-270,Cat Thug Trained
-271,Blazing Oak
-272,Darkwind Trained
-273,Immolate Trained
-274,Ice Trap
-275,Element Trap
-276,Thinkin' Cap
-277,Canny
-278,Gardening Pixie
-279,Death Hunter
-280,Durable
-281,Astute
-282,Spirited
-283,Tenacious
-284,Fairy Friend
-285,Sprite Queen
-286,Galvanic Field
-287,Balefrost Trained
-288,Clock Spider
-289,Life-Shot
-290,Life-Sniper
-291,Life-Eye
-292,Storm-Proof
-293,Storm-Ward
-294,Storm-Away
-295,Incredibly Infallible
-296,Infallible
-297,Hatch Catcher
-298,Balance Scout
-299,Critical Striker
-300,Ice Assailant
-301,Critical Hitter
-302,Ice Striker
-303,Icespear
-304,Three Little Pigs
-305,Add Health
-306,Health Gift
-307,Health Boost
-308,Health Bounty
-309,Wyldfire Trained
-310,Fire Hunter
-311,Plague Trained
-312,Steal Blade
-313,Ice Hunter
-314,Balance Hunter
-315,Life Finder
-316,PierceMonger
-317,Spirit Armor
-318,Get Sunbird
-319,Snow Shield
-320,Quick Learner
-321,Great Learner
-322,Accelerated Learner
-323,Myth Shield
-324,Brown Recluse
-325,Ally Tower Shield
-326,Flaming Elf 
-327,Leprech-On
-328,Death-Boon
-329,Death-Dealer
-330,Death-Giver
-331,Troll Call
-332,Fire Shield
-333,Life Shield
-334,Calypso-You-Know
-335,Dogged
-336,Calculating
-337,Cheeky
-338,Hearty
-339,Buff Minion
-340,Green Thumb
-341,Life-Away
-342,Life-Ward
-343,Pyromania
-344,Steal Charm Trained
-345,Fire-Away
-346,Fire-Ward
-347,Storm Trap
-348,Pip Conserver
-349,Spontaneous Combustion
-350,Might of Myth
-351,Vaporize
-352,Life Assistant
-353,Drop It
-354,Myth-Away
-355,Myth-Ward
-356,Screen
-357,Storm Assistant
-358,Magnificent Mender
-359,Mender
-360,Stormblade
-361,Distract
-362,Death Finder
-363,Energizing Battery
-364,Feeling Feint
-365,Sword and Shield!
-366,Death-Proof
-367,Death-Ward
-368,Death-Away
-369,Expert Empowerer
-370,Empowerer
-371,Subdue
-372,Pip Boost
-373,Buff Minion
-374,Heart o'Pixie
-375,Power-Taker
-376,Plague
-377,Blade Flurry
-378,Disarmament
-379,Vengeful Seraph
-380,Wall of Confusion
-381,Animate Skeleton
-382,Infector
-383,Feinting Spell
-384,Ice Hunter
-385,Wyldfire Trained
-386,Scaredy-Crow
-387,Spriteshade
-388,Groovy Ghoul
-389,Banshee Bop
-390,Myth Trap
-391,Mega Distract
-392,Life Seed Farmer
-393,Cycle of Life
-394,Myth Assailant
-395,Life Trap
-396,Go Humongo
-397,Fire Trap
-398,Blade of Life
-399,Blade of Fire
-400,Aura Crush
-401,Frostbite Trained
-402,Myth Striker
-403,Life-Bringer
-404,Life-Boon
-405,Boom Snake
-406,Shocking Bat
-407,Cloud Shark
-408,Cup o'Storms
-409,Fire-Dealer
-410,Fire-Boon
-411,Myth-Dealer
-412,Myth-Boon
-413,Ward Wrecker
-414,Cycle of Life
-415,Track-r-Treater
-416,Sleet Storm
-417,Unicorn
-418,Relentless
-419,Brilliant
-420,Powerful
-421,Mighty
-422,Death Trap
-423,Earth Walker Trained
-424,Death Ninja Pig Trained
-425,The Deer Knight Rises
-426,Ice Scout
-427,Immolate Trained
-428,Darkwind Trained
-429,Myth Hunter
-430,Death Caller.
-431,Mana Bounty
-432,Deathblade
-433,Crystallize
-434,Triage Trained
-435,Pet Rescue
-436,Detonate Trained
-437,Fire Assistant
-438,Bulwark
-439,Life Caller
-440,Storm Hunter
-441,Smoke Screen
-442,Beguile
-443,Black Mantle Trained
-444,Dissipate
-445,Fortifier
-446,Fearless Fortifier
-447,Shatter Trained
-448,Mend Minion
-449,Sprite Time
-450,Elf on Fire
-451,Big Energy
-452,Huge Energy
-453,Energy
-454,Ultra Energy
-455,Spirit Trap
-456,Balance Scout
-457,Lance A Lot
-458,Ice Caller.
-459,Flame Keeper
-460,Ice Finder
-461,Storm-Boon
-462,Storm-Dealer
-463,Storm-Giver
-464,Harvest Helper
-465,Vampire Trained
-466,Amplifier
-467,Myth Caller.
-468,Ardent Amplifier
-469,Courageous
-470,Intrepid
-471,Refreshed
-472,Resourceful
-473,Quick-Witted
-474,Gifted
-475,Vigorous
-476,Dashing
-477,Effervescent
-478,Lively
-479,Balance of Power Trained
-480,Mega Tranquilize
-481,Steal Charm Trained
-482,Power Player
-483,Feeling Weak
-484,Hexster
-485,Sap Health
-486,Balanceblade
-487,Death Shield
-488,Ice Seed Farmer
-489,Myth Finder
-490,Life Fuel
-491,Reinforce
-492,Cleanse Charm Trained
-493,Shiny Spider
-494,Storm Finder
-495,Myth Fuel
-496,Wild Wild Bolt
-497,Death Scout
-498,Chastisement
-499,Storm Scout
-500,Ice Finder
-501,"No Pain, No Gain"
-502,Black Widow
-503,Life Finder
-504,Death Assailant
-505,Balance Caller.
-506,Healer
-507,Medic
-508,Bullheaded
-509,Sunbird Call
-510,Green Furry
-511,Doom & Gloom Trained
-512,Call Cyclops
-513,Guiding Light
-514,Berserker
-515,Brazen Berserker
-516,Tireless
-517,Determined
-518,Unshakeable
-519,Sword and Shield Trained
-520,Ally Thermic Shield
-521,Curse
-522,Frenzied
-523,Take Power Trained
-524,Spirit Shield
-525,Life Seed Farmer
-526,Freeze
-527,Ally Stun Block
-528,Draw Power Trained
-529,Black Mantle
-530,Death Hunter
-531,Charm Chopper
-532,Life Scout
-533,Fire Scout
-534,Myth Scout
-535,Windstorm Trained
-536,Leafstorm Trained
-537,Cooldown Trained
-538,Smoke Screen Trained
-539,Biting Cold
-540,Legend Shield Trained
-541,Grand Phoenix
-542,Myth-Eye
-543,Myth-Sniper
-544,Myth-Shot
-545,Ally Ether Shield
-546,Ally Spirit Shield
-547,Storm Hunter
-548,Lifeblade
-549,Fireblade
-550,Wisp Bonus
-551,Hex
-552,Ally Legend Shield
-553,Careful
-554,Forceful
-555,Capable
-556,Fire Caller.
-557,Mythblade
-558,Link Trained
-559,Fuel Trained
-560,Earthshaker
-561,Guidance
-562,Strike! 
-563,Cooldown Trained
-564,Ally Dream Shield
-565,Storm Shield
-566,Armor Breaker
-567,Armor Piercer
-568,Storm Striker
-569,Defender's Rampart
-570,Cure Crusher
-571,Frozen Kraken Trained
-572,Mega Calm
-573,Quench
-574,Melt
-575,Life Hunter
-576,Storm Caller.
-577,Ice Scout
-578,Namaste Trained
-579,Stun
-580,Calm
-581,Fuel
-582,Clean Ward
-583,Balance-Eye
-584,Balance-It
-585,Brimstone Bringer
-586,Gold Rusher
-587,Balance-Sniper
+14,Mulligan's Shuffle
+15,Extra Mana
+16,Death Striker
+17,Pierce Train
+18,Storm Scout
+19,Snow 'n Tell
+20,Death Scout
+21,Guardian Wall
+22,Ice Assistant
+23,Epic Fishing Luck
+24,Fishing Luck
+25,Batusi
+26,Balance Finder
+27,Pip o'Plenty
+28,Reveal Fish School
+29,Solar Aegis Trained
+30,Sharp-Shot
+31,Sharp-Eye
+32,Myth Seed Farmer
+33,Time of Legend Trained
+34,Spartan
+35,Stun Resistant
+36,Stun Recalcitrant
+37,Death Seed Farmer
+38,Tick Kicker
+39,Gold Miner
+40,Myth Assistant
+41,Rage of Winter
+42,Elemental Scout
+43,Fire-Shot
+44,Fire-Sniper
+45,Fire-Eye
+46,Storm Assailant
+47,Balance Hunter
+48,Balance Assistant
+49,Snow Heal For You!
+50,Storm Finder
+51,S. Elemental
+52,Mend
+53,Early Bird
+54,Sturdy
+55,Well Trained
+56,Dependable
+57,Vigilant
+58,Cautious
+59,Intuitive
+60,Attentive
+61,Perceptive
+62,Empowerment
+63,DOT Doctor
+64,Vengeance
+65,Conviction
+66,Tower Shield
+67,SnowBorn
+68,Fortify
+69,Fire Finder
+70,Blade of Ice
+71,Bad Snowman
+72,Balance Finder
+73,Amplify
+74,Earth Walker Trained
+75,Defender
+76,Doom & Gloom Trained
+77,Blocker
+78,Myth Scout
+79,Fire Scout
+80,Life Scout
+81,Spirit Blade
+82,Unstoppable
+83,Strong
+84,Monstrous
+85,Giant
+86,Keen Eyes
+87,Gargantuan
+88,Accurate
+89,Pacify
+90,Draw Power Trained
+91,Namaste Trained
+92,Storm-Eye
+93,Storm-Shot
+94,Storm-Sniper
+95,Stormclaw
+96,Death Assistant
+97,Black Mantle Trained
+98,Windstorm Trained
+99,Ally Elemental Shield
+100,Healthy
+101,Leafstorm Trained
+102,Ice Armor Trained
+103,Curse Trained
+104,Avenger
+105,Elemental Scout
+106,Ally Dragonblade
+107,Death Finder
+108,Hydra Trained
+109,Balanceblade
+110,Deathspear
+111,Cat Thug Trained
+112,Balance Striker
+113,Balance Assailant
+114,Frostbite Trained
+115,Death-Eye
+116,Death-Shot
+117,Death-Sniper
+118,Ice-Boon
+119,Pain-Bringer
+120,Myth Hunter
+121,Myth-Giver
+122,Fire-Giver
+123,Life-Giver
+124,Elemental Retriever
+125,Triage Trained
+126,Fire Striker
+127,Life Striker
+128,Mana Gift
+129,Frozen Kraken Trained
+130,Fire Assailant
+131,Life Assailant
+132,Taunt
+133,Curse Trained
+134,Feint
+135,Element Shield
+136,Myth Seed Farmer
+137,Ice-Giver
+138,Pain-Giver
+139,Vanquisher
+140,Vehement Vanquisher
+141,Pip Saver
+142,Curse Giver
+143,Plaguebringer
+144,Steal Health
+145,Smoke Screen Trained
+146,Big Sparky
+147,Storm-Tooth
+148,Balance-Boon
+149,Balance-Dealer
+150,Balance-Giver
+151,Sword and Shield Trained
+152,Hydra Trained
+153,Ally Glacial Shield
+154,Ice-Dealer
+155,Shift Trained
+156,Storm Front
+157,Stormspear
+158,Ice-Proof
+159,Spell-Proof
+160,Hatch Catcher
+161,Clean Charm
+162,Myth-Proof
+163,Legend Shield Trained
+164,Fire-Proof
+165,Life-Proof
+166,Ally Volcanic Shield
+167,Evil Eye
+168,Unbalancer
+169,Balance-Ward
+170,Balance-Off
+171,Mega Soothe
+172,Pyrosaurus Rex
+173,Unbalance
+174,Steal Ward
+175,Iceblade
+176,Punishment
+177,Ice-Ward
+178,Balefrost Trained
+179,Lifespear
+180,Firespear
+181,Windstorm
+182,Ice-Shot
+183,Ice-Sniper
+184,Ice-Eye
+185,Steal Charm
+186,Virulence
+187,Death Seed Farmer
+188,Mythspear
+189,Vampire Trained
+190,Track-r-Treater
+191,Button Tom
+192,Element Blade
+193,Hex Trained
+194,Fire Hunter
+195,Fire Finder
+196,Shatter Trained
+197,Mana Boost
+198,Shift Trained
+199,Boss Toad
+200,Spritely
+201,Plague Trained
+202,Ice Armor Trained
+203,Link Trained
+204,Fuel Trained
+205,Wise
+206,Crafty
+207,Weakness
+208,Strangle
+209,Entangle
+210,Balance of Power Trained
+211,Ice-Away
+212,Spell-Defying
+213,Balancespear
+214,Elemental Retriever
+215,Light Strike
+216,Time of Legend Trained
+217,Death Ninja Pig Trained
+218,Solar Aegis Trained
+219,Cleanse Charm Trained
+220,Steadfast
+221,Sharp
+222,Eager
+223,Rugged
+224,Reliquary
+225,Detonate Trained
+226,Ace Avenger
+227,Myth Finder
+228,Cat Thug Trained
+229,Blazing Oak
+230,Darkwind Trained
+231,Immolate Trained
+232,Ice Trap
+233,Element Trap
+234,Thinkin' Cap
+235,Canny
+236,Gardening Pixie
+237,Death Hunter
+238,Durable
+239,Astute
+240,Spirited
+241,Tenacious
+242,Fairy Friend
+243,Sprite Queen
+244,Galvanic Field
+245,Balefrost Trained
+246,Clock Spider
+247,Life-Shot
+248,Life-Sniper
+249,Life-Eye
+250,Storm-Proof
+251,Storm-Ward
+252,Storm-Away
+253,Incredibly Infallible
+254,Hatch Catcher
+255,Devotion
+256,Balance Scout
+257,Critical Striker
+258,Ice Assailant
+259,Critical Hitter
+260,Ice Striker
+261,Icespear
+262,Add Health
+263,Health Gift
+264,Health Boost
+265,Health Bounty
+266,Wyldfire Trained
+267,Fire Hunter
+268,Plague Trained
+269,Steal Blade
+270,Ice Hunter
+271,Balance Hunter
+272,Life Finder
+273,PierceMonger
+274,Spirit Armor
+275,Get Sunbird
+276,Snow Shield
+277,Myth Shield
+278,Brown Recluse
+279,Death-Boon
+280,Death-Dealer
+281,Death-Giver
+282,Fire Shield
+283,Life Shield
+284,Dogged
+285,Calculating
+286,Cheeky
+287,Hearty
+288,Buff Minion
+289,Green Thumb
+290,Life-Away
+291,Life-Ward
+292,Pyromania
+293,Steal Charm Trained
+294,Fire-Away
+295,Fire-Ward
+296,Storm Trap
+297,Pip Conserver
+298,Might of Myth
+299,Vaporize
+300,Life Assistant
+301,Drop It
+302,Myth-Away
+303,Myth-Ward
+304,Screen
+305,Storm Assistant
+306,Magnificent Mender
+307,Mender
+308,Stormblade
+309,Distract
+310,Death Finder
+311,Energizing Battery
+312,Sword and Shield!
+313,Death-Proof
+314,Death-Ward
+315,Death-Away
+316,Expert Empowerer
+317,Subdue
+318,Pip Boost
+319,Buff Minion
+320,Heart o'Pixie
+321,Power-Taker
+322,Plague
+323,Blade Flurry
+324,Disarmament
+325,Vengeful Seraph
+326,Animate Skeleton
+327,Infector
+328,Feinting Spell
+329,Ice Hunter
+330,Wyldfire Trained
+331,Myth Trap
+332,Life Seed Farmer
+333,Myth Assailant
+334,Life Trap
+335,Go Humongo
+336,Fire Trap
+337,Blade of Life
+338,Blade of Fire
+339,Aura Crush
+340,Frostbite Trained
+341,Myth Striker
+342,Life-Bringer
+343,Life-Boon
+344,Fire-Dealer
+345,Fire-Boon
+346,Myth-Dealer
+347,Myth-Boon
+348,Ward Wrecker
+349,Cycle of Life
+350,Track-r-Treater
+351,Sleet Storm
+352,Unicorn
+353,Relentless
+354,Brilliant
+355,Powerful
+356,Mighty
+357,Death Trap
+358,Earth Walker Trained
+359,Death Ninja Pig Trained
+360,The Deer Knight Rises
+361,Ice Scout
+362,Immolate Trained
+363,Darkwind Trained
+364,Myth Hunter
+365,Mana Bounty
+366,Deathblade
+367,Crystallize
+368,Triage Trained
+369,Pet Rescue
+370,Detonate Trained
+371,Fire Assistant
+372,Bulwark
+373,Storm Hunter
+374,Smoke Screen
+375,Black Mantle Trained
+376,Dissipate
+377,Fearless Fortifier
+378,Shatter Trained
+379,Mend Minion
+380,Sprite Time
+381,Elf on Fire
+382,Big Energy
+383,Huge Energy
+384,Energy
+385,Ultra Energy
+386,Spirit Trap
+387,Balance Scout
+388,Ice Finder
+389,Storm-Boon
+390,Storm-Dealer
+391,Storm-Giver
+392,Vampire Trained
+393,Amplifier
+394,Ardent Amplifier
+395,Courageous
+396,Intrepid
+397,Refreshed
+398,Resourceful
+399,Quick-Witted
+400,Gifted
+401,Vigorous
+402,Dashing
+403,Effervescent
+404,Lively
+405,Balance of Power Trained
+406,Steal Charm Trained
+407,Power Player
+408,Feeling Weak
+409,Hexster
+410,Sap Health
+411,Balanceblade
+412,Death Shield
+413,Ice Seed Farmer
+414,Myth Finder
+415,Life Fuel
+416,Reinforce
+417,Cleanse Charm Trained
+418,Storm Finder
+419,Myth Fuel
+420,Death Scout
+421,Chastisement
+422,Storm Scout
+423,Ice Finder
+424,No Pain, No Gain
+425,Black Widow
+426,Life Finder
+427,Death Assailant
+428,Healer
+429,Medic
+430,Bullheaded
+431,Doom & Gloom Trained
+432,Guiding Light
+433,Berserker
+434,Brazen Berserker
+435,Tireless
+436,Determined
+437,Unshakeable
+438,Sword and Shield Trained
+439,Ally Thermic Shield
+440,Curse
+441,Frenzied
+442,Spirit Shield
+443,Life Seed Farmer
+444,Freeze
+445,Ally Stun Block
+446,Draw Power Trained
+447,Black Mantle
+448,Death Hunter
+449,Charm Chopper
+450,Life Scout
+451,Fire Scout
+452,Myth Scout
+453,Windstorm Trained
+454,Leafstorm Trained
+455,Cooldown Trained
+456,Smoke Screen Trained
+457,Biting Cold
+458,Legend Shield Trained
+459,Grand Phoenix
+460,Myth-Eye
+461,Myth-Sniper
+462,Myth-Shot
+463,Ally Ether Shield
+464,Ally Spirit Shield
+465,Storm Hunter
+466,Lifeblade
+467,Fireblade
+468,Wisp Bonus
+469,Hex
+470,Careful
+471,Forceful
+472,Capable
+473,Mythblade
+474,Link Trained
+475,Fuel Trained
+476,Cooldown Trained
+477,Storm Shield
+478,Armor Breaker
+479,Armor Piercer
+480,Storm Striker
+481,Defender's Rampart
+482,Cure Crusher
+483,Frozen Kraken Trained
+484,Quench
+485,Melt
+486,Life Hunter
+487,Ice Scout
+488,Namaste Trained
+489,Stun
+490,Calm
+491,Fuel
+492,Clean Ward
+493,Balance-Eye
+494,Balance-It
+495,Gold Rusher
+496,Balance-Sniper
