@@ -21,8 +21,14 @@ Hotkeys:
 - Alt+R: Reset offset.
 - Alt+F: Increase offset.
 - Alt+C: Decrease offset.
-
-**If you get a RegisterHotKey error, try closing programs that may be using one of the above hotkeys. Known conflicts are Nvidia Shadowplay and Radeon Overlay.**
+- Alt+X: Raise movement speed.
+- Alt+Z: Lower movement speed.
 
 I uploaded it in an encrypted zip archive to prevent any possible issues downloading. If you share this with anyone, please send them this archive.
 **Zip Archive Password**: `PeechezNCreem`
+
+Future Plans:
+- Fix RegisterHotKey error (conflicts with other programs; no good solution)
+- Remove the need for offset teleports (hopefully)
+- Improve movement speed hack to update on zone change (requires too much work to the current code)
+- Add Pirate101 support again (it's messy to support both x86 and x64)
